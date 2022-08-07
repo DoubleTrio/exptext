@@ -1,0 +1,8 @@
+message_SetFace(ACTOR_NPC_DAGUTORIO, FACE_NORMAL, FACE_POS_STANDARD);
+message_Talk({
+    english=" Gwah![K] Gwargh![K] Gwagagah! [hero], [c_kind:NPC_ZUBATTO]",
+    french=" Gwah![K] Gwaaaah![K]\nGwaaaaahgaaaaah! [hero], [c_kind:NPC_ZUBATTO]",
+    german=" Gwah![K] Gwargh![K] Gwagagah! [hero], [c_kind:NPC_ZUBATTO]",
+    italian=" Uh![K] Argh![K] Aaaargh! [hero], [c_kind:NPC_ZUBATTO]",
+    spanish=" ¡Ah![K] ¡Aaah![K] ¡Aaaaaaaah! [hero], [c_kind:NPC_ZUBATTO]",
+});

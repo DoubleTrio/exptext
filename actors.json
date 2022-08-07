@@ -1,0 +1,1744 @@
+{
+    "special": {
+      "hero": "Muttski",
+      "partner": "Dinsdale",
+      "team": "Poképals"
+    },
+    "actors": [
+      {
+        "id": "PLAYER",
+        "name": "Muttski",
+        "kind": "Charmander"
+      },
+      {
+        "id": "ATTENDANT1",
+        "name": "Dinsdale",
+        "kind": "Bulbasaur"
+      },
+      {
+        "id": "PLAYER_HERO",
+        "name": "Muttski",
+        "kind": "Charmander"
+      },
+      {
+        "id": "PLAYER_PARTNER",
+        "name": "Dinsdale",
+        "kind": "Bulbasaur"
+      },
+      {
+        "id": "PLAYER_PARTNER2",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "PLAYER_APPOINT",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "PLAYER_BIPPA",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "PLAYER_PUPURIN",
+        "name": "Igglybuff",
+        "kind": "Igglybuff"
+      },
+      {
+        "id": "PLAYER_KIMAWARI",
+        "name": "Sunflora",
+        "kind": "Sunflora"
+      },
+      {
+        "id": "PLAYER_FUTURE",
+        "name": "Grovyle",
+        "kind": "Grovyle"
+      },
+      {
+        "id": "PLAYER_CHARMS",
+        "name": "Lopunny",
+        "kind": "Lopunny"
+      },
+      {
+        "id": "ATTENDANT2",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "ATTENDANT_HERO",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "ATTENDANT_PARTNER",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "ATTENDANT_PARTNER2",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "ATTENDANT_APPOINT",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "ATTENDANT_BIPPA",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "ATTENDANT_PUPURIN",
+        "name": "Igglybuff",
+        "kind": "Igglybuff"
+      },
+      {
+        "id": "ATTENDANT_KIMAWARI",
+        "name": "Sunflora",
+        "kind": "Sunflora"
+      },
+      {
+        "id": "ATTENDANT_FUTURE",
+        "name": "Grovyle",
+        "kind": "Grovyle"
+      },
+      {
+        "id": "ATTENDANT_CHARMS",
+        "name": "Lopunny",
+        "kind": "Lopunny"
+      },
+      {
+        "id": "ATTENDANT_MANAFI",
+        "name": "Manaphy",
+        "kind": "Manaphy"
+      },
+      {
+        "id": "UNIT_NPC1",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "UNIT_NPC2",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "UNIT_NPC3",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "UNIT_NPC4",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "RANDOM_REQUEST_NPC01",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "RANDOM_REQUEST_NPC02",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "RANDOM_REQUEST_NPC03",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC01",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC02",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC03",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC04",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_NEW_FRIEND",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_DEMO_HERO",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_DEMO_PARTNER",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_HERO",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_PARTNER",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_PARTNER2",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_APPOINT",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_HERO_REAL",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_PARTNER_REAL",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_HERO_FIRST",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_PARTNER_FIRST",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "TALK_MAIN",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "TALK_SUB",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC_MAIN",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "EVENT_NPC_SUB",
+        "name": "???",
+        "kind": "???"
+      },
+      {
+        "id": "NPC_DEBUG",
+        "name": "Azumarill",
+        "kind": "Azumarill"
+      },
+      {
+        "id": "NPC_TEST001",
+        "name": "Kecleon",
+        "kind": "Kecleon"
+      },
+      {
+        "id": "NPC_TEST002",
+        "name": "Kecleon",
+        "kind": "Kecleon"
+      },
+      {
+        "id": "NPC_TEST003",
+        "name": "Persian",
+        "kind": "Persian"
+      },
+      {
+        "id": "NPC_TEST004",
+        "name": "Kangaskhan",
+        "kind": "Kangaskhan"
+      },
+      {
+        "id": "NPC_TEST005",
+        "name": "Lombre",
+        "kind": "Lombre"
+      },
+      {
+        "id": "NPC_TEST006",
+        "name": "Snubbull",
+        "kind": "Snubbull"
+      },
+      {
+        "id": "NPC_TEST007",
+        "name": "Granbull",
+        "kind": "Granbull"
+      },
+      {
+        "id": "NPC_TEST008",
+        "name": "Makuhita",
+        "kind": "Makuhita"
+      },
+      {
+        "id": "NPC_TEST009",
+        "name": "Magnemite",
+        "kind": "Magnemite"
+      },
+      {
+        "id": "NPC_TEST010",
+        "name": "Jumpluff",
+        "kind": "Jumpluff"
+      },
+      {
+        "id": "NPC_PUKURIN",
+        "name": "Wigglytuff",
+        "kind": "Wigglytuff"
+      },
+      {
+        "id": "NPC_ZUBATTO",
+        "name": "Zubat",
+        "kind": "Zubat"
+      },
+      {
+        "id": "NPC_DIGUDA",
+        "name": "Diglett",
+        "kind": "Diglett"
+      },
+      {
+        "id": "NPC_DAGUTORIO",
+        "name": "Dugtrio",
+        "kind": "Dugtrio"
+      },
+      {
+        "id": "NPC_MANKII",
+        "name": "Mankey",
+        "kind": "Mankey"
+      },
+      {
+        "id": "NPC_OKORIZARU",
+        "name": "Primeape",
+        "kind": "Primeape"
+      },
+      {
+        "id": "NPC_KOIRU",
+        "name": "Magnemite",
+        "kind": "Magnemite"
+      },
+      {
+        "id": "NPC_SURIIPU",
+        "name": "Drowzee",
+        "kind": "Drowzee"
+      },
+      {
+        "id": "NPC_KURABU",
+        "name": "Krabby",
+        "kind": "Krabby"
+      },
+      {
+        "id": "NPC_GARAGARA",
+        "name": "Marowak",
+        "kind": "Marowak"
+      },
+      {
+        "id": "NPC_DOGAASU",
+        "name": "Koffing",
+        "kind": "Koffing"
+      },
+      {
+        "id": "NPC_RAKKII",
+        "name": "Chansey",
+        "kind": "Chansey"
+      },
+      {
+        "id": "NPC_GARUURA",
+        "name": "Kangaskhan",
+        "kind": "Kangaskhan"
+      },
+      {
+        "id": "NPC_GYARADOSU",
+        "name": "Gyarados",
+        "kind": "Gyarados"
+      },
+      {
+        "id": "NPC_RAPURASU",
+        "name": "Lapras",
+        "kind": "Lapras"
+      },
+      {
+        "id": "NPC_OMUSUTAA",
+        "name": "Omastar",
+        "kind": "Omastar"
+      },
+      {
+        "id": "NPC_OMUSUTAA2",
+        "name": "Omastar",
+        "kind": "Omastar"
+      },
+      {
+        "id": "NPC_KABUTOPUSU",
+        "name": "Kabutops",
+        "kind": "Kabutops"
+      },
+      {
+        "id": "NPC_NEITYIO",
+        "name": "Xatu",
+        "kind": "Xatu"
+      },
+      {
+        "id": "NPC_DENRYUU",
+        "name": "Ampharos",
+        "kind": "Ampharos"
+      },
+      {
+        "id": "NPC_MARIRU",
+        "name": "Marill",
+        "kind": "Marill"
+      },
+      {
+        "id": "NPC_USOKKII",
+        "name": "Sudowoodo",
+        "kind": "Sudowoodo"
+      },
+      {
+        "id": "NPC_KIMAWARI",
+        "name": "Sunflora",
+        "kind": "Sunflora"
+      },
+      {
+        "id": "NPC_HIMEGUMA",
+        "name": "Teddiursa",
+        "kind": "Teddiursa"
+      },
+      {
+        "id": "NPC_RINGUMA",
+        "name": "Ursaring",
+        "kind": "Ursaring"
+      },
+      {
+        "id": "NPC_SEREBII",
+        "name": "Celebi",
+        "kind": "Celebi"
+      },
+      {
+        "id": "NPC_JUPUTORU",
+        "name": "Grovyle",
+        "kind": "Grovyle"
+      },
+      {
+        "id": "NPC_PERIPPAA1",
+        "name": "Pelipper",
+        "kind": "Pelipper"
+      },
+      {
+        "id": "NPC_PERIPPAA2",
+        "name": "Pelipper",
+        "kind": "Pelipper"
+      },
+      {
+        "id": "NPC_YARUKIMONO",
+        "name": "Vigoroth",
+        "kind": "Vigoroth"
+      },
+      {
+        "id": "NPC_DOGOOMU",
+        "name": "Loudred",
+        "kind": "Loudred"
+      },
+      {
+        "id": "NPC_RURIRI",
+        "name": "Azurill",
+        "kind": "Azurill"
+      },
+      {
+        "id": "NPC_YAMIRAMI",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_CHAAREMU",
+        "name": "Medicham",
+        "kind": "Medicham"
+      },
+      {
+        "id": "NPC_KOOTASU",
+        "name": "Torkoal",
+        "kind": "Torkoal"
+      },
+      {
+        "id": "NPC_BANEBUU",
+        "name": "Spoink",
+        "kind": "Spoink"
+      },
+      {
+        "id": "NPC_HEIGANI",
+        "name": "Corphish",
+        "kind": "Corphish"
+      },
+      {
+        "id": "NPC_KAKUREON1",
+        "name": "KecleonG",
+        "kind": "KecleonG"
+      },
+      {
+        "id": "NPC_KAKUREON2",
+        "name": "KecleonP",
+        "kind": "KecleonP"
+      },
+      {
+        "id": "NPC_YOMAWARU",
+        "name": "Duskull",
+        "kind": "Duskull"
+      },
+      {
+        "id": "NPC_CHIRIIN",
+        "name": "Chimecho",
+        "kind": "Chimecho"
+      },
+      {
+        "id": "NPC_REJIROKKU",
+        "name": "Regirock",
+        "kind": "Regirock"
+      },
+      {
+        "id": "NPC_REJIAISU",
+        "name": "Regice",
+        "kind": "Regice"
+      },
+      {
+        "id": "NPC_REJISUCHIRU",
+        "name": "Registeel",
+        "kind": "Registeel"
+      },
+      {
+        "id": "NPC_GURAADON",
+        "name": "Groundon",
+        "kind": "Groundon"
+      },
+      {
+        "id": "NPC_BIPPA",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "NPC_RUKUSHIO1",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO2",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RENTORAA",
+        "name": "Luxray",
+        "kind": "Luxray"
+      },
+      {
+        "id": "NPC_MIMIROPPU",
+        "name": "Lopunny",
+        "kind": "Lopunny"
+      },
+      {
+        "id": "NPC_SUKATANKU",
+        "name": "Skuntank",
+        "kind": "Skuntank"
+      },
+      {
+        "id": "NPC_MANENE",
+        "name": "Mime Jr.",
+        "kind": "Mime Jr."
+      },
+      {
+        "id": "NPC_PERAPPU",
+        "name": "Chatot",
+        "kind": "Chatot"
+      },
+      {
+        "id": "NPC_MIKARUGE",
+        "name": "Spiritomb",
+        "kind": "Spiritomb"
+      },
+      {
+        "id": "NPC_GUREGGURU",
+        "name": "Croagunk",
+        "kind": "Croagunk"
+      },
+      {
+        "id": "NPC_JIBAKOIRU",
+        "name": "Magnezone",
+        "kind": "Magnezone"
+      },
+      {
+        "id": "NPC_EREKIBURU",
+        "name": "Electivire",
+        "kind": "Electivire"
+      },
+      {
+        "id": "NPC_YONOWAARU",
+        "name": "Dusknoir",
+        "kind": "Dusknoir"
+      },
+      {
+        "id": "NPC_YUKUSHII",
+        "name": "Uxie",
+        "kind": "Uxie"
+      },
+      {
+        "id": "NPC_EMURITTO",
+        "name": "Mesprit",
+        "kind": "Mesprit"
+      },
+      {
+        "id": "NPC_AGUNOMU",
+        "name": "Azelf",
+        "kind": "Azelf"
+      },
+      {
+        "id": "NPC_DIARUGA",
+        "name": "Dialga",
+        "kind": "Dialga"
+      },
+      {
+        "id": "NPC_PARUKIA",
+        "name": "Palkia",
+        "kind": "Palkia"
+      },
+      {
+        "id": "NPC_REJIGIGASU",
+        "name": "Regigigas",
+        "kind": "Regigigas"
+      },
+      {
+        "id": "NPC_GIRATYINA",
+        "name": "Giratina",
+        "kind": "Giratina"
+      },
+      {
+        "id": "NPC_KURESERIA",
+        "name": "Cresselia",
+        "kind": "Cresselia"
+      },
+      {
+        "id": "NPC_FIONE1",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE2",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE3",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE4",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE5",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE6",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE7",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_FIONE8",
+        "name": "Phione",
+        "kind": "Phione"
+      },
+      {
+        "id": "NPC_MANAFI",
+        "name": "Manaphy",
+        "kind": "Manaphy"
+      },
+      {
+        "id": "NPC_DAAKURAI",
+        "name": "Darkrai",
+        "kind": "Darkrai"
+      },
+      {
+        "id": "NPC_KOIRU2",
+        "name": "Magnemite",
+        "kind": "Magnemite"
+      },
+      {
+        "id": "NPC_POPPO",
+        "name": "Pidgey",
+        "kind": "Pidgey"
+      },
+      {
+        "id": "NPC_TANEBOO",
+        "name": "Seedot",
+        "kind": "Seedot"
+      },
+      {
+        "id": "NPC_OOSUBAME",
+        "name": "Swellow",
+        "kind": "Swellow"
+      },
+      {
+        "id": "NPC_KEMUSSO",
+        "name": "Wurmple",
+        "kind": "Wurmple"
+      },
+      {
+        "id": "NPC_BURAKKII",
+        "name": "Umbreon",
+        "kind": "Umbreon"
+      },
+      {
+        "id": "NPC_KAGEBOUZU",
+        "name": "Shuppet",
+        "kind": "Shuppet"
+      },
+      {
+        "id": "NPC_YAMIKARASU",
+        "name": "Murkrow",
+        "kind": "Murkrow"
+      },
+      {
+        "id": "NPC_POCHIENA_A",
+        "name": "Poochyena",
+        "kind": "Poochyena"
+      },
+      {
+        "id": "NPC_POCHIENA_B",
+        "name": "Poochyena",
+        "kind": "Poochyena"
+      },
+      {
+        "id": "NPC_POCHIENA_C",
+        "name": "Poochyena",
+        "kind": "Poochyena"
+      },
+      {
+        "id": "NPC_ZANGUUSU",
+        "name": "Zangoose",
+        "kind": "Zangoose"
+      },
+      {
+        "id": "NPC_SUTORAIKU",
+        "name": "Scyther",
+        "kind": "Scyther"
+      },
+      {
+        "id": "NPC_SANDOPAN",
+        "name": "Sandslash",
+        "kind": "Sandslash"
+      },
+      {
+        "id": "NPC_PONIITA",
+        "name": "Ponyta",
+        "kind": "Ponyta"
+      },
+      {
+        "id": "NPC_BAKUUDA",
+        "name": "Camerupt",
+        "kind": "Camerupt"
+      },
+      {
+        "id": "NPC_MADATSUBOMI",
+        "name": "Bellsprout",
+        "kind": "Bellsprout"
+      },
+      {
+        "id": "NPC_TOGEPII",
+        "name": "Togepi",
+        "kind": "Togepi"
+      },
+      {
+        "id": "NPC_NYOROTONO",
+        "name": "Politoed",
+        "kind": "Politoed"
+      },
+      {
+        "id": "NPC_REDIBA",
+        "name": "Ledyba",
+        "kind": "Ledyba"
+      },
+      {
+        "id": "NPC_YADON",
+        "name": "Slowpoke",
+        "kind": "Slowpoke"
+      },
+      {
+        "id": "NPC_NAMAKERO",
+        "name": "Slakoth",
+        "kind": "Slakoth"
+      },
+      {
+        "id": "NPC_ERUREIDO",
+        "name": "Gallade",
+        "kind": "Gallade"
+      },
+      {
+        "id": "NPC_ROZUREIDO",
+        "name": "Roserade",
+        "kind": "Roserade"
+      },
+      {
+        "id": "NPC_DOSAIDON",
+        "name": "Rhyperior",
+        "kind": "Rhyperior"
+      },
+      {
+        "id": "NPC_MANYUURA",
+        "name": "Weavile",
+        "kind": "Weavile"
+      },
+      {
+        "id": "NPC_AABOKKU",
+        "name": "Arbok",
+        "kind": "Arbok"
+      },
+      {
+        "id": "NPC_DORAPION",
+        "name": "Drapion",
+        "kind": "Drapion"
+      },
+      {
+        "id": "NPC_BASHAAMO",
+        "name": "Blaziken",
+        "kind": "Blaziken"
+      },
+      {
+        "id": "NPC_ENPERUTO",
+        "name": "Empoleon",
+        "kind": "Empoleon"
+      },
+      {
+        "id": "NPC_HERAKUROSU",
+        "name": "Heracross",
+        "kind": "Heracross"
+      },
+      {
+        "id": "NPC_DERUBIRU_A",
+        "name": "Houndour",
+        "kind": "Houndour"
+      },
+      {
+        "id": "NPC_DERUBIRU_B",
+        "name": "Houndour",
+        "kind": "Houndour"
+      },
+      {
+        "id": "NPC_DERUBIRU_C",
+        "name": "Houndour",
+        "kind": "Houndour"
+      },
+      {
+        "id": "NPC_SAANAITO",
+        "name": "Gardevoir",
+        "kind": "Gardevoir"
+      },
+      {
+        "id": "NPC_TODOZERUGA",
+        "name": "Walrein",
+        "kind": "Walrein"
+      },
+      {
+        "id": "NPC_HASSAMU",
+        "name": "Scizor",
+        "kind": "Scizor"
+      },
+      {
+        "id": "NPC_BARIYAADO",
+        "name": "Mr. Mime",
+        "kind": "Mr. Mime"
+      },
+      {
+        "id": "NPC_FURIIZAA",
+        "name": "Articuno",
+        "kind": "Articuno"
+      },
+      {
+        "id": "NPC_YUKIMENOKO",
+        "name": "Froslass",
+        "kind": "Froslass"
+      },
+      {
+        "id": "NPC_RINGUMA2",
+        "name": "Ursaring",
+        "kind": "Ursaring"
+      },
+      {
+        "id": "NPC_YAMIRAMI2",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_YAMIRAMI3",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_YAMIRAMI4",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_YAMIRAMI5",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_YAMIRAMI6",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_RUKUSHIO3",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO4",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO5",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO6",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO7",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_RUKUSHIO8",
+        "name": "Luxio",
+        "kind": "Luxio"
+      },
+      {
+        "id": "NPC_HIIDORAN",
+        "name": "Heatran",
+        "kind": "Heatran"
+      },
+      {
+        "id": "NPC_RUGIA",
+        "name": "Lugia",
+        "kind": "Lugia"
+      },
+      {
+        "id": "NPC_MYUU",
+        "name": "Mew",
+        "kind": "Mew"
+      },
+      {
+        "id": "NPC_HOUOU",
+        "name": "Ho-Oh",
+        "kind": "Ho-Oh"
+      },
+      {
+        "id": "NPC_S_CHIRIIN",
+        "name": "Chimecho",
+        "kind": "Chimecho"
+      },
+      {
+        "id": "NPC_S_PUKURIN",
+        "name": "Wigglytuff",
+        "kind": "Wigglytuff"
+      },
+      {
+        "id": "NPC_S_YUKUSHII",
+        "name": "Uxie",
+        "kind": "Uxie"
+      },
+      {
+        "id": "NPC_S_AGUNOMU",
+        "name": "Azelf",
+        "kind": "Azelf"
+      },
+      {
+        "id": "NPC_S_EMURITTO",
+        "name": "Mesprit",
+        "kind": "Mesprit"
+      },
+      {
+        "id": "NPC_S_KIMAWARI",
+        "name": "Sunflora",
+        "kind": "Sunflora"
+      },
+      {
+        "id": "NPC_S_DIGUDA",
+        "name": "Diglett",
+        "kind": "Diglett"
+      },
+      {
+        "id": "NPC_S_DAGUTORIO",
+        "name": "Dugtrio",
+        "kind": "Dugtrio"
+      },
+      {
+        "id": "NPC_S_HEIGANI",
+        "name": "Corphish",
+        "kind": "Corphish"
+      },
+      {
+        "id": "NPC_S_DOGOOMU",
+        "name": "Loudred",
+        "kind": "Loudred"
+      },
+      {
+        "id": "NPC_S_BIPPA",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "NPC_S_PERAPPU",
+        "name": "Chatot",
+        "kind": "Chatot"
+      },
+      {
+        "id": "NPC_S_JUPUTORU",
+        "name": "Grovyle",
+        "kind": "Grovyle"
+      },
+      {
+        "id": "NPC_S_YONOWAARU",
+        "name": "Dusknoir",
+        "kind": "Dusknoir"
+      },
+      {
+        "id": "NPC_S_YAMIRAMI1",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_S_YAMIRAMI2",
+        "name": "Sableye",
+        "kind": "Sableye"
+      },
+      {
+        "id": "NPC_DARK_PUKURIN",
+        "name": "Wigglytuff",
+        "kind": "Wigglytuff"
+      },
+      {
+        "id": "NPC_DOOTAKUN1",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_DOOTAKUN2",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_DOOTAKUN3",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_DOOTAKUN4",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_DOOTAKUN5",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_DOOTAKUN6",
+        "name": "Bronzong",
+        "kind": "Bronzong"
+      },
+      {
+        "id": "NPC_SAWAMURAA1",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_SAWAMURAA2",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_SAWAMURAA3",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_SAWAMURAA4",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_SAWAMURAA5",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_SAWAMURAA6",
+        "name": "Hitmonlee",
+        "kind": "Hitmonlee"
+      },
+      {
+        "id": "NPC_DARK_DIARUGA",
+        "name": "Dialga",
+        "kind": "Dialga"
+      },
+      {
+        "id": "NPC_SHADOW_DAAKURAI",
+        "name": "Darkrai",
+        "kind": "Darkrai"
+      },
+      {
+        "id": "NPC_KURESERIA2",
+        "name": "Cresselia",
+        "kind": "Cresselia"
+      },
+      {
+        "id": "NPC_BOSUGODORA",
+        "name": "Aggron",
+        "kind": "Aggron"
+      },
+      {
+        "id": "NPC_MAGUKARUGO",
+        "name": "Magcargo",
+        "kind": "Magcargo"
+      },
+      {
+        "id": "NPC_BUUBAAN",
+        "name": "Magmortar",
+        "kind": "Magmortar"
+      },
+      {
+        "id": "NPC_MUUMAAJI",
+        "name": "Mismagius",
+        "kind": "Mismagius"
+      },
+      {
+        "id": "NPC_BARUBIITO1",
+        "name": "Volbeat",
+        "kind": "Volbeat"
+      },
+      {
+        "id": "NPC_BARUBIITO2",
+        "name": "Volbeat",
+        "kind": "Volbeat"
+      },
+      {
+        "id": "NPC_BARUBIITO3",
+        "name": "Volbeat",
+        "kind": "Volbeat"
+      },
+      {
+        "id": "NPC_BARUBIITO4",
+        "name": "Volbeat",
+        "kind": "Volbeat"
+      },
+      {
+        "id": "NPC_IRUMIIZE1",
+        "name": "Illumise",
+        "kind": "Illumise"
+      },
+      {
+        "id": "NPC_IRUMIIZE2",
+        "name": "Illumise",
+        "kind": "Illumise"
+      },
+      {
+        "id": "NPC_IRUMIIZE3",
+        "name": "Illumise",
+        "kind": "Illumise"
+      },
+      {
+        "id": "NPC_IRUMIIZE4",
+        "name": "Illumise",
+        "kind": "Illumise"
+      },
+      {
+        "id": "NPC_GABAITO",
+        "name": "Gabite",
+        "kind": "Gabite"
+      },
+      {
+        "id": "NPC_REKKUUZA",
+        "name": "Rayquaza",
+        "kind": "Rayquaza"
+      },
+      {
+        "id": "NPC_KAIOOGA",
+        "name": "Kyogre",
+        "kind": "Kyogre"
+      },
+      {
+        "id": "NPC_JIRAACHI",
+        "name": "Jirachi",
+        "kind": "Jirachi"
+      },
+      {
+        "id": "NPC_BIIDARU",
+        "name": "Biberel",
+        "kind": "Biberel"
+      },
+      {
+        "id": "NPC_BIPPA_BRO",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "NPC_BIPPA_SIS",
+        "name": "Bidoof",
+        "kind": "Bidoof"
+      },
+      {
+        "id": "NPC_GURAIGAA",
+        "name": "Gligar",
+        "kind": "Gligar"
+      },
+      {
+        "id": "NPC_TATSUBEI",
+        "name": "Bagon",
+        "kind": "Bagon"
+      },
+      {
+        "id": "NPC_YUKIKABURI",
+        "name": "Snover",
+        "kind": "Snover"
+      },
+      {
+        "id": "NPC_MANMUU",
+        "name": "Mamoswine",
+        "kind": "Mamoswine"
+      },
+      {
+        "id": "NPC_ONIGOORI",
+        "name": "Glalie",
+        "kind": "Glalie"
+      },
+      {
+        "id": "NPC_ONIGOOR2",
+        "name": "Glalie",
+        "kind": "Glalie"
+      },
+      {
+        "id": "NPC_ONIGOOR3",
+        "name": "Glalie",
+        "kind": "Glalie"
+      },
+      {
+        "id": "NPC_ONIGOORI4",
+        "name": "Glalie",
+        "kind": "Glalie"
+      },
+      {
+        "id": "NPC_PORIGON",
+        "name": "Porygon",
+        "kind": "Porygon"
+      },
+      {
+        "id": "NPC_PORIGON2",
+        "name": "Porygon",
+        "kind": "Porygon"
+      },
+      {
+        "id": "NPC_YUKIWARASHI",
+        "name": "Snorunt",
+        "kind": "Snorunt"
+      },
+      {
+        "id": "NPC_YUKIWARASHI2",
+        "name": "Snorunt",
+        "kind": "Snorunt"
+      },
+      {
+        "id": "NPC_YUKIWARASHI3",
+        "name": "Snorunt",
+        "kind": "Snorunt"
+      },
+      {
+        "id": "NPC_YUKIWARASHI4",
+        "name": "Snorunt",
+        "kind": "Snorunt"
+      },
+      {
+        "id": "NPC_JUPETTA",
+        "name": "Banette",
+        "kind": "Banette"
+      },
+      {
+        "id": "NPC_SUKORUPI",
+        "name": "Skorupi",
+        "kind": "Skorupi"
+      },
+      {
+        "id": "NPC_AAMARUDO",
+        "name": "Armaldo",
+        "kind": "Armaldo"
+      },
+      {
+        "id": "NPC_PUKURIN_PAPA",
+        "name": "Wigglytuff",
+        "kind": "Wigglytuff"
+      },
+      {
+        "id": "NPC_PUKURIN_MAMA",
+        "name": "Wigglytuff",
+        "kind": "Wigglytuff"
+      },
+      {
+        "id": "NPC_UPAA",
+        "name": "Wooper",
+        "kind": "Wooper"
+      },
+      {
+        "id": "NPC_MUCHUURU",
+        "name": "Smoochum",
+        "kind": "Smoochum"
+      },
+      {
+        "id": "NPC_SUBOMII",
+        "name": "Budew",
+        "kind": "Budew"
+      },
+      {
+        "id": "NPC_NIDOKINGU",
+        "name": "Nidoking",
+        "kind": "Nidoking"
+      },
+      {
+        "id": "NPC_SOONANO",
+        "name": "Wynaut",
+        "kind": "Wynaut"
+      },
+      {
+        "id": "NPC_SOONANSU",
+        "name": "Wobbuffet",
+        "kind": "Wobbuffet"
+      },
+      {
+        "id": "NPC_PATCHIIRU",
+        "name": "Spinda",
+        "kind": "Spinda"
+      },
+      {
+        "id": "NPC_OKUTAN",
+        "name": "Octillery",
+        "kind": "Octillery"
+      },
+      {
+        "id": "NPC_TSUBOTSUBO",
+        "name": "Shuckle",
+        "kind": "Shuckle"
+      },
+      {
+        "id": "NPC_RUNPAPPA",
+        "name": "Ludicolo",
+        "kind": "Ludicolo"
+      },
+      {
+        "id": "NPC_RUNPAPPA2",
+        "name": "Ludicolo",
+        "kind": "Ludicolo"
+      },
+      {
+        "id": "NPC_RUNPAPPA3",
+        "name": "Ludicolo",
+        "kind": "Ludicolo"
+      },
+      {
+        "id": "NPC_RUNPAPPA4",
+        "name": "Ludicolo",
+        "kind": "Ludicolo"
+      },
+      {
+        "id": "NPC_RUNPAPPA5",
+        "name": "Ludicolo",
+        "kind": "Ludicolo"
+      },
+      {
+        "id": "NPC_NASSHII",
+        "name": "Exeggutor",
+        "kind": "Exeggutor"
+      },
+      {
+        "id": "NPC_SHEIMI",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_SHEIMI2",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_SHEIMI3",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_SHEIMI4",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_SHEIMI5",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_GOORIKII",
+        "name": "Machoke",
+        "kind": "Machoke"
+      },
+      {
+        "id": "NPC_KINOGASSA",
+        "name": "Breloom",
+        "kind": "Breloom"
+      },
+      {
+        "id": "NPC_KUCHIITO",
+        "name": "Mawile",
+        "kind": "Mawile"
+      },
+      {
+        "id": "NPC_NYUURA",
+        "name": "Sneasel",
+        "kind": "Sneasel"
+      },
+      {
+        "id": "NPC_KOIKINGU",
+        "name": "Magikarp",
+        "kind": "Magikarp"
+      },
+      {
+        "id": "NPC_HINBASU",
+        "name": "Feebas",
+        "kind": "Feebas"
+      },
+      {
+        "id": "NPC_FUWARAIDO",
+        "name": "Drifblim",
+        "kind": "Drifblim"
+      },
+      {
+        "id": "NPC_TAMATAMA",
+        "name": "Exeggcute",
+        "kind": "Exeggcute"
+      },
+      {
+        "id": "NPC_JIGUZAGUMA",
+        "name": "Zigzagoon",
+        "kind": "Zigzagoon"
+      },
+      {
+        "id": "NPC_MASUKIPPA",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_MASUKIPPA2",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_MASUKIPPA3",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_MASUKIPPA4",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_MASUKIPPA5",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_MASUKIPPA6",
+        "name": "Carnivine",
+        "kind": "Carnivine"
+      },
+      {
+        "id": "NPC_BETOBETAA",
+        "name": "Grimer",
+        "kind": "Grimer"
+      },
+      {
+        "id": "NPC_BETOBETAA2",
+        "name": "Grimer",
+        "kind": "Grimer"
+      },
+      {
+        "id": "NPC_BETOBETAA3",
+        "name": "Grimer",
+        "kind": "Grimer"
+      },
+      {
+        "id": "NPC_BETOBETAA4",
+        "name": "Grimer",
+        "kind": "Grimer"
+      },
+      {
+        "id": "NPC_BETOBETAA5",
+        "name": "Grimer",
+        "kind": "Grimer"
+      },
+      {
+        "id": "NPC_BETOBETON",
+        "name": "Muk",
+        "kind": "Muk"
+      },
+      {
+        "id": "NPC_BETOBETON2",
+        "name": "Muk",
+        "kind": "Muk"
+      },
+      {
+        "id": "NPC_BETOBETON3",
+        "name": "Muk",
+        "kind": "Muk"
+      },
+      {
+        "id": "NPC_DERIBAADO",
+        "name": "Delibird",
+        "kind": "Delibird"
+      },
+      {
+        "id": "NPC_MERIIPU",
+        "name": "Mareep",
+        "kind": "Mareep"
+      },
+      {
+        "id": "NPC_WATAKKO",
+        "name": "Jumpluff",
+        "kind": "Jumpluff"
+      },
+      {
+        "id": "NPC_DONMERU",
+        "name": "Numel",
+        "kind": "Numel"
+      },
+      {
+        "id": "NPC_PACHIRISU",
+        "name": "Pachirisu",
+        "kind": "Pachirisu"
+      },
+      {
+        "id": "NPC_KIREIHANA",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_KIREIHANA2",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_KIREIHANA3",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_KIREIHANA4",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_KIREIHANA5",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_KIREIHANA6",
+        "name": "Lairon",
+        "kind": "Lairon"
+      },
+      {
+        "id": "NPC_METAMON",
+        "name": "Ditto",
+        "kind": "Ditto"
+      },
+      {
+        "id": "NPC_GOROON",
+        "name": "Graveler",
+        "kind": "Graveler"
+      },
+      {
+        "id": "NPC_OTACHI",
+        "name": "Sentret",
+        "kind": "Sentret"
+      },
+      {
+        "id": "NPC_HERUGAA",
+        "name": "Houndoom",
+        "kind": "Houndoom"
+      },
+      {
+        "id": "NPC_NOKUTASU",
+        "name": "Cacturne",
+        "kind": "Cacturne"
+      },
+      {
+        "id": "NPC_NOKOTCHI",
+        "name": "Dunsparce",
+        "kind": "Dunsparce"
+      },
+      {
+        "id": "NPC_GOOSUTO",
+        "name": "Haunter",
+        "kind": "Haunter"
+      },
+      {
+        "id": "NPC_GOOSUTO2",
+        "name": "Haunter",
+        "kind": "Haunter"
+      },
+      {
+        "id": "NPC_GOOSUTO3",
+        "name": "Haunter",
+        "kind": "Haunter"
+      },
+      {
+        "id": "NPC_MAGUMAGGU",
+        "name": "Slugma",
+        "kind": "Slugma"
+      },
+      {
+        "id": "NPC_MAGUMAGGU2",
+        "name": "Slugma",
+        "kind": "Slugma"
+      },
+      {
+        "id": "NPC_SHEIMI_FC",
+        "name": "Shaymin",
+        "kind": "Shaymin"
+      },
+      {
+        "id": "NPC_RAIBORUTO",
+        "name": "Manectric",
+        "kind": "Manectric"
+      },
+      {
+        "id": "NPC_RAKURAI",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI3",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI4",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI5",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI6",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI7",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_RAKURAI8",
+        "name": "Eletrike",
+        "kind": "Eletrike"
+      },
+      {
+        "id": "NPC_YONOWAARU_N8",
+        "name": "Dusknoir",
+        "kind": "Dusknoir"
+      },
+      {
+        "id": "NPC_YONOWAARU_N9",
+        "name": "Dusknoir",
+        "kind": "Dusknoir"
+      },
+      {
+        "id": "NPC_METAMON_OTACHI",
+        "name": "Sentret",
+        "kind": "Sentret"
+      },
+      {
+        "id": "NPC_METAMON_KIREIHANA",
+        "name": "Bellossom",
+        "kind": "Bellossom"
+      },
+      {
+        "id": "NPC_BIIKUIN",
+        "name": "Probopass",
+        "kind": "Probopass"
+      },
+      {
+        "id": "NPC_BIIKUIN",
+        "name": "Vespiquen",
+        "kind": "Vespiquen"
+      },
+      {
+        "id": "NPC_DAINOOZU",
+        "name": "Probopass",
+        "kind": "Probopass"
+      },
+      {
+        "id": "NPC_BAKUONGU",
+        "name": "Exploud",
+        "kind": "Exploud"
+      },
+      {
+        "id": "NPC_NENDOORU",
+        "name": "Claydol",
+        "kind": "Claydol"
+      },
+      {
+        "id": "NPC_MEGAYANMA",
+        "name": "Yanmega",
+        "kind": "Yanmega"
+      },
+      {
+        "id": "NPC_PINPUKU",
+        "name": "Happiny",
+        "kind": "Happiny"
+      }
+    ]
+  }
