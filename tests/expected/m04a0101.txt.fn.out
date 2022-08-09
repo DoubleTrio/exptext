@@ -1,0 +1,165 @@
+35      [Loudred]:  HEY, you two!
+36      [Loudred]:  HEP LA, vous deux!
+37      [Loudred]:  HEY, ihr zwei!
+38      [Loudred]:  EHI, voi due!
+39      [Loudred]:  ¡EH! ¡PAREJA!
+97      [Loudred]:  We need your help with\nsomething today!
+98      [Loudred]:  On a besoin de votre aide\naujourd\'hui!
+99      [Loudred]:  Wir brauchen heute eure Hilfe!
+100     [Loudred]:  Oggi ci serve il vostro aiuto\nper una cosetta!
+101     [Loudred]:  ¡Hoy necesitamos que nos\nayudéis con una cosa!
+136     [Loudred]:  [CS:N]Diglett[CR], I brought them!
+137     [Loudred]:  [CS:N]Taupiqueur[CR], les voilà!
+138     [Loudred]:  [CS:N]Digda[CR], hier sind sie!
+139     [Loudred]:  [CS:N]Diglett[CR], ecco qui!
+140     [Loudred]:  ¡[CS:N]Diglett[CR], aquí están!
+149     [Diglett]:  Thank you, [CS:N]Loudred[CR].
+150     [Diglett]:  Merci, [CS:N]Ramboum[CR].
+151     [Diglett]:  Danke, [CS:N]Krakeelo[CR].
+152     [Diglett]:  Grazie, [CS:N]Loudred[CR].
+153     [Diglett]:  Gracias, [CS:N]Loudred[CR].
+174     [Loudred]:  You two are doing sentry\nduty today!
+175     [Loudred]:  Aujourd\'hui, vous allez être\nde garde à l\'entrée!
+176     [Loudred]:  Ihr beide übernehmt heute den\nWachdienst!
+177     [Loudred]:  Voi due siete di guardia oggi!
+178     [Loudred]:  ¡Hoy os toca guardia!
+195     [Diglett]:  Sorry. I\'m usually the one to do\nsentry duty.
+196     [Diglett]:  Désolé. Normalement, c\'est moi\nla sentinelle.
+197     [Diglett]:  Tut mir leid. Normalerweise ist\nder Wachdienst meine Aufgabe.
+198     [Diglett]:  Mi spiace. Di solito lo faccio io.
+199     [Diglett]:  Lo siento. Normalmente soy yo\nquien se ocupa de esto.
+202     [Diglett]:  But today, my dad gave me his\nduty of updating the boards.
+203     [Diglett]:  Mais aujourd\'hui, je dois\naccomplir les tâches de mon père,\nc\'est-à-dire mettre les tableaux à jour.
+204     [Diglett]:  Aber heute hat mein Vater mir\naufgetragen, die Infobretter zu aktualisieren.
+205     [Diglett]:  Ma oggi mio padre mi ha chiesto\ndi aggiornare le Bacheche al suo posto.
+206     [Diglett]:  Pero mi padre me ha pedido\nque me encargue hoy de poner al día\nlos tablones.
+209     [Diglett]:  That\'s why I can\'t man my post.
+210     [Diglett]:  Et c\'est pour ça que je ne peux\npas être à mon poste.
+211     [Diglett]:  Also kann ich nicht auf meinem\nPosten sein.
+212     [Diglett]:  Per questo non posso stare di \nguardia.
+213     [Diglett]:  Y por eso no puedo quedarme de\nguardia.
+216     [Diglett]:  It would be great if someone\ncould take over my sentry duty for today.
+217     [Diglett]:  Ce serait super si quelqu\'un\npouvait s\'occuper du poste de garde\naujourd\'hui.
+218     [Diglett]:  Es wäre toll, wenn heute jemand\nden Wachdienst für mich übernehmen könnte.
+219     [Diglett]:  Sarebbe fantastico se qualcuno\npotesse prendere il mio posto.
+220     [Diglett]:  Y alguien debe ocupar mi puesto.
+223     [Diglett]:  And that\'s why you\'re here.\nPlease do a good job for me.[K] Bye!
+224     [Diglett]:  Et c\'est pour ça que vous êtes\nici. S\'il vous plaît, travaillez bien.[K] A plus!
+225     [Diglett]:  Und darum seid ihr hier.\nBitte macht meinen Job gut.[K] Tschüss!
+226     [Diglett]:  Ed ecco perché siete qui.\nVi prego di fare un buon lavoro.[K] Ciao!
+227     [Diglett]:  Por eso estáis aquí. Espero\nque hagáis un buen trabajo.[K] ¡Hasta luego!
+262     [Loudred]:  ...And that\'s THAT.
+263     [Loudred]:  ... Et c\'est TOUT.
+264     [Loudred]:  Das ist ALLES!
+265     [Loudred]:  ... E così è DECISO.
+266     [Loudred]:  Pues... No hay más que hablar.
+284     [Kunan](1):  Huh?! I didn\'t follow that at all!\nWhy are we involved?
+285     [Kunan](1):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+286     [Kunan](1):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+287     [Kunan](1):  Eh?! Cos\'ha detto?\nPerché dobbiamo farlo noi?
+288     [Kunan](1):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+292     [Kunan](2):  Huh?! I didn\'t follow that at all!\nWhy are we involved in this?
+293     [Kunan](2):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+294     [Kunan](2):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+295     [Kunan](2):  Eh?! Non sono riuscito a seguire\nquello che diceva! Perché dobbiamo farlo noi?
+296     [Kunan](2):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+300     [Kunan](3):  Huh?! I didn\'t follow that at all!\nHow did we get involved in this?
+301     [Kunan](3):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+302     [Kunan](3):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+303     [Kunan](3):  Eh?! Cosa voleva dire?\nPerché dobbiamo farlo noi?
+304     [Kunan](3):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+347     [Loudred]:  Shut your YAP!
+348     [Loudred]:  On se TAIT!
+349     [Loudred]:  Halt die KLAPPE!
+350     [Loudred]:  Chiudi il BECCO!
+351     [Loudred]:  ¡Cerrad el pico!
+354     [Loudred]:  NO MORE BELLYACHING!\nGO DO YOUR DUTY!
+355     [Loudred]:  FINI LES RONCHONNEMENTS!\nA VOS POSTES!
+356     [Loudred]:  KEIN GEMURRE MEHR!\nGEHT UND TUT EURE PFLICHT!
+357     [Loudred]:  BASTA LAMENTARSI!\nAL LAVORO!
+358     [Loudred]:  ¡BASTA DE GIMOTEAR!\n¡ID A CUMPLIR CON VUESTRO DEBER!
+365     [Kunan](1):  Ugh... My head hurts...
+366     [Kunan](1):  Argh... Bonjour les maux de\ntête...
+367     [Kunan](1):  Argh, mein Kopf tut weh.
+368     [Kunan](1):  Ugh... Mi fa male la testa...
+369     [Kunan](1):  Ay... Tengo la cabeza como un\nbombo...
+373     [Kunan](2):  Ow... My head is pounding...
+374     [Kunan](2):  Argh... Bonjour les maux de\ntête...
+375     [Kunan](2):  Au, mir tut der Kopf weh.
+376     [Kunan](2):  Ahi... Che mal di testa...
+377     [Kunan](2):  Uf... Qué dolor de cabeza...
+381     [Kunan](3):  Ow... My head hurts...
+382     [Kunan](3):  Argh... Bonjour les maux de\ntête...
+383     [Kunan](3):  Au, mir tut der Kopf weh.
+384     [Kunan](3):  Ahi... Mi gira la testa...
+385     [Kunan](3):  Uf... Mi cabeza...
+410     [Kunan](1):  What do you expect us to do,\nanyway?
+411     [Kunan](1):  Qu\'est-ce qu\'on doit faire?
+412     [Kunan](1):  Was sollen wir überhaupt tun?
+413     [Kunan](1):  Cosa dobbiamo fare?
+414     [Kunan](1):  ¿Y qué tenemos que hacer?
+418     [Kunan](2):  What are we supposed to do?
+419     [Kunan](2):  Qu\'est-ce qu\'on doit faire?
+420     [Kunan](2):  Was sollen wir überhaupt tun?
+421     [Kunan](2):  Cosa dobbiamo fare?
+422     [Kunan](2):  ¿Y qué tenemos que hacer?
+426     [Kunan](3):  What are we expected to do,\nanyway?
+427     [Kunan](3):  Qu\'est-ce qu\'on doit faire?
+428     [Kunan](3):  Was sollen wir eigentlich tun?
+429     [Kunan](3):  Cosa dobbiamo fare?
+430     [Kunan](3):  ¿Y qué tenemos que hacer?
+441     [Loudred]:  Climb down this hole and\nstand guard. You\'re on sentry duty!
+442     [Loudred]:  Descendez dans ce trou et\nmontez la garde. Aujourd\'hui, vous êtes\nau poste de garde!
+443     [Loudred]:  Klettert dieses Loch hinunter und\nhaltet Wache. Ihr habt Wachdienst!
+444     [Loudred]:  Dovete scendere in questo buco\nper fare il turno di guardia!
+445     [Loudred]:  Bajad por aquí y vigilad.\n¡Estáis de guardia!
+467     [Kunan](1):  Sentry duty?
+468     [Kunan](1):  Au poste de garde?
+469     [Kunan](1):  Wachdienst?
+470     [Kunan](1):  Turno di guardia?
+471     [Kunan](1):  ¿De guardia?
+475     [Kunan](2):  Sentry duty?
+476     [Kunan](2):  Au poste de garde?
+477     [Kunan](2):  Wachdienst?
+478     [Kunan](2):  Turno di guardia?
+479     [Kunan](2):  ¿De guardia?
+483     [Kunan](3):  Sentry duty?
+484     [Kunan](3):  Au poste de garde?
+485     [Kunan](3):  Wachdienst?
+486     [Kunan](3):  Turno di guardia?
+487     [Kunan](3):  ¿De guardia?
+500     [Loudred]:  You heard right.[K] Sentry duty.
+501     [Loudred]:  Vous avez bien entendu.[K]\nAu poste de garde.
+502     [Loudred]:  Richtig gehört.[K] Wachdienst.
+503     [Loudred]:  Avete sentito bene.[K] Dovete\nfare la guardia.
+504     [Loudred]:  Habéis oído bien.[K] De guardia.
+507     [Loudred]:  We can\'t have suspicious\ncharacters coming into the guild.
+508     [Loudred]:  Il ne faut pas que des individus\nsuspects puissent entrer à la Guilde.
+509     [Loudred]:  Wir müssen vermeiden, dass\nzwielichtige Gestalten in die Gilde kommen.
+510     [Loudred]:  Dobbiamo evitare che Pokémon\nsospetti entrino alla Gilda.
+511     [Loudred]:  No podemos permitir que entren\nindividuos sospechosos en el [CS:N]Pokégremio[CR].
+514     [Loudred]:  So we station a sentry below the\nguild entrance to evaluate Pokémon visitors.
+515     [Loudred]:  On a donc installé un système\nde sentinelle sous l\'entrée de la Guilde\npour identifier les visiteurs.
+516     [Loudred]:  Also ist unter dem Gildeneingang\neine Wache stationiert, die besuchende\nPokémon überprüft.
+517     [Loudred]:  Quindi c\'è una guardia sotto \nla Gilda per controllare i Pokémon che\nvengono qui.
+518     [Loudred]:  Así que ponemos a un vigía bajo\nla puerta para comprobar quién quiere entrar.
+521     [Loudred]:  When you first came, you had\nyour footprint evaluated, right?
+522     [Loudred]:  Lors de votre première visite,\non a identifié vos empreintes, pas vrai?
+523     [Loudred]:  Als ihr zum ersten Mal kamt,\nwurden eure Fußabdrücke überprüft, oder?
+524     [Loudred]:  La prima volta che avete fatto \nvisita alla Gilda le vostre zampe sono state\nesaminate, giusto?
+525     [Loudred]:  Cuando llegaste se comprobó\ntu huella, ¿no?
+540     [Kunan](1):  My footprint?[K] What do you...?
+541     [Kunan](1):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+542     [Kunan](1):  Mein Fußabdruck?[K] Was?
+543     [Kunan](1):  La mia zampa?[K] Cosa...?
+544     [Kunan](1):  ¿Mi huella?[K] ¿Qué quieres...?
+548     [Kunan](2):  My footprint?[K] What do you...?
+549     [Kunan](2):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+550     [Kunan](2):  Mein Fußabdruck?[K] Was?
+551     [Kunan](2):  La mia zampa?[K] Cosa...?
+552     [Kunan](2):  ¿Mi huella?[K] ¿Qué quieres...?
+556     [Kunan](3):  My footprint?[K] What do you...?
+557     [Kunan](3):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+558     [Kunan](3):  Mein Fußabdruck?[K] Was?
+559     [Kunan](3):  La mia zampa?[K] Cosa...?
+560     [Kunan](3):  ¿Mi huella?[K] ¿Qué quieres...?

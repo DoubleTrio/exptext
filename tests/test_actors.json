@@ -1,0 +1,49 @@
+{
+  "special": {
+    "hero": "Yugure",
+    "partner": "Kunan",
+    "team": "Spirits"
+  },
+  "actors": [
+    {
+      "id": "PLAYER",
+      "name": "Yugure",
+      "kind": "Duskako"
+    },
+    {
+      "id": "ATTENDANT1",
+      "name": "Kunan",
+      "kind": "Oshawott"
+    },
+    {
+      "id": "NPC_MARIRU",
+      "name": "Marill",
+      "kind": "Marill"
+    },
+    {
+      "id": "NPC_RURIRI",
+      "name": "Azurill",
+      "kind": "Azurill"
+    },
+    {
+      "id": "NPC_DOGOOMU",
+      "name": "Loudred",
+      "kind": "Loudred"
+    },
+    {
+      "id": "NPC_DOGAASU",
+      "name": "Koffing",
+      "kind": "Koffing"
+    },
+    {
+      "id": "NPC_ZUBATTO",
+      "name": "Zubat",
+      "kind": "Zubat"
+    },
+    {
+      "id": "NPC_DIGUDA",
+      "name": "Diglett",
+      "kind": "Diglett"
+    }
+  ]
+}

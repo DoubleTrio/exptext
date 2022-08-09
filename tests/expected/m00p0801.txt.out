@@ -1,0 +1,49 @@
+[Kunan](1): Hey, Yugure.
+[Kunan](2): Listen, Yugure.
+[Kunan](3): Say, Yugure.
+[Kunan](1): When we go to Mt. Travail, you ought to lead, Yugure.
+[Kunan](2): When we go to Mt. Travail, you should be the leader, Yugure.
+[Kunan](3): When we go to Mt. Travail, you should go as the leader, Yugure.
+[Kunan](1): After all, that's the way we've always done it for important missions.
+[Kunan](2): After all, that's the way we've always handled things on important missions.
+[Kunan](3): After all, we've always gone on our important missions that way.
+[Kunan](1): So I was thinking that you ought to be the leader again, Yugure... What do you say?
+[Kunan](2): That's why I think you should be the leader again, Yugure... What do you say?
+[Kunan](3): That's why I think you should be the leader again, Yugure... What do you say?
+[case_menu]: Accept leadership
+[Kunan](1): Cool! That's it, then! You're the leader, Yugure.
+[Kunan](2): OK! That's settled. You're the leader, Yugure.
+[Kunan](3): OK! You're the team leader, Yugure!
+[Kunan](1): Let's get rolling to Mt. Travail!
+[Kunan](2): Let's set out for Mt. Travail!
+[Kunan](3): We should get moving to Mt. Travail!
+[case_menu]: Refuse
+[Kunan](1): Whoa! Hang on, we're going with me as leader?
+[Kunan](2): What? Wait, so I'm going as the leader?
+[Kunan](3): What? So I'm going to go as the leader?
+[Kunan](1): Hmm... I don't feel confident about doing that...
+[Kunan](2): Hmm... I don't have the confidence to do that...
+[Kunan](3): Hmm... I don't feel confident enough to be the leader...
+[Kunan](1): If we're going to Mt. Travail, you should be the leader, Yugure...
+[Kunan](2): If we're going to Mt. Travail, you should be the leader, Yugure...
+[Kunan](3): If we're still going to go to Mt. Travail, you should lead, Yugure...
+[Kunan](1): Hey, Yugure. How about if we just go as a pair, you and I?
+[Kunan](2): Listen, Yugure. What would you say if I suggested that just you and I go?
+[Kunan](3): Say, Yugure. Do you think maybe we should just go as a pair, us two?
+[Kunan](1): If a whole bunch of us went, it'd probably upset Drowzee beyond the point of persuasion...
+[Kunan](2): If a whole group went, Drowzee would probably get upset. You can forget about persuading him then.
+[Kunan](3): If a whole lot of us go, Drowzee will probably get upset with us. He would be impossible to persuade like that.
+[Kunan](1): But going alone won't do it, either. One Pokémon won't be convincing enough.
+[Kunan](2): But going alone won't be enough. I don't think it would be persuasive enough to get the point across.
+[Kunan](3): But I think one Pokémon alone won't be persuasive enough.
+[Kunan](1): So how about just we two go?
+[Kunan](2): That's why I suggested the two of us go.
+[Kunan](3): So what do you think? Should just the two of us go?
+[case_menu]: Go as a pair
+[Kunan](1): OK! Let's get going to Mt. Travail!
+[Kunan](2): That's settled! Let's get going to Mt. Travail!
+[Kunan](3): OK! Let's go to Mt. Travail!
+[Kunan](1): Let's do our best, Yugure!
+[Kunan](2): Let's do our best, Yugure!
+[Kunan](3): Let's do our best, Yugure!
+[case_menu]: Don't go

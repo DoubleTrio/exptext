@@ -28,11 +28,11 @@ impl TryFrom<&str> for ExpLanguage {
 
     fn try_from(value: &str) -> Result<Self, Self::Error> {
         match value.to_lowercase().as_str() {
-            "english" | "eng" | "e" => Ok(Self::English),
+            "english" | "eng" | "en" | "e" => Ok(Self::English),
             "french" | "fr" | "f" => Ok(Self::French),
-            "german" | "ger" | "g" => Ok(Self::German),
+            "german" | "ger" | "der" | "g" | "de" | "d" => Ok(Self::German),
             "italian" | "ita" | "i" => Ok(Self::Italian),
-            "spanish" | "spa" | "s" => Ok(Self::Spanish),
+            "spanish" | "spa" | "s" | "es" => Ok(Self::Spanish),
             _ => Err(ExpError::LanguageError),
         }
     }

@@ -1,0 +1,358 @@
+==> tests/inputs/m00p0801.txt <==
+[Kunan](1): Hey, Yugure.
+[Kunan](2): Listen, Yugure.
+[Kunan](3): Say, Yugure.
+[Kunan](1): When we go to Mt. Travail, you ought to lead, Yugure.
+[Kunan](2): When we go to Mt. Travail, you should be the leader, Yugure.
+[Kunan](3): When we go to Mt. Travail, you should go as the leader, Yugure.
+[Kunan](1): After all, that's the way we've always done it for important missions.
+[Kunan](2): After all, that's the way we've always handled things on important missions.
+[Kunan](3): After all, we've always gone on our important missions that way.
+[Kunan](1): So I was thinking that you ought to be the leader again, Yugure... What do you say?
+[Kunan](2): That's why I think you should be the leader again, Yugure... What do you say?
+[Kunan](3): That's why I think you should be the leader again, Yugure... What do you say?
+[case_menu]: Accept leadership
+[Kunan](1): Cool! That's it, then! You're the leader, Yugure.
+[Kunan](2): OK! That's settled. You're the leader, Yugure.
+[Kunan](3): OK! You're the team leader, Yugure!
+[Kunan](1): Let's get rolling to Mt. Travail!
+[Kunan](2): Let's set out for Mt. Travail!
+[Kunan](3): We should get moving to Mt. Travail!
+[case_menu]: Refuse
+[Kunan](1): Whoa! Hang on, we're going with me as leader?
+[Kunan](2): What? Wait, so I'm going as the leader?
+[Kunan](3): What? So I'm going to go as the leader?
+[Kunan](1): Hmm... I don't feel confident about doing that...
+[Kunan](2): Hmm... I don't have the confidence to do that...
+[Kunan](3): Hmm... I don't feel confident enough to be the leader...
+[Kunan](1): If we're going to Mt. Travail, you should be the leader, Yugure...
+[Kunan](2): If we're going to Mt. Travail, you should be the leader, Yugure...
+[Kunan](3): If we're still going to go to Mt. Travail, you should lead, Yugure...
+[Kunan](1): Hey, Yugure. How about if we just go as a pair, you and I?
+[Kunan](2): Listen, Yugure. What would you say if I suggested that just you and I go?
+[Kunan](3): Say, Yugure. Do you think maybe we should just go as a pair, us two?
+[Kunan](1): If a whole bunch of us went, it'd probably upset Drowzee beyond the point of persuasion...
+[Kunan](2): If a whole group went, Drowzee would probably get upset. You can forget about persuading him then.
+[Kunan](3): If a whole lot of us go, Drowzee will probably get upset with us. He would be impossible to persuade like that.
+[Kunan](1): But going alone won't do it, either. One Pokémon won't be convincing enough.
+[Kunan](2): But going alone won't be enough. I don't think it would be persuasive enough to get the point across.
+[Kunan](3): But I think one Pokémon alone won't be persuasive enough.
+[Kunan](1): So how about just we two go?
+[Kunan](2): That's why I suggested the two of us go.
+[Kunan](3): So what do you think? Should just the two of us go?
+[case_menu]: Go as a pair
+[Kunan](1): OK! Let's get going to Mt. Travail!
+[Kunan](2): That's settled! Let's get going to Mt. Travail!
+[Kunan](3): OK! Let's go to Mt. Travail!
+[Kunan](1): Let's do our best, Yugure!
+[Kunan](2): Let's do our best, Yugure!
+[Kunan](3): Let's do our best, Yugure!
+[case_menu]: Don't go
+
+==> tests/inputs/m01a0208.txt <==
+[Kunan](1): ............
+[Kunan](2): ............
+[Kunan](3): ............
+[Kunan](1): This is where I always end up when I'm feeling sorry for myself.
+[Kunan](2): This is where I always come when I'm feeling sorry for myself.
+[Kunan](3): This is where I always come when I'm feeling down on myself.
+[Kunan](1): But it makes me feel good to be here, like always.
+[Kunan](2): But it makes me feel good to be here, like always.
+[Kunan](3): But it makes me feel good to be here, like always.
+[Kunan](1): Coming here cheers me up.
+[Kunan](2): Coming here is uplifting. It cheers me up.
+[Kunan](3): Coming here heals my spirits.
+[Kunan](1): Hey...what's that? What's going on over there?
+[Kunan](2): Hey...what's that? What's going on over there?
+[Kunan](3): Hey...what's that? What's going on over there?
+[Kunan](1): Waah! Someone has collapsed on the sand!
+[Kunan](2): Waah! Someone has collapsed on the sand!
+[Kunan](3): Waah! Someone has collapsed on the sand!
+[Kunan](1): What happened?! Are you OK?
+[Kunan](2): What happened?! Are you OK?
+[Kunan](3): What happened?! Are you OK?
+[Yugure](1): (...Ugh...)
+[Yugure](2): (...Ugh...)
+[Kunan](1): Great! You're awake!
+[Kunan](2): You're awake! That's a relief!
+[Kunan](3): You're awake! Thank goodness!
+[Yugure](1): (Where...where am I...?)
+[Yugure](2): (Where...where am I...?)
+[Kunan](1): You weren't moving. You really had me worried there!
+[Kunan](2): You weren't moving at all. I was seriously worried!
+[Kunan](3): You wouldn't move at all. I was really scared for you!
+[Kunan](1): How did you wind up unconscious out here?
+[Kunan](2): Do you remember how you ended up unconscious out here?
+[Kunan](3): Do you have any idea how you ended up unconscious out here?
+[Yugure](1): (I... I was unconscious? What happened...?)
+[Yugure](2): (I... I was unconscious? What happened...?)
+[Kunan](1): Anyway, I'm Kunan. Glad to meet you!
+[Kunan](2): Well, I'm Kunan. Glad to meet you!
+[Kunan](3): Anyway, I'm Kunan. Happy to meet you!
+[Kunan](1): So who might you be?
+[Kunan](2): And who are you?
+[Kunan](3): And who are you?
+[Kunan](1): I don't think I've seen your face around here.
+[Kunan](2): I've never seen you around before.
+[Kunan](3): I don't think I've seen you around before.
+[Kunan](1): Huh? You say you're a human?
+[Kunan](2): What? You say you're a human?
+[Kunan](3): What? You say you're a human?
+[Kunan](1): You look like a totally normal Duskako to me!
+[Kunan](2): You look like a totally normal Duskako to me!
+[Kunan](3): You look like a totally normal Duskako to me!
+[Yugure](1): (It's...it's true!)
+[Yugure](2): (It's...it's true!)
+[Yugure](1): (I've turned into an Duskako!)
+[Yugure](2): (I've turned into an Duskako!)
+[Yugure](1): (...But how did this happen? I don't remember anything...)
+[Yugure](2): (...But how did this happen? I don't remember anything...)
+[Kunan](1): You're...a little odd...
+[Kunan](2): You're...a little odd...
+[Kunan](3): You're...a little odd...
+[Kunan](1): Are you pulling some kind of trick on me?
+[Kunan](2): Are you pulling some kind of trick on me?
+[Kunan](3): Are you pulling some kind of trick on me?
+[Kunan](1): You're telling me the truth?
+[Kunan](2): You're telling me the truth?
+[Kunan](3): You're telling me the truth?
+[Kunan](1): OK, then what's your name? What do you call yourself?
+[Kunan](2): All right, then. Your name? What's your name?
+[Kunan](3): OK, how about your name? What's your name?
+[Yugure](1): (My name? That's right, my name is...)
+[Yugure](2): (My name? That's right, my name is...)
+[Kunan](1): Oh, Yugure is your name?
+[Kunan](2): Oh, Yugure is your name?
+[Kunan](3): So you're named Yugure?
+[Kunan](1): OK. Well, you don't seem to be a bad Pokémon, at least.
+[Kunan](2): OK. Well, you don't seem to be a bad Pokémon, at least.
+[Kunan](3): OK. Well, you don't seem to be a bad Pokémon, at least.
+[Kunan](1): Sorry that I doubted you.
+[Kunan](2): Sorry that I doubted you.
+[Kunan](3): Sorry that I doubted you.
+[Kunan](1): More and more bad Pokémon have been turning up lately, you see!
+[Kunan](2): More and more bad Pokémon have been turning up lately, you see!
+[Kunan](3): More and more bad Pokémon have been turning up lately, you see!
+[Kunan](1): A lot of Pokémon have started being aggressive lately. Things have gotten wild for some reason...
+[Kunan](2): Many Pokémon have gotten aggressive lately. Things have grown somewhat lawless...
+[Kunan](3): A lot of Pokémon have gotten aggressive lately. It's just not safe anymore...
+[Kunan](1): Ow!
+[Kunan](2): Ouch!
+[Kunan](3): Yowch!
+[Koffing]: Well, I do beg your pardon.
+[Kunan](1): Hey! Why'd you do that?!
+[Kunan](2): Hey! Why'd you do that?!
+[Kunan](3): Hey! Why'd you do that?!
+[Zubat]: Heh-heh-heh! Can't figure it out?
+[Zubat]: We wanted to mess with you! Can't face up to us, can you?!
+[Kunan](1): Wh-what?!
+[Kunan](2): Wh-what?!
+[Kunan](3): Wh-what?!
+[Zubat]: That's yours, isn't it?
+[Kunan](1): Hey! That's...!
+[Kunan](2): No! That's...!
+[Kunan](3): Oh! That's...!
+[Zubat]: Sorry, kiddo. We'll take that!
+[Kunan](1): Aaaah!
+[Kunan](2): Aaaah!
+[Kunan](3): Aaaah!
+[Koffing]: Whoa-ho-ho! Not gonna make a move to get that back? What's the matter? Too scared?
+[Koffing]: I didn't expect that you'd be such a big coward!
+[Koffing]: Come on. Let's get out of here.
+[Zubat]: See you around, chicken. Heh-heh-heh.
+[Kunan](1): ...Ohhh...
+[Kunan](2): ...Ohhh...
+[Kunan](3): ...Ohhh...
+[Kunan](1): Wh-what should I do?
+[Kunan](2): Wh-what should I do?
+[Kunan](3): Wh-what should I do?
+[Kunan](1): That's my personal treasure. It means everything to me.
+[Kunan](2): That's my personal treasure. It means everything to me.
+[Kunan](3): That's my personal treasure. It means everything to me.
+[Kunan](1): If I lose that...
+[Kunan](2): If I lose that...
+[Kunan](3): If I lose that...
+[Kunan](1): No! There's no time to waste!
+[Kunan](2): No! There's no time to waste!
+[Kunan](3): No! There's no time to waste!
+[Kunan](1): I have to get it back! Hey, will you help me?
+[Kunan](2): I've got to get it back! Hey, can I get you to help me?
+[Kunan](3): I have to get it back! Say, can you please help me?
+[case_menu]: Yes
+[Kunan](1): R-really? You'll really help?!
+[Kunan](2): R-really? You'll really help?!
+[Kunan](3): R-really? You'll really help?!
+[Kunan](1): Th-thank you! Let's go quickly!
+[Kunan](2): Th-thank you! Let's go quickly!
+[Kunan](3): Th-thanks! Can we go take care of it right now?
+[case_menu]: No
+[Kunan](1): Huh?! You won't help me?
+[Kunan](2): What?! You won't help me?
+[Kunan](3): Awww! You won't help me?
+[Kunan](1): That thing is really, really important to me!
+[Kunan](2): That thing really means everything to me!
+[Kunan](3): That thing is important to me!
+[Kunan](1): If I can't get it back...
+[Kunan](2): If I can't get it back...
+[Kunan](3): If I can't get it back...
+[Kunan](1): Come on, please? Please help me get that treasure of mine back!
+[Kunan](2): I'm serious! Please? Please help me get that treasure of mine back!
+[Kunan](3): Oh, please? Please help me get that treasure of mine back from those guys!
+[case_menu]: Yes
+[case_menu]: No
+[case_menu]: Wh-what should I do?
+[Kunan](1): We...we don't have time for this! Come on!
+[Kunan](2): We don't have time to waste. Come on!
+[Kunan](3): We don't have any time to waste! Let's go!
+[case_menu]: G-got it!
+[case_menu]: But you can't just...
+[Kunan](1): That's my precious treasure...
+[Kunan](2): That's my precious treasure...
+[Kunan](3): That's my precious treasure...
+[Kunan](1): If that disappeared, then I'd...
+[Kunan](2): If that disappeared, then I'd...
+[Kunan](3): If that disappeared, then I'd...
+[Kunan](1): Come on, I'm begging! Please help!
+[Kunan](2): Please! Please help!
+[Kunan](3): Please! Please help!
+[case_menu]: G-got it!
+[case_menu]: But I have no memory...
+[Kunan](1): I know it's difficult...but hurry!
+[Kunan](2): I know it's difficult...but hurry!
+[Kunan](3): I know it's difficult...but hurry!
+[Kunan](1): It doesn't matter if you have no memory. You can still help! Please!
+[Kunan](2): It doesn't matter if you have no memory. You can still help! Please!
+[Kunan](3): It doesn't matter if you have no memory. You can still help! Please!
+[case_menu]: G-got it!
+[case_menu]: But I'm sure I was a human...
+[Kunan](1): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+[Kunan](2): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+[Kunan](3): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+[case_menu]: G-got it!
+[case_menu]: O-OK!
+[case_menu]: Wh-what should I do?
+[Kunan](1): (I've turned into a Duskako!)
+[Kunan](2): (I've turned into a Duskako!)
+
+==> tests/inputs/m04a0101.txt <==
+[Loudred]: HEY, you two!
+[Loudred]: We need your help with something today!
+[Loudred]: Diglett, I brought them!
+[Diglett]: Thank you, Loudred.
+[Loudred]: You two are doing sentry duty today!
+[Diglett]: Sorry. I'm usually the one to do sentry duty.
+[Diglett]: But today, my dad gave me his duty of updating the boards.
+[Diglett]: That's why I can't man my post.
+[Diglett]: It would be great if someone could take over my sentry duty for today.
+[Diglett]: And that's why you're here. Please do a good job for me. Bye!
+[Loudred]: ...And that's THAT.
+[Kunan](1): Huh?! I didn't follow that at all! Why are we involved?
+[Kunan](2): Huh?! I didn't follow that at all! Why are we involved in this?
+[Kunan](3): Huh?! I didn't follow that at all! How did we get involved in this?
+[Loudred]: Shut your YAP!
+[Loudred]: NO MORE BELLYACHING! GO DO YOUR DUTY!
+[Kunan](1): Ugh... My head hurts...
+[Kunan](2): Ow... My head is pounding...
+[Kunan](3): Ow... My head hurts...
+[Kunan](1): What do you expect us to do, anyway?
+[Kunan](2): What are we supposed to do?
+[Kunan](3): What are we expected to do, anyway?
+[Loudred]: Climb down this hole and stand guard. You're on sentry duty!
+[Kunan](1): Sentry duty?
+[Kunan](2): Sentry duty?
+[Kunan](3): Sentry duty?
+[Loudred]: You heard right. Sentry duty.
+[Loudred]: We can't have suspicious characters coming into the guild.
+[Loudred]: So we station a sentry below the guild entrance to evaluate Pokémon visitors.
+[Loudred]: When you first came, you had your footprint evaluated, right?
+[Kunan](1): My footprint? What do you...?
+[Kunan](2): My footprint? What do you...?
+[Kunan](3): My footprint? What do you...?
+
+==> tests/inputs/m12a0102.txt <==
+[Azurill]: Kunan and Yugure! Hi there!
+[Kunan](1): Huh? It's you little guys...
+[Kunan](2): Oh! It's you little guys...
+[Kunan](3): Hey! It's you little guys...
+[Kunan](1): We heard we have visitors. Are you our visitors?
+[Kunan](2): We heard we have visitors. Are you our visitors?
+[Kunan](3): We heard we have visitors. Are you maybe those visitors?
+[Marill]: Yep! We wanted to ask Team Spirits for help.
+[Kunan](1): Help?
+[Kunan](2): Help?
+[Kunan](3): Help?
+[Marill]: Yep!
+[Azurill]: We need your help finding a Water Float.
+[Kunan](1): A Water Float?
+[Kunan](2): A Water Float?
+[Kunan](3): A Water Float?
+[Kunan](1): You've been searching for your Water Float, right?
+[Kunan](2): Weren't you looking for that earlier? A Water Float?
+[Kunan](3): Isn't that what you were looking for earlier? A Water Float?
+[Marill]: Yep! Someone said one was lying on the beach. We went there looking for it!
+[Marill]: We didn't find it. Instead, this is what we found.
+[Kunan](1): This scrap of paper?
+[Kunan](2): This scrap of paper?
+[Kunan](3): This scrap of paper?
+[Kunan](1): There's writing on it.
+[Kunan](2): There's writing on it.
+[Kunan](3): There's writing on it.
+[message_Mail]: Kunan read the message on the scrap of paper.
+[Kunan](1): Let's see. What does it say? "The Water Float from the beach..."
+[Kunan](2): Let's see. What does it say? "The Water Float from the beach..."
+[Kunan](3): Let's see. What does it say? "The Water Float from the beach..."
+[Kunan](1): "...is now in our possession."
+[Kunan](2): "...is now in our possession."
+[Kunan](3): "...is now in our possession."
+[Kunan](1): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+[Kunan](2): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+[Kunan](3): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+[Kunan](1): "But knowing how weak and puny you are..."
+[Kunan](2): "But knowing how weak and puny you are..."
+[Kunan](3): "But knowing how weak and puny you are..."
+[Kunan](1): "...I bet you can't even reach us! Chaw-haw-haw!"
+[Kunan](2): "...I bet you can't even reach us! Chaw-haw-haw!"
+[Kunan](3): "...I bet you can't even reach us! Chaw-haw-haw!"
+[Kunan](1): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+[Kunan](2): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+[Kunan](3): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+[Kunan](1): It's a ransom note! Isn't it?!
+[Kunan](2): It's a ransom note! Isn't it?!
+[Kunan](3): It's a ransom note! Isn't it?!
+[Kunan](1): You little guys shouldn't even think about going!
+[Kunan](2): You little guys! Promise me you won't go yourself.
+[Kunan](3): You little guys! Please don't even think about going.
+[Kunan](1): It could be a trap.
+[Kunan](2): I suspect a trap.
+[Kunan](3): It's probably a trap!
+[Marill]: But the Water Float is very important to us.
+[Marill]: We really want to get it back.
+[Marill]: But I can't take Azurill to a dangerous place.
+[Azurill]: I said I would go too!
+[Marill]: It's too much for you. I don't want you getting into any scary scrapes.
+[Marill]: I went to Amp Plains by myself.
+[Marill]: But many Electric-type Pokémon live there!
+[Marill]: I'm no match for them.
+[Marill]: I tried going many times. But I get knocked out right away...
+[Marill]: I just c-c-can't stand how weak I am...
+[Kunan](1): No problem! I know what to do!
+[Kunan](2): No problem! I know what to do!
+[Kunan](3): No problem! I know what to do!
+[Kunan](1): We'll go and get the Water Float back for you.
+[Kunan](2): We'll go get the Water Float back for you.
+[Kunan](3): We'll go get the Water Float back for you.
+[Azurill]: Really?!
+[Marill]: You will?!
+[Kunan](1): Yup! So no more crying!
+[Kunan](2): Yep! So no more tears!
+[Kunan](3): Yep! So no more tears!
+[Marill]: OK! W-we're sorry to bother you about this. Thank you!
+[Kunan](1): You should see your faces! All that crying and laughing... C'mon!
+[Kunan](2): You should see your faces! All that crying and laughing... C'mon!
+[Kunan](3): You should see your faces! All that crying and laughing... C'mon!
+[Kunan](1): Don't worry, though. We'll get it back for you. Sure thing!
+[Kunan](2): Don't worry, though. We'll get it back for you. It's a promise!
+[Kunan](3): Don't worry, though. We'll get it back for you. We promise!
+[Kunan](1): Let's go, Yugure! Onward to Amp Plains!
+[Kunan](2): Let's go, Yugure! We're off to Amp Plains!
+[Kunan](3): Let's go, Yugure! Let's get to Amp Plains!

@@ -19,7 +19,7 @@ OPTIONS:
 
 ## Overview
 
-Let say we have these lines in an ExplorerScript file :
+Let say we have these lines in an ExplorerScript file:
 ```rust
 message_SetFace(ACTOR_NPC_DAGUTORIO, FACE_NORMAL, FACE_POS_STANDARD);
 message_Talk({
@@ -51,16 +51,19 @@ We can see that these substitutions can be found in ``actors.json``:
         "team":"Poképals"
    },
    "actors":[
+       ...
        {
             "id":"NPC_ZUBATTO",
             "name":"Zubat",
             "kind":"Zubat"
        },
+       ...
        {
             "id":"NPC_DAGUTORIO",
             "name":"Dugtrio",
             "kind":"Dugtrio"
        },
+       ...
    ]
 }
 ```
@@ -70,8 +73,7 @@ The CLI handles other cases such as `message_SwitchTalk` or when the actor is re
 ## Usage
 To reflect the current state of your ROM, edit `actors.json` by adding new actors, deleting unnecessary actors in the array, and editing the names of your player, partner, and team.
 
-
 ## TODOs
 - [ ] Clean up code
-- [ ] Add unit tests 
-- [ ] Fix issue with incorrect dialogue by switching from a Regex implementation to using a lexer. 
+- [x] Add unit tests 
+- [ ] Fix issue with incorrect dialogue by shifting from Regex implementation to using a lexer. 

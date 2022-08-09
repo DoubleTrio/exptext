@@ -20,7 +20,10 @@ impl From<&str> for ExpCommand {
             | "message_Mail"
             | "debug_Print"
             | "back_SetBanner2" => Self::SpecialMessage(item.into()),
-            "message_SetFaceEmpty" | "message_SetFace" | "message_SetFaceOnly" | "message_SetActor" => Self::SetActor,
+            "message_SetFaceEmpty"
+            | "message_SetFace"
+            | "message_SetFaceOnly"
+            | "message_SetActor" => Self::SetActor,
             "message_EmptyActor" | "message_ResetActor" => Self::ResetActor,
             "message_SwitchTalk" | "message_SwitchMonologue" => Self::SwitchTalk,
             "message_Talk" => Self::Talk,

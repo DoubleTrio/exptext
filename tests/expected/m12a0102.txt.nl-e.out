@@ -1,0 +1,86 @@
+58      [Azurill]: Kunan and Yugure! Hi there!
+65      [Kunan](1): Huh? It's you little guys...
+69      [Kunan](2): Oh! It's you little guys...
+73      [Kunan](3): Hey! It's you little guys...
+79      [Kunan](1): We heard we have visitors. Are you our visitors?
+83      [Kunan](2): We heard we have visitors. Are you our visitors?
+87      [Kunan](3): We heard we have visitors. Are you maybe those visitors?
+97      [Marill]: Yep! We wanted to ask Team Spirits for help.
+108     [Kunan](1): Help?
+112     [Kunan](2): Help?
+116     [Kunan](3): Help?
+122     [Marill]: Yep!
+131     [Azurill]: We need your help finding a Water Float.
+150     [Kunan](1): A Water Float?
+154     [Kunan](2): A Water Float?
+158     [Kunan](3): A Water Float?
+164     [Kunan](1): You've been searching for your Water Float, right?
+168     [Kunan](2): Weren't you looking for that earlier? A Water Float?
+172     [Kunan](3): Isn't that what you were looking for earlier? A Water Float?
+181     [Marill]: Yep! Someone said one was lying on the beach. We went there looking for it!
+184     [Marill]: We didn't find it. Instead, this is what we found.
+221     [Kunan](1): This scrap of paper?
+225     [Kunan](2): This scrap of paper?
+229     [Kunan](3): This scrap of paper?
+235     [Kunan](1): There's writing on it.
+239     [Kunan](2): There's writing on it.
+243     [Kunan](3): There's writing on it.
+274     [message_Mail]: Kunan read the message on the scrap of paper.
+281     [Kunan](1): Let's see. What does it say? "The Water Float from the beach..."
+285     [Kunan](2): Let's see. What does it say? "The Water Float from the beach..."
+289     [Kunan](3): Let's see. What does it say? "The Water Float from the beach..."
+295     [Kunan](1): "...is now in our possession."
+299     [Kunan](2): "...is now in our possession."
+303     [Kunan](3): "...is now in our possession."
+311     [Kunan](1): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+315     [Kunan](2): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+319     [Kunan](3): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+325     [Kunan](1): "But knowing how weak and puny you are..."
+329     [Kunan](2): "But knowing how weak and puny you are..."
+333     [Kunan](3): "But knowing how weak and puny you are..."
+339     [Kunan](1): "...I bet you can't even reach us! Chaw-haw-haw!"
+343     [Kunan](2): "...I bet you can't even reach us! Chaw-haw-haw!"
+347     [Kunan](3): "...I bet you can't even reach us! Chaw-haw-haw!"
+353     [Kunan](1): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+357     [Kunan](2): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+361     [Kunan](3): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+377     [Kunan](1): It's a ransom note! Isn't it?!
+381     [Kunan](2): It's a ransom note! Isn't it?!
+385     [Kunan](3): It's a ransom note! Isn't it?!
+399     [Kunan](1): You little guys shouldn't even think about going!
+403     [Kunan](2): You little guys! Promise me you won't go yourself.
+407     [Kunan](3): You little guys! Please don't even think about going.
+413     [Kunan](1): It could be a trap.
+417     [Kunan](2): I suspect a trap.
+421     [Kunan](3): It's probably a trap!
+428     [Marill]: But the Water Float is very important to us.
+431     [Marill]: We really want to get it back.
+434     [Marill]: But I can't take Azurill to a dangerous place.
+444     [Azurill]: I said I would go too!
+455     [Marill]: It's too much for you. I don't want you getting into any scary scrapes.
+466     [Marill]: I went to Amp Plains by myself.
+469     [Marill]: But many Electric-type Pokémon live there!
+472     [Marill]: I'm no match for them.
+476     [Marill]: I tried going many times. But I get knocked out right away...
+479     [Marill]: I just c-c-can't stand how weak I am...
+499     [Kunan](1): No problem! I know what to do!
+503     [Kunan](2): No problem! I know what to do!
+507     [Kunan](3): No problem! I know what to do!
+516     [Kunan](1): We'll go and get the Water Float back for you.
+520     [Kunan](2): We'll go get the Water Float back for you.
+524     [Kunan](3): We'll go get the Water Float back for you.
+534     [Azurill]: Really?!
+543     [Marill]: You will?!
+550     [Kunan](1): Yup! So no more crying!
+554     [Kunan](2): Yep! So no more tears!
+558     [Kunan](3): Yep! So no more tears!
+568     [Marill]: OK! W-we're sorry to bother you about this. Thank you!
+578     [Kunan](1): You should see your faces! All that crying and laughing... C'mon!
+582     [Kunan](2): You should see your faces! All that crying and laughing... C'mon!
+586     [Kunan](3): You should see your faces! All that crying and laughing... C'mon!
+597     [Kunan](1): Don't worry, though. We'll get it back for you. Sure thing!
+601     [Kunan](2): Don't worry, though. We'll get it back for you. It's a promise!
+605     [Kunan](3): Don't worry, though. We'll get it back for you. We promise!
+620     [Kunan](1): Let's go, Yugure! Onward to Amp Plains!
+624     [Kunan](2): Let's go, Yugure! We're off to Amp Plains!
+628     [Kunan](3): Let's go, Yugure! Let's get to Amp Plains!

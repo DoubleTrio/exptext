@@ -13,7 +13,7 @@ mod expregex;
 pub use expregex::re;
 
 mod exptext;
-pub use exptext::ExpText;
+pub use crate::exptext::ExpText;
 
 mod exptextretriever;
 pub use exptextretriever::ExpTextRetriever;

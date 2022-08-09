@@ -1,0 +1,49 @@
+26      [Kunan](1):  Hey, [hero].
+30      [Kunan](2):  Listen, [hero].
+34      [Kunan](3):  Say, [hero].
+45      [Kunan](1):  When we go to [CS:P]Mt. Travail[CR], you\nought to lead, [hero].
+49      [Kunan](2):  When we go to [CS:P]Mt. Travail[CR], you\nshould be the leader, [hero].
+53      [Kunan](3):  When we go to [CS:P]Mt. Travail[CR], you\nshould go as the leader, [hero].
+59      [Kunan](1):  After all, that\'s the way we\'ve\nalways done it for important missions.
+63      [Kunan](2):  After all, that\'s the way we\'ve\nalways handled things on important missions.
+67      [Kunan](3):  After all, we\'ve always gone on\nour important missions that way.
+73      [Kunan](1):  So I was thinking that you ought\nto be the leader again, [hero]...[K]\nWhat do you say?
+77      [Kunan](2):  That\'s why I think you should\nbe the leader again, [hero]...[K]\nWhat do you say?
+81      [Kunan](3):  That\'s why I think you should\nbe the leader again, [hero]...[K]\nWhat do you say?
+86      [case_menu]: Accept leadership
+95      [Kunan](1):  Cool![K] That\'s it, then! You\'re the\nleader, [hero].
+99      [Kunan](2):  OK![K] That\'s settled. You\'re the\nleader, [hero].
+103     [Kunan](3):  OK![K] You\'re the team leader,\n[hero]!
+109     [Kunan](1):  Let\'s get rolling to [CS:P]Mt. Travail[CR]!
+113     [Kunan](2):  Let\'s set out for [CS:P]Mt. Travail[CR]!
+117     [Kunan](3):  We should get moving to\n[CS:P]Mt. Travail[CR]!
+123     [case_menu]: Refuse
+138     [Kunan](1):  Whoa![K] Hang on, we\'re going\nwith me as leader?
+142     [Kunan](2):  What?[K] Wait, so I\'m going as\nthe leader?
+146     [Kunan](3):  What?[K] So I\'m going to go as\nthe leader?
+154     [Kunan](1):  Hmm...[K] I don\'t feel confident\nabout doing that...
+158     [Kunan](2):  Hmm...[K] I don\'t have the\nconfidence to do that...
+162     [Kunan](3):  Hmm...[K] I don\'t feel confident\nenough to be the leader...
+168     [Kunan](1):  If we\'re going to [CS:P]Mt. Travail[CR],\nyou should be the leader, [hero]...
+172     [Kunan](2):  If we\'re going to [CS:P]Mt. Travail[CR],\nyou should be the leader, [hero]...
+176     [Kunan](3):  If we\'re still going to go to\n[CS:P]Mt. Travail[CR], you should lead, [hero]...
+188     [Kunan](1):  Hey, [hero].[K] How about if\nwe just go as a pair, you and I?
+192     [Kunan](2):  Listen, [hero].[K] What\nwould you say if I suggested that just you and\nI go?
+196     [Kunan](3):  Say, [hero].[K] Do you think\nmaybe we should just go as a pair, us two?
+202     [Kunan](1):  If a whole bunch of us went,\nit\'d probably upset [CS:N]Drowzee[CR] beyond the point\nof persuasion...
+206     [Kunan](2):  If a whole group went, [CS:N]Drowzee[CR]\nwould probably get upset. You can forget about\npersuading him then.
+210     [Kunan](3):  If a whole lot of us go, [CS:N]Drowzee[CR]\nwill probably get upset with us. He would be\nimpossible to persuade like that.
+216     [Kunan](1):  But going alone won\'t do it,\neither. One Pokémon won\'t be convincing\nenough.
+220     [Kunan](2):  But going alone won\'t be enough.\nI don\'t think it would be persuasive enough to\nget the point across.
+224     [Kunan](3):  But I think one Pokémon alone\nwon\'t be persuasive enough.
+230     [Kunan](1):  So how about just we two go?
+234     [Kunan](2):  That\'s why I suggested the two\nof us go.
+238     [Kunan](3):  So what do you think? Should\njust the two of us go?
+243     [case_menu]: Go as a pair
+251     [Kunan](1):  OK![K] Let\'s get going to\n[CS:P]Mt. Travail[CR]!
+255     [Kunan](2):  That\'s settled![K] Let\'s get going to\n[CS:P]Mt. Travail[CR]!
+259     [Kunan](3):  OK![K] Let\'s go to [CS:P]Mt. Travail[CR]!
+265     [Kunan](1):  Let\'s do our best, [hero]!
+269     [Kunan](2):  Let\'s do our best, [hero]!
+273     [Kunan](3):  Let\'s do our best, [hero]!
+279     [case_menu]: Don\'t go

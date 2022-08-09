@@ -1,0 +1,1222 @@
+==> tests/inputs/m00p0801.txt <==
+26      [Kunan](1): Hey, Yugure.
+30      [Kunan](2): Listen, Yugure.
+34      [Kunan](3): Say, Yugure.
+45      [Kunan](1): When we go to Mt. Travail, you ought to lead, Yugure.
+49      [Kunan](2): When we go to Mt. Travail, you should be the leader, Yugure.
+53      [Kunan](3): When we go to Mt. Travail, you should go as the leader, Yugure.
+59      [Kunan](1): After all, that's the way we've always done it for important missions.
+63      [Kunan](2): After all, that's the way we've always handled things on important missions.
+67      [Kunan](3): After all, we've always gone on our important missions that way.
+73      [Kunan](1): So I was thinking that you ought to be the leader again, Yugure... What do you say?
+77      [Kunan](2): That's why I think you should be the leader again, Yugure... What do you say?
+81      [Kunan](3): That's why I think you should be the leader again, Yugure... What do you say?
+86      [case_menu]: Accept leadership
+95      [Kunan](1): Cool! That's it, then! You're the leader, Yugure.
+99      [Kunan](2): OK! That's settled. You're the leader, Yugure.
+103     [Kunan](3): OK! You're the team leader, Yugure!
+109     [Kunan](1): Let's get rolling to Mt. Travail!
+113     [Kunan](2): Let's set out for Mt. Travail!
+117     [Kunan](3): We should get moving to Mt. Travail!
+123     [case_menu]: Refuse
+138     [Kunan](1): Whoa! Hang on, we're going with me as leader?
+142     [Kunan](2): What? Wait, so I'm going as the leader?
+146     [Kunan](3): What? So I'm going to go as the leader?
+154     [Kunan](1): Hmm... I don't feel confident about doing that...
+158     [Kunan](2): Hmm... I don't have the confidence to do that...
+162     [Kunan](3): Hmm... I don't feel confident enough to be the leader...
+168     [Kunan](1): If we're going to Mt. Travail, you should be the leader, Yugure...
+172     [Kunan](2): If we're going to Mt. Travail, you should be the leader, Yugure...
+176     [Kunan](3): If we're still going to go to Mt. Travail, you should lead, Yugure...
+188     [Kunan](1): Hey, Yugure. How about if we just go as a pair, you and I?
+192     [Kunan](2): Listen, Yugure. What would you say if I suggested that just you and I go?
+196     [Kunan](3): Say, Yugure. Do you think maybe we should just go as a pair, us two?
+202     [Kunan](1): If a whole bunch of us went, it'd probably upset Drowzee beyond the point of persuasion...
+206     [Kunan](2): If a whole group went, Drowzee would probably get upset. You can forget about persuading him then.
+210     [Kunan](3): If a whole lot of us go, Drowzee will probably get upset with us. He would be impossible to persuade like that.
+216     [Kunan](1): But going alone won't do it, either. One Pokémon won't be convincing enough.
+220     [Kunan](2): But going alone won't be enough. I don't think it would be persuasive enough to get the point across.
+224     [Kunan](3): But I think one Pokémon alone won't be persuasive enough.
+230     [Kunan](1): So how about just we two go?
+234     [Kunan](2): That's why I suggested the two of us go.
+238     [Kunan](3): So what do you think? Should just the two of us go?
+243     [case_menu]: Go as a pair
+251     [Kunan](1): OK! Let's get going to Mt. Travail!
+255     [Kunan](2): That's settled! Let's get going to Mt. Travail!
+259     [Kunan](3): OK! Let's go to Mt. Travail!
+265     [Kunan](1): Let's do our best, Yugure!
+269     [Kunan](2): Let's do our best, Yugure!
+273     [Kunan](3): Let's do our best, Yugure!
+279     [case_menu]: Don't go
+
+==> tests/inputs/m01a0208.txt <==
+31      [Kunan](1): ............
+32      [Kunan](1): ............
+33      [Kunan](1): ............
+34      [Kunan](1): ............
+35      [Kunan](1): ...
+39      [Kunan](2): ............
+40      [Kunan](2): ............
+41      [Kunan](2): ............
+42      [Kunan](2): ............
+43      [Kunan](2): ...
+47      [Kunan](3): ............
+48      [Kunan](3): ............
+49      [Kunan](3): ............
+50      [Kunan](3): ............
+51      [Kunan](3): ...
+57      [Kunan](1): This is where I always end up when I'm feeling sorry for myself.
+58      [Kunan](1): C'est ici que je viens quand je m'apitoie sur mon sort.
+59      [Kunan](1): Hier komme ich immer her, wenn ich mich elend fühle.
+60      [Kunan](1): Vengo sempre qui quando mi sento giù.
+61      [Kunan](1): Siempre acabo viniendo a este lugar cuando siento lástima de mí mismo.
+65      [Kunan](2): This is where I always come when I'm feeling sorry for myself.
+66      [Kunan](2): C'est ici que je viens quand je m'apitoie sur mon sort.
+67      [Kunan](2): Hier komme ich immer her, wenn ich mich elend fühle.
+68      [Kunan](2): Vengo sempre qui quando mi sento giù.
+69      [Kunan](2): Siempre acabo viniendo a este lugar cuando siento lástima de mí mismo.
+73      [Kunan](3): This is where I always come when I'm feeling down on myself.
+74      [Kunan](3): C'est ici que je viens quand je m'apitoie sur mon sort.
+75      [Kunan](3): Hier komme ich immer her, wenn ich deprimiert bin.
+76      [Kunan](3): Vengo sempre qui quando mi sento giù.
+77      [Kunan](3): Siempre acabo viniendo a este lugar cuando me siento abatida.
+83      [Kunan](1): But it makes me feel good to be here, like always.
+84      [Kunan](1): Je me sens mieux quand je suis sur cette plage.
+85      [Kunan](1): Immer, wenn ich hier bin, fühle ich mich wieder gut.
+86      [Kunan](1): Di solito mi fa sentire meglio.
+87      [Kunan](1): Pero una vez aquí me siento bien, como siempre.
+91      [Kunan](2): But it makes me feel good to be here, like always.
+92      [Kunan](2): Je me sens mieux quand je suis sur cette plage.
+93      [Kunan](2): Immer, wenn ich hier bin, fühle ich mich wieder gut.
+94      [Kunan](2): Di solito mi fa sentire meglio.
+95      [Kunan](2): Pero una vez aquí me siento bien, como siempre.
+99      [Kunan](3): But it makes me feel good to be here, like always.
+100     [Kunan](3): Je me sens mieux quand je suis sur cette plage.
+101     [Kunan](3): Immer, wenn ich hier bin, fühle ich mich wieder gut.
+102     [Kunan](3): Di solito mi fa sentire meglio.
+103     [Kunan](3): Pero una vez aquí me siento bien, como siempre.
+109     [Kunan](1): Coming here cheers me up.
+110     [Kunan](1): Cet endroit me remonte le moral.
+111     [Kunan](1): Dieser Ort bessert meine Laune ungemein.
+112     [Kunan](1): Questo posto riesce a tirarmi su.
+113     [Kunan](1): Venir aquí me sube la moral.
+117     [Kunan](2): Coming here is uplifting. It cheers me up.
+118     [Kunan](2): Cet endroit me remonte le moral.
+119     [Kunan](2): Dieser Ort heitert mich auf. Ich bin schon besser gelaunt.
+120     [Kunan](2): Venire qui mi tira su. Dopo mi  sento sempre meglio.
+121     [Kunan](2): Venir aquí me anima. Este sitio me reconforta.
+125     [Kunan](3): Coming here heals my spirits.
+126     [Kunan](3): Cet endroit me remonte le moral.
+127     [Kunan](3): Dieser Ort ist Balsam für meine Seele.
+128     [Kunan](3): Venire qui è un toccasana per lo spirito.
+129     [Kunan](3): Venir aquí me anima.
+151     [Kunan](1): Hey...what's that? What's going on over there?
+152     [Kunan](1): Hé... Qu'est-ce que c'est? Que se passe-t-il là-bas?
+153     [Kunan](1): Hey... Was ist das? Was ist denn da drüben los?
+154     [Kunan](1): Ehi... Ma cos'è? Cosa sta  succedendo laggiù?
+155     [Kunan](1): Eh... ¿Qué es eso? Parece que hay algo en la arena...
+159     [Kunan](2): Hey...what's that? What's going on over there?
+160     [Kunan](2): Hé... Qu'est-ce que c'est? Que se passe-t-il là-bas?
+161     [Kunan](2): Hey... Was ist das? Was ist denn da drüben los?
+162     [Kunan](2): Ehi... Ma cos'è? Cosa sta  succedendo laggiù?
+163     [Kunan](2): Eh... ¿Qué es eso? Parece que hay algo en la arena...
+167     [Kunan](3): Hey...what's that? What's going on over there?
+168     [Kunan](3): Hé... Qu'est-ce que c'est? Que se passe-t-il là-bas?
+169     [Kunan](3): Hey... Was ist das? Was ist denn da drüben los?
+170     [Kunan](3): Ehi... Ma cos'è? Cosa sta  succedendo laggiù?
+171     [Kunan](3): Eh... ¿Qué es eso? Parece que hay algo en la arena...
+194     [Kunan](1): Waah! Someone has collapsed on the sand!
+195     [Kunan](1): Aaah! Quelqu'un vient de s'effondrer sur le sable!
+196     [Kunan](1): Waah! Da ist jemand im Sand zusammengebrochen!
+197     [Kunan](1): Waah! Qualcuno è svenuto sulla sabbia!
+198     [Kunan](1): ¡Aaah! ¡Alguien se ha desmayado!
+202     [Kunan](2): Waah! Someone has collapsed on the sand!
+203     [Kunan](2): Aaah! Quelqu'un vient de s'effondrer sur le sable!
+204     [Kunan](2): Waah! Da ist jemand im Sand zusammengebrochen!
+205     [Kunan](2): Aaah! Qualcuno è svenuto sulla sabbia!
+206     [Kunan](2): ¡Aaah! ¡Alguien se ha desmayado!
+210     [Kunan](3): Waah! Someone has collapsed on the sand!
+211     [Kunan](3): Aaah! Quelqu'un vient de s'effondrer sur le sable!
+212     [Kunan](3): Waah! Da ist jemand im Sand zusammengebrochen!
+213     [Kunan](3): Aaah! Qualcuno è svenuto sulla sabbia!
+214     [Kunan](3): ¡Aaah! ¡Alguien se ha desmayado!
+239     [Kunan](1): What happened?! Are you OK?
+240     [Kunan](1): Que s'est-il passé?! Ça va?
+241     [Kunan](1): Was ist passiert?!? Alles okay?
+242     [Kunan](1): Cos'è successo?! Stai bene?
+243     [Kunan](1): ¿Qué ha ocurrido? ¿Estás bien?
+247     [Kunan](2): What happened?! Are you OK?
+248     [Kunan](2): Que s'est-il passé?! Ça va?
+249     [Kunan](2): Was ist passiert?!? Alles okay?
+250     [Kunan](2): Cos'è successo?! Stai bene?
+251     [Kunan](2): ¿Qué ha ocurrido? ¿Estás bien?
+255     [Kunan](3): What happened?! Are you OK?
+256     [Kunan](3): Que s'est-il passé?! Ça va?
+257     [Kunan](3): Was ist passiert?!? Alles okay?
+258     [Kunan](3): Cos'è successo?! Stai bene?
+259     [Kunan](3): ¿Qué ha ocurrido? ¿Estás bien?
+281     [Yugure](1): (...Ugh...)
+282     [Yugure](1): (... Aaah...)
+283     [Yugure](1): (...Umpf...)
+284     [Yugure](1): (Ugh...)
+285     [Yugure](1): (¡Uf!)
+289     [Yugure](2): (...Ugh...)
+290     [Yugure](2): (... Aaah...)
+291     [Yugure](2): (...Umpf...)
+292     [Yugure](2): (Ugh...)
+293     [Yugure](2): (¡Uf!)
+340     [Kunan](1): Great! You're awake!
+341     [Kunan](1): Tu ouvres les yeux! Quel soulagement!
+342     [Kunan](1): Sehr gut! Du bist wach!
+343     [Kunan](1): Meno male! Hai ripreso i sensi!
+344     [Kunan](1): ¡Estupendo! ¡Al fin te has despertado!
+348     [Kunan](2): You're awake! That's a relief!
+349     [Kunan](2): Tu ouvres les yeux! Quel soulagement!
+350     [Kunan](2): Oh, gut! Du kommst zu dir! Ich bin erleichtert!
+351     [Kunan](2): Meno male! Hai ripreso i sensi!
+352     [Kunan](2): ¡Estupendo! ¡Al fin te has despertado!
+356     [Kunan](3): You're awake! Thank goodness!
+357     [Kunan](3): Tu ouvres les yeux! Quel soulagement!
+358     [Kunan](3): Du bist wach! Zum Glück!
+359     [Kunan](3): Meno male! Hai ripreso i sensi!
+360     [Kunan](3): ¡Te has despertado! ¡Menos mal!
+397     [Yugure](1): (Where...where am I...?)
+398     [Yugure](1): (Mais où... où suis-je...?)
+399     [Yugure](1): (Wo... Wo bin ich?)
+400     [Yugure](1): (Dove... Dove mi trovo...?)
+401     [Yugure](1): (¿Dónde...? ¿Dónde estoy?)
+405     [Yugure](2): (Where...where am I...?)
+406     [Yugure](2): (Mais où... où suis-je...?)
+407     [Yugure](2): (Wo... Wo bin ich?)
+408     [Yugure](2): (Dove... Dove mi trovo...?)
+409     [Yugure](2): (¿Dónde...? ¿Dónde estoy?)
+421     [Kunan](1): You weren't moving. You really had me worried there!
+422     [Kunan](1): Tu ne bougeais plus du tout. J'étais vraiment inquiet pour toi!
+423     [Kunan](1): Du hast dich kein bisschen gerührt. Ich habe mir schon Sorgen gemacht!
+424     [Kunan](1): Non sembravi affatto in forma! Stavo iniziando a preoccuparmi!
+425     [Kunan](1): No te movías. ¡Me tenías muy preocupado!
+429     [Kunan](2): You weren't moving at all. I was seriously worried!
+430     [Kunan](2): Tu ne bougeais plus du tout. J'étais vraiment inquiet pour toi!
+431     [Kunan](2): Du lagst ganz reglos da. Ich habe mir wirklich Sorgen gemacht!
+432     [Kunan](2): Eri così immobile... Mi stavo  davvero preoccupando!
+433     [Kunan](2): No te movías. ¡Estaba muy preocupado!
+437     [Kunan](3): You wouldn't move at all. I was really scared for you!
+438     [Kunan](3): Tu ne bougeais plus du tout. J'étais vraiment inquiète pour toi!
+439     [Kunan](3): Du lagst ganz reglos da. Ich hatte wirklich Angst um dich!
+440     [Kunan](3): Eri così immobile. Ero davvero preoccupata!
+441     [Kunan](3): No te movías. ¡Estaba muy preocupada!
+447     [Kunan](1): How did you wind up unconscious out here?
+448     [Kunan](1): Tu te rappelles comment tu as échoué ici, sans connaissance?
+449     [Kunan](1): Wie ist es dazu gekommen, dass du hier ohnmächtig wurdest?
+450     [Kunan](1): Come hai fatto a finire qui in queste condizioni?
+451     [Kunan](1): ¿Cómo es que te has desmayado aquí?
+455     [Kunan](2): Do you remember how you ended up unconscious out here?
+456     [Kunan](2): Tu te rappelles comment tu as échoué ici, sans connaissance?
+457     [Kunan](2): Erinnerst du dich, wie du hier ohnmächtig geworden bist?
+458     [Kunan](2): Ricordi come hai fatto a finire qui in queste condizioni?
+459     [Kunan](2): ¿Qué te ha pasado? ¿Por qué te has desmayado?
+463     [Kunan](3): Do you have any idea how you ended up unconscious out here?
+464     [Kunan](3): Tu te rappelles comment tu as échoué ici, sans connaissance?
+465     [Kunan](3): Hast du eine Ahnung, wie du hier ohnmächtig geworden bist?
+466     [Kunan](3): Come hai fatto a finire qui in queste condizioni?
+467     [Kunan](3): ¿Qué te ha pasado? ¿Por qué te has desmayado?
+475     [Yugure](1): (I... I was unconscious? What happened...?)
+476     [Yugure](1): (Je... j'ai perdu connaissance? Mais qu'est-ce qui a pu se passer...?)
+477     [Yugure](1): (Ich... Ich war ohnmächtig? Was ist passiert?)
+478     [Yugure](1): (Avevo... Avevo perso conoscenza? Cosa è successo...?)
+479     [Yugure](1): (Me... ¿Me he desmayado? ¿Qué ha ocurrido...?)
+483     [Yugure](2): (I... I was unconscious? What happened...?)
+484     [Yugure](2): (Je... j'ai perdu connaissance? Mais qu'est-ce qui a pu se passer...?)
+485     [Yugure](2): (Ich... Ich war ohnmächtig? Was ist passiert?)
+486     [Yugure](2): (Avevo... Avevo perso conoscenza? Cosa è successo...?)
+487     [Yugure](2): (Me... ¿Me he desmayado? ¿Qué ha ocurrido...?)
+495     [Kunan](1): Anyway, I'm Kunan. Glad to meet you!
+496     [Kunan](1): En tout cas, moi je m'appelle Kunan. Ravi de faire ta connaissance!
+497     [Kunan](1): Ich bin jedenfalls Kunan. Freut mich, dich kennenzulernen!
+498     [Kunan](1): Ad ogni modo, io sono Kunan. Piacere!
+499     [Kunan](1): Bueno, yo soy Kunan. ¡Encantado de conocerte!
+503     [Kunan](2): Well, I'm Kunan. Glad to meet you!
+504     [Kunan](2): En tout cas, moi je m'appelle Kunan. Ravi de faire ta connaissance!
+505     [Kunan](2): Also, ich bin Kunan. Freut mich, dich kennenzulernen!
+506     [Kunan](2): Ad ogni modo, io sono Kunan. Piacere di conoscerti!
+507     [Kunan](2): Yo soy Kunan. ¡Encantado de conocerte!
+511     [Kunan](3): Anyway, I'm Kunan. Happy to meet you!
+512     [Kunan](3): En tout cas, moi je m'appelle Kunan. Ravie de faire ta connaissance!
+513     [Kunan](3): Ich bin jedenfalls Kunan. Freut mich sehr, dich kennenzulernen!
+514     [Kunan](3): Ad ogni modo, io sono Kunan. Piacere di conoscerti!
+515     [Kunan](3): Bueno, yo soy Kunan. ¡Encantada de conocerte!
+523     [Kunan](1): So who might you be?
+524     [Kunan](1): Et toi, comment tu t'appelles?
+525     [Kunan](1): Und wer bist du?
+526     [Kunan](1): E tu chi sei?
+527     [Kunan](1): ¿Y tú quién eres?
+531     [Kunan](2): And who are you?
+532     [Kunan](2): Et toi, comment tu t'appelles?
+533     [Kunan](2): Und wer bist du?
+534     [Kunan](2): E tu chi sei?
+535     [Kunan](2): ¿Quién eres tú?
+539     [Kunan](3): And who are you?
+540     [Kunan](3): Et toi, comment tu t'appelles?
+541     [Kunan](3): Und wer bist du?
+542     [Kunan](3): E tu chi sei?
+543     [Kunan](3): ¿Y tú?
+549     [Kunan](1): I don't think I've seen your face around here.
+550     [Kunan](1): Je crois que c'est la première fois que je te vois dans le coin!
+551     [Kunan](1): Dein Gesicht kommt mir nicht bekannt vor.
+552     [Kunan](1): Non mi sembra di conoscerti.
+553     [Kunan](1): Nunca te había visto por aquí.
+557     [Kunan](2): I've never seen you around before.
+558     [Kunan](2): Je crois que c'est la première fois que je te vois dans le coin!
+559     [Kunan](2): Ich habe dich hier noch nie gesehen.
+560     [Kunan](2): Non mi sembra di conoscerti.
+561     [Kunan](2): No me suena haberte visto nunca por aquí.
+565     [Kunan](3): I don't think I've seen you around before.
+566     [Kunan](3): Je crois que c'est la première fois que je te vois dans le coin!
+567     [Kunan](3): Ich glaube nicht, dass ich dich schon mal gesehen habe.
+568     [Kunan](3): Non mi sembra di conoscerti.
+569     [Kunan](3): No recuerdo haberte visto por aquí.
+585     [Kunan](1): Huh? You say you're a human?
+586     [Kunan](1): Quoi? Tu dis que tu es un être humain?
+587     [Kunan](1): Häh? Du bist ein Mensch?
+588     [Kunan](1): Cosa? Tu saresti un essere umano?
+589     [Kunan](1): ¿Qué? ¿Dices que eres un ser humano?
+593     [Kunan](2): What? You say you're a human?
+594     [Kunan](2): Quoi? Tu dis que tu es un être humain?
+595     [Kunan](2): Was? Du bist ein Mensch?
+596     [Kunan](2): Cosa? Tu saresti un essere umano?
+597     [Kunan](2): ¿Qué? ¿Dices que eres un ser humano?
+601     [Kunan](3): What? You say you're a human?
+602     [Kunan](3): Quoi? Tu dis que tu es un être humain?
+603     [Kunan](3): Wie? Du bist ein Mensch?
+604     [Kunan](3): Cosa? Tu saresti un essere umano?
+605     [Kunan](3): ¿Qué? ¿Dices que eres un ser humano?
+611     [Kunan](1): You look like a totally normal Duskako to me!
+612     [Kunan](1): Si tu veux mon avis, tu as l'air d'un Duskako tout à fait normal!
+613     [Kunan](1): Du siehst für mich wie ein ganz normales Duskako aus!
+614     [Kunan](1): A me sembri un normalissimo Duskako!
+615     [Kunan](1): ¡A mí me pareces un Duskako completamente normal!
+619     [Kunan](2): You look like a totally normal Duskako to me!
+620     [Kunan](2): Si tu veux mon avis, tu as l'air d'un Duskako tout à fait normal!
+621     [Kunan](2): Du siehst für mich wie ein ganz normales Duskako aus!
+622     [Kunan](2): A me sembri un normalissimo Duskako!
+623     [Kunan](2): ¡A mí me pareces un Duskako completamente normal!
+627     [Kunan](3): You look like a totally normal Duskako to me!
+628     [Kunan](3): Si tu veux mon avis, tu as l'air d'un Duskako tout à fait normal!
+629     [Kunan](3): Du siehst für mich wie ein ganz normales Duskako aus!
+630     [Kunan](3): A me sembri un normalissimo Duskako!
+631     [Kunan](3): ¡A mí me pareces un Duskako completamente normal!
+668     [Yugure](1): (It's...it's true!)
+669     [Yugure](1): (C'est... c'est vrai!)
+670     [Yugure](1): (Es ist... Es ist wahr!)
+671     [Yugure](1): (È... È vero!)
+672     [Yugure](1): (Es... ¡es cierto!)
+676     [Yugure](2): (It's...it's true!)
+677     [Yugure](2): (C'est... c'est vrai!)
+678     [Yugure](2): (Es ist... Es ist wahr!)
+679     [Yugure](2): (È... È vero!)
+680     [Yugure](2): (Es... ¡es cierto!)
+689     [Yugure](1): (I've turned into an Duskako!)
+690     [Yugure](1): (Je me suis changé en Duskako!)
+691     [Yugure](1): (Ich bin zu einem Duskako geworden!)
+692     [Yugure](1): (Sono diventato un Pokémon, un esemplare di Duskako!)
+693     [Yugure](1): (¡Me he convertido en un Duskako!)
+697     [Yugure](2): (I've turned into an Duskako!)
+698     [Yugure](2): (Je me suis changée en Duskako!)
+699     [Yugure](2): (Ich bin zu einem Duskako geworden!)
+700     [Yugure](2): (Mi sono trasformata in un Pokémon, un esemplare di Duskako!)
+701     [Yugure](2): (¡Me he convertido en una Duskako!)
+711     [Yugure](1): (...But how did this happen? I don't remember anything...)
+712     [Yugure](1): (... Que s'est-il passé? Je ne me souviens de rien...)
+713     [Yugure](1): (...Aber wie ist das geschehen? Ich kann mich an nichts erinnern...)
+714     [Yugure](1): (Ma come è successo? Non mi ricordo  niente...)
+715     [Yugure](1): (¿Cómo ha podido ocurrir? No recuerdo nada.)
+719     [Yugure](2): (...But how did this happen? I don't remember anything...)
+720     [Yugure](2): (... Que s'est-il passé? Je ne me souviens de rien...)
+721     [Yugure](2): (...Aber wie ist das geschehen? Ich kann mich an nichts erinnern...)
+722     [Yugure](2): (Ma come è successo? Non mi ricordo  niente...)
+723     [Yugure](2): (¿Cómo ha podido ocurrir? No recuerdo nada.)
+731     [Kunan](1): You're...a little odd...
+732     [Kunan](1): Tu es... un peu bizarre, quand même...
+733     [Kunan](1): Du bist... etwas merkwürdig...
+734     [Kunan](1): Mi sembri... davvero un tipo strano...
+735     [Kunan](1): Eres... un Pokémon un poco raro.
+739     [Kunan](2): You're...a little odd...
+740     [Kunan](2): Tu es... un peu bizarre, quand même...
+741     [Kunan](2): Du bist... etwas merkwürdig...
+742     [Kunan](2): Mi sembri... davvero un tipo strano...
+743     [Kunan](2): Eres... un Pokémon un poco raro.
+747     [Kunan](3): You're...a little odd...
+748     [Kunan](3): Tu es... un peu bizarre, quand même...
+749     [Kunan](3): Du bist... etwas merkwürdig...
+750     [Kunan](3): Mi sembri... davvero un tipo strano...
+751     [Kunan](3): Eres... un Pokémon un poco raro.
+757     [Kunan](1): Are you pulling some kind of trick on me?
+758     [Kunan](1): Tu es en train de me faire une blague?
+759     [Kunan](1): Soll das irgendein Streich sein?
+760     [Kunan](1): Non mi starai prendendo in giro?
+761     [Kunan](1): ¿No me estarás gastando una broma?
+765     [Kunan](2): Are you pulling some kind of trick on me?
+766     [Kunan](2): Tu es en train de me faire une blague?
+767     [Kunan](2): Soll das irgendein Streich sein?
+768     [Kunan](2): Non mi starai prendendo in giro?
+769     [Kunan](2): ¿No me estarás gastando una broma?
+773     [Kunan](3): Are you pulling some kind of trick on me?
+774     [Kunan](3): Tu es en train de me faire une blague?
+775     [Kunan](3): Soll das irgendein Streich sein?
+776     [Kunan](3): Non mi starai prendendo in giro?
+777     [Kunan](3): ¿No me estarás gastando una broma?
+798     [Kunan](1): You're telling me the truth?
+799     [Kunan](1): Tu me dis la vérité?
+800     [Kunan](1): Du hast die Wahrheit gesagt?
+801     [Kunan](1): Mi stai dicendo la verità?
+802     [Kunan](1): ¿Me estás diciendo la verdad?
+806     [Kunan](2): You're telling me the truth?
+807     [Kunan](2): Tu me dis la vérité?
+808     [Kunan](2): Du hast die Wahrheit gesagt?
+809     [Kunan](2): Mi stai dicendo la verità?
+810     [Kunan](2): ¿Me estás diciendo la verdad?
+814     [Kunan](3): You're telling me the truth?
+815     [Kunan](3): Tu me dis la vérité?
+816     [Kunan](3): Du hast die Wahrheit gesagt?
+817     [Kunan](3): Mi stai dicendo la verità?
+818     [Kunan](3): ¿Me estás diciendo la verdad?
+824     [Kunan](1): OK, then what's your name? What do you call yourself?
+825     [Kunan](1): Bon, d'accord. C'est quoi ton nom alors? Quel est ton nom?
+826     [Kunan](1): Okay, wie heißt du? Wie ist dein Name?
+827     [Kunan](1): Ok, allora qual è il tuo nome? Come ti chiami?
+828     [Kunan](1): Bueno, ¿y cómo te llamas? ¿Cuál es tu nombre?
+832     [Kunan](2): All right, then. Your name? What's your name?
+833     [Kunan](2): Bon, d'accord. C'est quoi ton nom alors? Quel est ton nom?
+834     [Kunan](2): Na gut. Und wie heißt du? Wie ist dein Name?
+835     [Kunan](2): Ok, allora qual è il tuo nome? Come ti chiami?
+836     [Kunan](2): Bueno, ¿me podrías decir cómo te llamas? ¿Cuál es tu nombre?
+840     [Kunan](3): OK, how about your name? What's your name?
+841     [Kunan](3): Bon, d'accord. C'est quoi ton nom alors? Quel est ton nom?
+842     [Kunan](3): Okay, wie heißt du? Wie ist dein Name?
+843     [Kunan](3): Ok, allora qual è il tuo nome? Come ti chiami?
+844     [Kunan](3): Bueno... ¿Y cómo te llamas? ¿Cuál es tu nombre?
+852     [Yugure](1): (My name? That's right, my name is...)
+853     [Yugure](1): (Mon nom? Ah oui, je m'appelle...)
+854     [Yugure](1): (Mein Name? Ach ja... Mein Name ist...)
+855     [Yugure](1): (Il mio nome? Giusto, il mio nome è...)
+856     [Yugure](1): (¿Mi nombre? Eso es. Me llamo...)
+860     [Yugure](2): (My name? That's right, my name is...)
+861     [Yugure](2): (Mon nom? Ah oui, je m'appelle...)
+862     [Yugure](2): (Mein Name? Ach ja... Mein Name ist...)
+863     [Yugure](2): (Il mio nome? Giusto, il mio nome è...)
+864     [Yugure](2): (¿Mi nombre? Eso es. Me llamo...)
+873     [Kunan](1): Oh, Yugure is your name?
+874     [Kunan](1): Alors comme ça, tu t'appelles Yugure?
+875     [Kunan](1): Oh, du heißt Yugure?
+876     [Kunan](1): Oh, ti chiami Yugure?
+877     [Kunan](1): Así que te llamas Yugure...
+881     [Kunan](2): Oh, Yugure is your name?
+882     [Kunan](2): Alors comme ça, tu t'appelles Yugure?
+883     [Kunan](2): Oh, du heißt Yugure?
+884     [Kunan](2): Oh, ti chiami Yugure?
+885     [Kunan](2): Ah, ¿te llamas Yugure?
+889     [Kunan](3): So you're named Yugure?
+890     [Kunan](3): Alors comme ça, tu t'appelles Yugure?
+891     [Kunan](3): Du heißt Yugure?
+892     [Kunan](3): Oh, ti chiami Yugure?
+893     [Kunan](3): ¿Te llamas Yugure?
+910     [Kunan](1): OK. Well, you don't seem to be a bad Pokémon, at least.
+911     [Kunan](1): D'accord. Après tout, tu n'as pas l'air d'être un méchant Pokémon.
+912     [Kunan](1): Okay. Nun, zumindest scheinst du kein bösartiges Pokémon zu sein.
+913     [Kunan](1): Ok. Beh, perlomeno non sembri  essere un Pokémon cattivo.
+914     [Kunan](1): Vale. Bueno, al menos no pareces un Pokémon malvado.
+918     [Kunan](2): OK. Well, you don't seem to be a bad Pokémon, at least.
+919     [Kunan](2): D'accord. Après tout, tu n'as pas l'air d'être un méchant Pokémon.
+920     [Kunan](2): Okay. Nun, zumindest scheinst du kein bösartiges Pokémon zu sein.
+921     [Kunan](2): Ok. Beh, perlomeno non sembri  essere un Pokémon cattivo.
+922     [Kunan](2): Vale. Bueno, al menos no pareces un Pokémon malvado.
+926     [Kunan](3): OK. Well, you don't seem to be a bad Pokémon, at least.
+927     [Kunan](3): D'accord. Après tout, tu n'as pas l'air d'être un méchant Pokémon.
+928     [Kunan](3): Okay. Nun, zumindest scheinst du kein bösartiges Pokémon zu sein.
+929     [Kunan](3): Ok. Beh, perlomeno non sembri  essere un Pokémon cattivo.
+930     [Kunan](3): Vale. Bueno, al menos no pareces un Pokémon malvado.
+946     [Kunan](1): Sorry that I doubted you.
+947     [Kunan](1): Je suis désolé d'avoir douté de toi.
+948     [Kunan](1): Tut mir leid, dass ich dir nicht geglaubt habe.
+949     [Kunan](1): Mi spiace aver dubitato di te.
+950     [Kunan](1): Siento haber dudado de ti.
+954     [Kunan](2): Sorry that I doubted you.
+955     [Kunan](2): Je suis désolé d'avoir douté de toi.
+956     [Kunan](2): Tut mir leid, dass ich dir nicht geglaubt habe.
+957     [Kunan](2): Mi spiace aver dubitato di te.
+958     [Kunan](2): Siento haber dudado de ti.
+962     [Kunan](3): Sorry that I doubted you.
+963     [Kunan](3): Je suis désolée d'avoir douté de toi.
+964     [Kunan](3): Tut mir leid, dass ich dir nicht geglaubt habe.
+965     [Kunan](3): Mi spiace aver dubitato di te.
+966     [Kunan](3): Siento haber dudado de ti.
+972     [Kunan](1): More and more bad Pokémon have been turning up lately, you see!
+973     [Kunan](1): Tu comprends, il y a de plus en plus de Pokémon méchants ces derniers temps.
+974     [Kunan](1): Weißt du, neuerdings gibt es immer mehr bösartige Pokémon!
+975     [Kunan](1): Sai, ultimamente ci sono in giro parecchi Pokémon cattivi!
+976     [Kunan](1): Últimamente cada vez hay más Pokémon malvados.
+980     [Kunan](2): More and more bad Pokémon have been turning up lately, you see!
+981     [Kunan](2): Tu comprends, il y a de plus en plus de Pokémon méchants ces derniers temps.
+982     [Kunan](2): Weißt du, neuerdings gibt es immer mehr bösartige Pokémon!
+983     [Kunan](2): Sai, ultimamente si vedono in giro moltissimi Pokémon cattivi!
+984     [Kunan](2): Últimamente han ido apareciendo muchos Pokémon malvados.
+988     [Kunan](3): More and more bad Pokémon have been turning up lately, you see!
+989     [Kunan](3): Tu comprends, il y a de plus en plus de Pokémon méchants ces derniers temps.
+990     [Kunan](3): Weißt du, neuerdings gibt es immer mehr bösartige Pokémon!
+991     [Kunan](3): Sai, ultimamente si incontrano in giro molti Pokémon cattivi!
+992     [Kunan](3): Últimamente cada vez hay más Pokémon malvados.
+998     [Kunan](1): A lot of Pokémon have started being aggressive lately. Things have gotten wild for some reason...
+999     [Kunan](1): Beaucoup de Pokémon deviennent agressifs ces temps-ci. On ne se sent plus en sécurité comme avant.
+1000    [Kunan](1): Viele Pokémon sind in letzter Zeit aggressiv geworden. Die Dinge sind irgendwie außer Kontrolle geraten...
+1001    [Kunan](1): Negli ultimi tempi molti Pokémon si stanno comportando in maniera aggressiva senza una ragione...
+1002    [Kunan](1): Muchos Pokémon se han vuelto agresivos. Debe de haber algún motivo...
+1006    [Kunan](2): Many Pokémon have gotten aggressive lately. Things have grown somewhat lawless...
+1007    [Kunan](2): Beaucoup de Pokémon deviennent agressifs ces temps-ci. On ne se sent plus en sécurité comme avant.
+1008    [Kunan](2): Viele Pokémon sind in letzter Zeit aggressiv geworden. Alles ist ziemlich chaotisch...
+1009    [Kunan](2): Molti Pokémon sono diventati aggressivi negli ultimi tempi. Le cose sono un po' confuse...
+1010    [Kunan](2): Muchos Pokémon se han vuelto agresivos. Las cosas se han descontrolado por aquí...
+1014    [Kunan](3): A lot of Pokémon have gotten aggressive lately. It's just not safe anymore...
+1015    [Kunan](3): Beaucoup de Pokémon deviennent agressifs ces temps-ci. On ne se sent plus en sécurité comme avant.
+1016    [Kunan](3): Viele Pokémon sind in letzter Zeit aggressiv geworden. Man kann sich nicht mehr sicher fühlen...
+1017    [Kunan](3): Molti Pokémon sono diventati aggressivi negli ultimi tempi. Non mi sento più molto al sicuro...
+1018    [Kunan](3): Muchos Pokémon se han vuelto agresivos. Una ya no se siente segura en ninguna parte...
+1062    [Kunan](1): Ow!
+1063    [Kunan](1): Aïe!
+1064    [Kunan](1): Au!
+1065    [Kunan](1): Ouch!
+1066    [Kunan](1): ¡Ah!
+1070    [Kunan](2): Ouch!
+1071    [Kunan](2): Aïe!
+1072    [Kunan](2): Autsch!
+1073    [Kunan](2): Ouch!
+1074    [Kunan](2): ¡Ay!
+1078    [Kunan](3): Yowch!
+1079    [Kunan](3): Aïe!
+1080    [Kunan](3): Aua!
+1081    [Kunan](3): Ahi!
+1082    [Kunan](3): ¡Ay!
+1126    [Koffing]: Well, I do beg your pardon.
+1127    [Koffing]: Oups! Désolé.
+1128    [Koffing]: Och, das tut mir aber leid.
+1129    [Koffing]: Oh, chiedo scusa.
+1130    [Koffing]: Mil perdones...
+1148    [Kunan](1): Hey! Why'd you do that?!
+1149    [Kunan](1): Hé! Pourquoi t'as fait ça?!
+1150    [Kunan](1): Hey! Warum hast du das gemacht?!?
+1151    [Kunan](1): Ehi, perché l'hai fatto?!
+1152    [Kunan](1): ¡Eh! ¿Por qué habéis hecho eso?
+1156    [Kunan](2): Hey! Why'd you do that?!
+1157    [Kunan](2): Hé! Pourquoi t'as fait ça?!
+1158    [Kunan](2): Hey! Warum hast du das gemacht?!?
+1159    [Kunan](2): Ehi, perché l'hai fatto?!
+1160    [Kunan](2): ¡Eh! ¿Por qué habéis hecho eso?
+1164    [Kunan](3): Hey! Why'd you do that?!
+1165    [Kunan](3): Hé! Pourquoi t'as fait ça?!
+1166    [Kunan](3): Hey! Warum hast du das gemacht?!?
+1167    [Kunan](3): Ehi, perché l'hai fatto?!
+1168    [Kunan](3): ¡Eh! ¿Por qué habéis hecho eso?
+1174    [Zubat]: Heh-heh-heh! Can't figure it out?
+1175    [Zubat]: Hin hin hin! T'as pas une petite idée?
+1176    [Zubat]: Hehehe! Kommst du nicht selbst drauf?
+1177    [Zubat]: Eh-eh-eh! Non ci arrivi?
+1178    [Zubat]: ¡Jue, jue, jue! ¿No te lo imaginas?
+1181    [Zubat]: We wanted to mess with you! Can't face up to us, can you?!
+1182    [Zubat]: On veut juste vous embêter! Vous faites pas le poids, de toute façon!
+1183    [Zubat]: Wir wollen Ärger machen! Du hast wohl nicht den Mumm dazu, dich zu wehren?
+1184    [Zubat]: Volevamo azzuffarci un po' con te! Non hai il coraggio di affrontarci, vero?
+1185    [Zubat]: ¡Porque queríamos meternos contigo! Y no vas a hacer nada al respecto, ¿verdad?
+1199    [Kunan](1): Wh-what?!
+1200    [Kunan](1): Q-quoi?!
+1201    [Kunan](1): W-was?!?
+1202    [Kunan](1): C-Cosa?!
+1203    [Kunan](1): ¡¿Qué?!
+1207    [Kunan](2): Wh-what?!
+1208    [Kunan](2): Q-quoi?!
+1209    [Kunan](2): W-was?!?
+1210    [Kunan](2): C-Cosa?!
+1211    [Kunan](2): ¡¿Qué?!
+1215    [Kunan](3): Wh-what?!
+1216    [Kunan](3): Q-quoi?!
+1217    [Kunan](3): W-was?!?
+1218    [Kunan](3): C-Cosa?!
+1219    [Kunan](3): ¡¿Qué?!
+1229    [Zubat]: That's yours, isn't it?
+1230    [Zubat]: C'est à toi, ça, non?
+1231    [Zubat]: Das gehört dir, oder?
+1232    [Zubat]: Questo è tuo, giusto?
+1233    [Zubat]: Esto es tuyo, ¿no?
+1255    [Kunan](1): Hey! That's...!
+1256    [Kunan](1): Non! C'est...!
+1257    [Kunan](1): Hey! Das ist...
+1258    [Kunan](1): Ehi! Quello è...!
+1259    [Kunan](1): ¡Eh! ¡Eso es mi...!
+1263    [Kunan](2): No! That's...!
+1264    [Kunan](2): Non! C'est...!
+1265    [Kunan](2): Nein! Das ist...
+1266    [Kunan](2): No! Quello è...!
+1267    [Kunan](2): ¡No! ¡Eso es mi...!
+1271    [Kunan](3): Oh! That's...!
+1272    [Kunan](3): Non! C'est...!
+1273    [Kunan](3): Oh! Das ist...
+1274    [Kunan](3): Oh! Quello è...!
+1275    [Kunan](3): ¡Oh! ¡Eso es mi...!
+1281    [Zubat]: Sorry, kiddo. We'll take that!
+1282    [Zubat]: Désolé, mon chou. On va te le prendre!
+1283    [Zubat]: Sorry, du Zwerg. Aber das nehmen wir!
+1284    [Zubat]: Questo ce lo prendiamo noi!
+1285    [Zubat]: Lo siento, colega. ¡Nos lo quedamos!
+1302    [Kunan](1): Aaaah!
+1303    [Kunan](1): Aaah!
+1304    [Kunan](1): Aaaah!
+1305    [Kunan](1): Aaaah!
+1306    [Kunan](1): ¡Aaah!
+1310    [Kunan](2): Aaaah!
+1311    [Kunan](2): Aaah!
+1312    [Kunan](2): Aaaah!
+1313    [Kunan](2): Aaaah!
+1314    [Kunan](2): ¡Aaah!
+1318    [Kunan](3): Aaaah!
+1319    [Kunan](3): Aaah!
+1320    [Kunan](3): Aaaah!
+1321    [Kunan](3): Aaaah!
+1322    [Kunan](3): ¡Aaah!
+1343    [Koffing]: Whoa-ho-ho! Not gonna make a move to get that back? What's the matter? Too scared?
+1344    [Koffing]: Mouarf! Tu lèves même pas le petit doigt pour le récupérer? Qu'est-ce qui t'arrive? T'as trop peur?
+1345    [Koffing]: Whoahoho! Willst du es dir nicht zurückholen? Was ist los? Hast du etwa Angst?
+1346    [Koffing]: Ooooh! Non provi a  riprendertelo? Cosa c'è? Troppa fifa?
+1347    [Koffing]: ¡Jo, jo, jo! ¿Es que no vas a mover ni un dedo para recuperarlo? ¿Qué te pasa? ¿Tienes miedo?
+1350    [Koffing]: I didn't expect that you'd be such a big coward!
+1351    [Koffing]: Je pensais pas avoir affaire à une poule mouillée pareille!
+1352    [Koffing]: Ich hätte nicht gedacht, dass du so ein Angsthase bist!
+1353    [Koffing]: Non pensavo che avresti avuto così tanta paura!
+1354    [Koffing]: ¡No me esperaba que fueras tan cobarde!
+1366    [Koffing]: Come on. Let's get out of here.
+1367    [Koffing]: Allez, on s'en va!
+1368    [Koffing]: Komm schon. Hauen wir ab.
+1369    [Koffing]: Forza, andiamocene via di qua.
+1370    [Koffing]: Venga. Vámonos de aquí.
+1383    [Zubat]: See you around, chicken. Heh-heh-heh.
+1384    [Zubat]: A bientôt, poule mouillée. Hin hin hin!
+1385    [Zubat]: Bis irgendwann, du Memme. Hehehe.
+1386    [Zubat]: Ci vediamo, pusillanime. Eh-eh-eh.
+1387    [Zubat]: Nos vemos, gallina. Jue, jue, jue.
+1419    [Kunan](1): ...Ohhh...
+1420    [Kunan](1): ... Oooh...
+1421    [Kunan](1): ...Ohhh...
+1422    [Kunan](1): ... Ohhh...
+1423    [Kunan](1): Oh... no...
+1427    [Kunan](2): ...Ohhh...
+1428    [Kunan](2): ... Oooh...
+1429    [Kunan](2): ...Ohhh...
+1430    [Kunan](2): ... Ohhh...
+1431    [Kunan](2): Oh... no...
+1435    [Kunan](3): ...Ohhh...
+1436    [Kunan](3): ... Oooh...
+1437    [Kunan](3): ...Ohhh...
+1438    [Kunan](3): ... Ohhh...
+1439    [Kunan](3): Oh... no...
+1450    [Kunan](1): Wh-what should I do?
+1451    [Kunan](1): Que... que dois-je faire?
+1452    [Kunan](1): W-was soll ich nur tun?
+1453    [Kunan](1): Cosa faccio adesso?
+1454    [Kunan](1): Y ahora... ¿qué hago?
+1458    [Kunan](2): Wh-what should I do?
+1459    [Kunan](2): Que... que dois-je faire?
+1460    [Kunan](2): W-was soll ich nur tun?
+1461    [Kunan](2): Cosa faccio adesso?
+1462    [Kunan](2): ¿Qué... qué hago?
+1466    [Kunan](3): Wh-what should I do?
+1467    [Kunan](3): Que... que dois-je faire?
+1468    [Kunan](3): W-was soll ich nur tun?
+1469    [Kunan](3): Cosa faccio adesso?
+1470    [Kunan](3): ¿Qué... qué hago?
+1482    [Kunan](1): That's my personal treasure. It means everything to me.
+1483    [Kunan](1): C'est mon trésor. Pour moi, il a une valeur inestimable.
+1484    [Kunan](1): Das war mein Schatz. Er bedeutet mir alles.
+1485    [Kunan](1): Quello è il mio tesoro. Significa tutto per me.
+1486    [Kunan](1): Es mi talismán. Significa mucho para mí.
+1490    [Kunan](2): That's my personal treasure. It means everything to me.
+1491    [Kunan](2): C'est mon trésor. Pour moi, il a une valeur inestimable.
+1492    [Kunan](2): Das war mein Schatz. Er bedeutet mir alles.
+1493    [Kunan](2): Quello è il mio tesoro. Significa tutto per me.
+1494    [Kunan](2): Es mi talismán. Significa mucho para mí.
+1498    [Kunan](3): That's my personal treasure. It means everything to me.
+1499    [Kunan](3): C'est mon trésor. Pour moi, il a une valeur inestimable.
+1500    [Kunan](3): Das war mein Schatz. Er bedeutet mir alles.
+1501    [Kunan](3): Quello è il mio tesoro. Significa tutto per me.
+1502    [Kunan](3): Es mi talismán. Significa mucho para mí.
+1525    [Kunan](1): If I lose that...
+1526    [Kunan](1): Si jamais je le perds...
+1527    [Kunan](1): Ihn zu verlieren...
+1528    [Kunan](1): Se lo perdo...
+1529    [Kunan](1): Si lo pierdo...
+1533    [Kunan](2): If I lose that...
+1534    [Kunan](2): Si jamais je le perds...
+1535    [Kunan](2): Ihn zu verlieren...
+1536    [Kunan](2): Se lo perdo...
+1537    [Kunan](2): Si lo pierdo...
+1541    [Kunan](3): If I lose that...
+1542    [Kunan](3): Si jamais je le perds...
+1543    [Kunan](3): Ihn zu verlieren...
+1544    [Kunan](3): Se lo perdo...
+1545    [Kunan](3): Si lo pierdo...
+1558    [Kunan](1): No! There's no time to waste!
+1559    [Kunan](1): Non! Pas de temps à perdre!
+1560    [Kunan](1): Nein! Keine Zeit zum Grübeln!
+1561    [Kunan](1): No! Non c'è tempo da perdere!
+1562    [Kunan](1): ¡No! ¡No hay tiempo que perder!
+1566    [Kunan](2): No! There's no time to waste!
+1567    [Kunan](2): Non! Pas de temps à perdre!
+1568    [Kunan](2): Nein! Keine Zeit zum Grübeln!
+1569    [Kunan](2): No! Non c'è tempo da perdere!
+1570    [Kunan](2): ¡No! ¡No hay tiempo que perder!
+1574    [Kunan](3): No! There's no time to waste!
+1575    [Kunan](3): Non! Pas de temps à perdre!
+1576    [Kunan](3): Nein! Keine Zeit zum Grübeln!
+1577    [Kunan](3): No! Non c'è tempo da perdere!
+1578    [Kunan](3): ¡No! ¡No hay tiempo que perder!
+1585    [Kunan](1): I have to get it back! Hey, will you help me?
+1586    [Kunan](1): Il faut que je le récupère! Hé, tu veux m'aider?
+1587    [Kunan](1): Ich muss ihn zurückholen! Hey, hilfst du mir?
+1588    [Kunan](1): Devo assolutamente riprendermelo! Ehi, tu! Mi aiuteresti?
+1589    [Kunan](1): ¡Tengo que recuperarlo! Oye, ¿puedo contar con tu ayuda?
+1593    [Kunan](2): I've got to get it back! Hey, can I get you to help me?
+1594    [Kunan](2): Il faut que je le récupère! Hé, tu veux m'aider?
+1595    [Kunan](2): Ich muss ihn zurückholen! Hey, hilfst du mir?
+1596    [Kunan](2): Devo assolutamente riprendermelo! Ehi, tu! Mi aiuteresti?
+1597    [Kunan](2): ¡Tengo que recuperarlo! Oye, ¿querrías ayudarme?
+1601    [Kunan](3): I have to get it back! Say, can you please help me?
+1602    [Kunan](3): Il faut que je le récupère! Hé, tu veux m'aider?
+1603    [Kunan](3): Ich muss ihn zurückholen! Könntest du mir vielleicht helfen?
+1604    [Kunan](3): Devo assolutamente riprendermelo! Ehi, tu! Mi aiuteresti?
+1605    [Kunan](3): ¡Debo recuperarlo! ¿Podrías ayudarme?
+1610    [case_menu]: Yes
+1611    [case_menu]: Oui
+1612    [case_menu]: Ja
+1613    [case_menu]: Sì
+1614    [case_menu]: Sí
+1626    [Kunan](1): R-really? You'll really help?!
+1627    [Kunan](1): V-vraiment? Tu vas vraiment m'aider?!
+1628    [Kunan](1): W-wirklich? Du hilfst mir wirklich?!?
+1629    [Kunan](1): S-Sul serio? Mi aiuterai davvero?!
+1630    [Kunan](1): ¿En... En serio? ¡¿Me vas a ayudar de verdad?!
+1634    [Kunan](2): R-really? You'll really help?!
+1635    [Kunan](2): V-vraiment? Tu vas vraiment m'aider?!
+1636    [Kunan](2): W-wirklich? Du hilfst mir wirklich?!?
+1637    [Kunan](2): S-Sul serio? Mi aiuterai davvero?!
+1638    [Kunan](2): ¿De... De verdad? ¡¿Me vas a ayudar?!
+1642    [Kunan](3): R-really? You'll really help?!
+1643    [Kunan](3): V-vraiment? Tu vas vraiment m'aider?!
+1644    [Kunan](3): W-wirklich? Du hilfst mir wirklich?!?
+1645    [Kunan](3): S-Sul serio? Mi aiuterai davvero?!
+1646    [Kunan](3): ¿Lo dices... en serio? ¡¿Me vas a ayudar de verdad?!
+1652    [Kunan](1): Th-thank you! Let's go quickly!
+1653    [Kunan](1): Oh... merci! Vite, allons-y tout de suite!
+1654    [Kunan](1): D-danke! Schnell, gehen wir!
+1655    [Kunan](1): G-Grazie! Presto, andiamo!
+1656    [Kunan](1): ¡Gracias! ¡Vayamos cuanto antes!
+1660    [Kunan](2): Th-thank you! Let's go quickly!
+1661    [Kunan](2): Oh... merci! Vite, allons-y tout de suite!
+1662    [Kunan](2): D-danke! Schnell, gehen wir!
+1663    [Kunan](2): G-Grazie! Presto, andiamo!
+1664    [Kunan](2): ¡Gracias! ¡Vayamos cuanto antes!
+1668    [Kunan](3): Th-thanks! Can we go take care of it right now?
+1669    [Kunan](3): Oh... merci! Vite, allons-y tout de suite!
+1670    [Kunan](3): D-danke! Können wir uns jetzt sofort darum kümmern?
+1671    [Kunan](3): G-Grazie! Possiamo andare  subito?
+1672    [Kunan](3): ¡Gracias! ¿Podemos ir tras ellos ahora mismo?
+1699    [case_menu]: No
+1700    [case_menu]: Non
+1701    [case_menu]: Nein
+1702    [case_menu]: No
+1703    [case_menu]: No
+1716    [Kunan](1): Huh?! You won't help me?
+1717    [Kunan](1): Quoi?! Tu ne veux pas m'aider?
+1718    [Kunan](1): Häh?!? Du hilfst mir nicht?
+1719    [Kunan](1): Eh?! Non vuoi aiutarmi?
+1720    [Kunan](1): ¡¿Qué?! ¿No me vas a ayudar?
+1724    [Kunan](2): What?! You won't help me?
+1725    [Kunan](2): Quoi?! Tu ne veux pas m'aider?
+1726    [Kunan](2): Was?!? Du hilfst mir nicht?
+1727    [Kunan](2): Cosa?! Non vuoi aiutarmi?
+1728    [Kunan](2): ¡¿Qué?! ¿No quieres ayudarme?
+1732    [Kunan](3): Awww! You won't help me?
+1733    [Kunan](3): Quoi?! Tu ne veux pas m'aider?
+1734    [Kunan](3): Och, du hilfst mir nicht?
+1735    [Kunan](3): Aah! Non vuoi aiutarmi?
+1736    [Kunan](3): ¡¿Cómo?! ¿No vas a ayudarme?
+1742    [Kunan](1): That thing is really, really important to me!
+1743    [Kunan](1): Cet objet représente vraiment tout pour moi!
+1744    [Kunan](1): Dieses Ding ist mir wirklich, wirklich wichtig!
+1745    [Kunan](1): Si tratta di una cosa molto,  molto importante per me!
+1746    [Kunan](1): ¡Ese objeto es importantísimo para mí!
+1750    [Kunan](2): That thing really means everything to me!
+1751    [Kunan](2): Cet objet représente vraiment tout pour moi!
+1752    [Kunan](2): Dieses Ding ist mir wirklich, wirklich wichtig!
+1753    [Kunan](2): Quella cosa mi sta davvero a  cuore!
+1754    [Kunan](2): ¡Ese objeto es realmente importante para mí!
+1758    [Kunan](3): That thing is important to me!
+1759    [Kunan](3): Cet objet représente vraiment tout pour moi!
+1760    [Kunan](3): Dieses Ding ist mir wirklich, wirklich wichtig!
+1761    [Kunan](3): Quella cosa è importante  per me!
+1762    [Kunan](3): ¡Ese objeto es muy importante para mí!
+1770    [Kunan](1): If I can't get it back...
+1771    [Kunan](1): Si je n'arrive pas à le leur reprendre...
+1772    [Kunan](1): Wenn ich es nicht zurückholen kann...
+1773    [Kunan](1): Se non la posso riavere...
+1774    [Kunan](1): Si no lo recupero...
+1778    [Kunan](2): If I can't get it back...
+1779    [Kunan](2): Si je n'arrive pas à le leur reprendre...
+1780    [Kunan](2): Wenn ich es nicht zurückholen kann...
+1781    [Kunan](2): Se non la posso riavere...
+1782    [Kunan](2): Si no logro recuperarlo...
+1786    [Kunan](3): If I can't get it back...
+1787    [Kunan](3): Si je n'arrive pas à le leur reprendre...
+1788    [Kunan](3): Wenn ich es nicht zurückholen kann...
+1789    [Kunan](3): Se non la posso riavere...
+1790    [Kunan](3): Si no lograse recuperarlo...
+1802    [Kunan](1): Come on, please? Please help me get that treasure of mine back!
+1803    [Kunan](1): Oh, s'il te plaît? Je t'en prie, aide-moi à reprendre mon trésor à ces voyous!
+1804    [Kunan](1): Komm schon, bitte! Bitte hilf mir, meinen Schatz zurückzuholen!
+1805    [Kunan](1): Dai, per favore! Aiutami a riprendere il mio tesoro!
+1806    [Kunan](1): ¡Hablo en serio! Por favor... ¡Ayúdame a recuperar mi talismán!
+1810    [Kunan](2): I'm serious! Please? Please help me get that treasure of mine back!
+1811    [Kunan](2): Oh, s'il te plaît? Je t'en prie, aide-moi à reprendre mon trésor à ces voyous!
+1812    [Kunan](2): Ich meine es ernst! Bitte! Bitte hilf mir, meinen Schatz zurückzuholen!
+1813    [Kunan](2): Dico sul serio! Per favore!  Aiutami a riprendere il mio tesoro!
+1814    [Kunan](2): Por favor... ¡Ayúdame a recuperar mi talismán!
+1818    [Kunan](3): Oh, please? Please help me get that treasure of mine back from those guys!
+1819    [Kunan](3): Oh, s'il te plaît? Je t'en prie, aide-moi à reprendre mon trésor à ces voyous!
+1820    [Kunan](3): Ach bitte! Bitte hilf mir, diesen Typen den Schatz wieder abzunehmen!
+1821    [Kunan](3): Oh, ti prego! Aiutami a  riprendere il tesoro da quei tipacci!
+1822    [Kunan](3): Por favor... ¡Ayúdame a recuperar mi talismán!
+1827    [case_menu]: Yes
+1828    [case_menu]: Oui
+1829    [case_menu]: Ja
+1830    [case_menu]: Sì
+1831    [case_menu]: Sí
+1835    [case_menu]: No
+1836    [case_menu]: Non
+1837    [case_menu]: Nein
+1838    [case_menu]: No
+1839    [case_menu]: No
+1843    [case_menu]: Wh-what should I do?
+1844    [case_menu]: Que... que faire?
+1845    [case_menu]: W-was soll ich machen?
+1846    [case_menu]: Cosa faccio adesso?
+1847    [case_menu]: ¿Qué... Qué debería hacer?
+1856    [Kunan](1): We...we don't have time for this! Come on!
+1857    [Kunan](1): Nous... nous n'avons pas de temps à perdre, allons-y!
+1858    [Kunan](1): Wir... Wir haben keine Zeit für so was! Komm schon!
+1859    [Kunan](1): Non... Non abbiamo tempo per queste cose! Forza!
+1860    [Kunan](1): Venga... ¡Que no tenemos tiempo para esto! ¡Deprisa!
+1864    [Kunan](2): We don't have time to waste. Come on!
+1865    [Kunan](2): Nous... nous n'avons pas de temps à perdre, allons-y!
+1866    [Kunan](2): Wir haben keine Zeit zu verlieren. Komm schon!
+1867    [Kunan](2): Non abbiamo tempo da perdere. Muoviamoci!
+1868    [Kunan](2): No hay tiempo que perder, ¡vamos!
+1872    [Kunan](3): We don't have any time to waste! Let's go!
+1873    [Kunan](3): Nous... nous n'avons pas de temps à perdre, allons-y!
+1874    [Kunan](3): Wir haben keine Zeit zu verlieren! Lass uns gehen!
+1875    [Kunan](3): Non abbiamo tempo da perdere. Andiamo!
+1876    [Kunan](3): ¡No perdamos tiempo! ¡Vamos!
+1881    [case_menu]: G-got it!
+1882    [case_menu]: Je... je comprends!
+1883    [case_menu]: K-klaro!
+1884    [case_menu]: V-Va bene!
+1885    [case_menu]: ¡Lo... Lo tengo!
+1889    [case_menu]: But you can't just...
+1890    [case_menu]: Mais tu ne peux pas juste...
+1891    [case_menu]: Aber du kannst doch nicht...
+1892    [case_menu]: Ma non puoi...
+1893    [case_menu]: Pero no puedes...
+1909    [Kunan](1): That's my precious treasure...
+1910    [Kunan](1): C'est mon précieux trésor...
+1911    [Kunan](1): Mein wertvoller Schatz...
+1912    [Kunan](1): Quello è il mio prezioso tesoro...
+1913    [Kunan](1): Es mi querido tesoro...
+1917    [Kunan](2): That's my precious treasure...
+1918    [Kunan](2): C'est mon précieux trésor...
+1919    [Kunan](2): Mein wertvoller Schatz...
+1920    [Kunan](2): Quello è il mio prezioso tesoro...
+1921    [Kunan](2): Es mi tesoro adorado...
+1925    [Kunan](3): That's my precious treasure...
+1926    [Kunan](3): C'est mon précieux trésor...
+1927    [Kunan](3): Mein wertvoller Schatz...
+1928    [Kunan](3): Quello è il mio prezioso tesoro...
+1929    [Kunan](3): Es mi amado tesoro...
+1952    [Kunan](1): If that disappeared, then I'd...
+1953    [Kunan](1): S'il venait à disparaître, je...
+1954    [Kunan](1): Würde der verschwinden, ich...
+1955    [Kunan](1): Se dovessi perderlo, io...
+1956    [Kunan](1): Si desapareciera, yo...
+1960    [Kunan](2): If that disappeared, then I'd...
+1961    [Kunan](2): S'il venait à disparaître, je...
+1962    [Kunan](2): Würde der verschwinden, ich...
+1963    [Kunan](2): Se dovessi perderlo, io...
+1964    [Kunan](2): Si desapareciera, yo...
+1968    [Kunan](3): If that disappeared, then I'd...
+1969    [Kunan](3): S'il venait à disparaître, je...
+1970    [Kunan](3): Würde der verschwinden, ich...
+1971    [Kunan](3): Se dovessi perderlo, io...
+1972    [Kunan](3): Si desapareciera, yo...
+1984    [Kunan](1): Come on, I'm begging! Please help!
+1985    [Kunan](1): Allez, je t'en prie! Aide-moi, s'il te plaît!
+1986    [Kunan](1): Komm schon, ich flehe dich an! Bitte hilf!
+1987    [Kunan](1): Dai, per favore! Dammi una mano!
+1988    [Kunan](1): ¡Venga, te lo suplico! ¡Ayúdame, por favor!
+1992    [Kunan](2): Please! Please help!
+1993    [Kunan](2): Allez, je t'en prie! Aide-moi, s'il te plaît!
+1994    [Kunan](2): Bitte! Zu Hilfe!
+1995    [Kunan](2): Ti prego! Aiutami!
+1996    [Kunan](2): ¡Por favor! ¡Tienes que ayudarme!
+2000    [Kunan](3): Please! Please help!
+2001    [Kunan](3): Allez, je t'en prie! Aide-moi, s'il te plaît!
+2002    [Kunan](3): Bitte! Zu Hilfe!
+2003    [Kunan](3): Te lo chiedo per favore! Aiutami!
+2004    [Kunan](3): ¡Por favor! ¡Te ruego que me ayudes!
+2009    [case_menu]: G-got it!
+2010    [case_menu]: Je... je comprends!
+2011    [case_menu]: S-schon klar!
+2012    [case_menu]: V-Va bene!
+2013    [case_menu]: ¡Lo... Lo tengo!
+2017    [case_menu]: But I have no memory...
+2018    [case_menu]: Mais je n'ai aucun souvenir...
+2019    [case_menu]: Ich erinnere mich nicht...
+2020    [case_menu]: Ma io ho perso la memoria...
+2021    [case_menu]: Pero no recuerdo...
+2029    [Kunan](1): I know it's difficult...but hurry!
+2030    [Kunan](1): Je sais que c'est dur... mais dépêchons-nous!
+2031    [Kunan](1): Es mag schwierig sein, aber bitte beeile dich!
+2032    [Kunan](1): So che è difficile... Ma dobbiamo sbrigarci!
+2033    [Kunan](1): Ya sé que es difícil... ¡pero corre!
+2037    [Kunan](2): I know it's difficult...but hurry!
+2038    [Kunan](2): Je sais que c'est dur... mais dépêchons-nous!
+2039    [Kunan](2): Es mag schwierig sein, aber bitte beeile dich!
+2040    [Kunan](2): So che è difficile... Ma dobbiamo sbrigarci!
+2041    [Kunan](2): Ya sé que es difícil... ¡pero date prisa!
+2045    [Kunan](3): I know it's difficult...but hurry!
+2046    [Kunan](3): Je sais que c'est dur... mais dépêchons-nous!
+2047    [Kunan](3): Es mag schwierig sein, aber bitte beeile dich!
+2048    [Kunan](3): So che è difficile... Ma dobbiamo sbrigarci!
+2049    [Kunan](3): Ya sé que es difícil... ¡pero tienes que darte prisa!
+2056    [Kunan](1): It doesn't matter if you have no memory. You can still help! Please!
+2057    [Kunan](1): Peu importe que tu n'aies aucun souvenir. Tu peux quand même apporter ton aide! S'il te plaît!
+2058    [Kunan](1): Es kommt nicht drauf an, ob du dich erinnerst! Du kannst doch trotzdem helfen! Bitte!
+2059    [Kunan](1): Non importa se hai perso la memoria. Mi puoi aiutare lo stesso! Per favore!
+2060    [Kunan](1): No importa que no te acuerdes. ¡Todavía puedes ayudar! ¡Venga!
+2064    [Kunan](2): It doesn't matter if you have no memory. You can still help! Please!
+2065    [Kunan](2): Peu importe que tu n'aies aucun souvenir. Tu peux quand même apporter ton aide! S'il te plaît!
+2066    [Kunan](2): Es kommt nicht drauf an, ob du dich erinnerst! Du kannst doch trotzdem helfen! Bitte!
+2067    [Kunan](2): Non importa se hai perso la memoria. Mi puoi aiutare lo stesso! Per favore!
+2068    [Kunan](2): No importa que no te acuerdes, ¡Aún puedes ser de ayuda! ¡Por favor!
+2072    [Kunan](3): It doesn't matter if you have no memory. You can still help! Please!
+2073    [Kunan](3): Peu importe que tu n'aies aucun souvenir. Tu peux quand même apporter ton aide! S'il te plaît!
+2074    [Kunan](3): Es kommt nicht drauf an, ob du dich erinnerst! Du kannst doch trotzdem helfen! Bitte!
+2075    [Kunan](3): Non importa se hai perso la memoria. Mi puoi aiutare lo stesso! Per favore!
+2076    [Kunan](3): No importa que no te acuerdes. ¡Todavía puedes ayudar! ¡Te lo pido por favor!
+2081    [case_menu]: G-got it!
+2082    [case_menu]: Je... je comprends!
+2083    [case_menu]: V-verstanden!
+2084    [case_menu]: V-Va bene!
+2085    [case_menu]: ¡Lo... Lo tengo!
+2089    [case_menu]: But I'm sure I was a human...
+2090    [case_menu]: Mais j'étais un être humain...
+2091    [case_menu]: Nur war ich sicher ein Mensch...
+2092    [case_menu]: Ma io ero un essere umano...
+2093    [case_menu]: Pero sé que era un ser humano.
+2109    [Kunan](1): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+2110    [Kunan](1): Bah! Etre humain, fantôme... peu importe! Tu peux apporter ton aide, malgré tout! S'il te plaît!
+2111    [Kunan](1): Argh! Mensch, Gespenst, das tut jetzt nichts zur Sache. Du kannst mir helfen! Bitte!
+2112    [Kunan](1): Argh! Umano, fantasma, non importa. Puoi aiutarmi lo stesso! Ti prego!
+2113    [Kunan](1): ¡Arg! Humano, fantasma... ¿Qué más da? ¡Aún puedes ayudar! ¡Por favor!
+2117    [Kunan](2): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+2118    [Kunan](2): Bah! Etre humain, fantôme... peu importe! Tu peux apporter ton aide, malgré tout! S'il te plaît!
+2119    [Kunan](2): Argh! Mensch, Gespenst, das tut jetzt nichts zur Sache. Du kannst mir helfen! Bitte!
+2120    [Kunan](2): Argh! Umano, fantasma, non importa. Puoi aiutarmi lo stesso! Ti prego!
+2121    [Kunan](2): ¡Arg! ¡Da igual que fueras humano o fantasma! ¡Tú puedes ayudar!
+2125    [Kunan](3): Argh! Human, ghost, it doesn't matter. You can still help! Please!
+2126    [Kunan](3): Bah! Etre humain, fantôme... peu importe! Tu peux apporter ton aide, malgré tout! S'il te plaît!
+2127    [Kunan](3): Argh! Mensch, Gespenst, das tut jetzt nichts zur Sache. Du kannst mir helfen! Bitte!
+2128    [Kunan](3): Argh! Umano, fantasma, non importa. Puoi aiutarmi lo stesso! Ti prego!
+2129    [Kunan](3): ¡Arg! No importa que fueras humano o fantasma. ¡Todavía puedes ayudar!
+2137    [case_menu]: G-got it!
+2138    [case_menu]: Je... je comprends!
+2139    [case_menu]: V-verstanden!
+2140    [case_menu]: V-Va bene!
+2141    [case_menu]: ¡Lo... Lo tengo!
+2144    [case_menu]: O-OK!
+2145    [case_menu]: Très... très bien!
+2146    [case_menu]: O-okay!
+2147    [case_menu]: O-OK!
+2148    [case_menu]: ¡De... De acuerdo!
+2163    [case_menu]: Wh-what should I do?
+2164    [case_menu]: Que... que faire?
+2165    [case_menu]: W-was soll ich machen?
+2166    [case_menu]: Cosa faccio adesso?
+2167    [case_menu]: ¿Qué... Qué debería hacer?
+2176    [Kunan](1): (I've turned into a Duskako!)
+2177    [Kunan](1): (Je me suis changé en Duskako!)
+2178    [Kunan](1): (Ich bin zu einem Duskako geworden!)
+2179    [Kunan](1): (Sono diventato un Pokémon, un esemplare di Duskako!)
+2180    [Kunan](1): (¡Me he convertido en un Duskako!)
+2184    [Kunan](2): (I've turned into a Duskako!)
+2185    [Kunan](2): (Je me suis changée en Duskako!)
+2186    [Kunan](2): (Ich bin zu einem Duskako geworden!)
+2187    [Kunan](2): (Mi sono trasformata in un Pokémon, un esemplare di Duskako!)
+2188    [Kunan](2): (¡Me he convertido en un Duskako!)
+
+==> tests/inputs/m04a0101.txt <==
+35      [Loudred]: HEY, you two!
+36      [Loudred]: HEP LA, vous deux!
+37      [Loudred]: HEY, ihr zwei!
+38      [Loudred]: EHI, voi due!
+39      [Loudred]: ¡EH! ¡PAREJA!
+97      [Loudred]: We need your help with something today!
+98      [Loudred]: On a besoin de votre aide aujourd'hui!
+99      [Loudred]: Wir brauchen heute eure Hilfe!
+100     [Loudred]: Oggi ci serve il vostro aiuto per una cosetta!
+101     [Loudred]: ¡Hoy necesitamos que nos ayudéis con una cosa!
+136     [Loudred]: Diglett, I brought them!
+137     [Loudred]: Taupiqueur, les voilà!
+138     [Loudred]: Digda, hier sind sie!
+139     [Loudred]: Diglett, ecco qui!
+140     [Loudred]: ¡Diglett, aquí están!
+149     [Diglett]: Thank you, Loudred.
+150     [Diglett]: Merci, Ramboum.
+151     [Diglett]: Danke, Krakeelo.
+152     [Diglett]: Grazie, Loudred.
+153     [Diglett]: Gracias, Loudred.
+174     [Loudred]: You two are doing sentry duty today!
+175     [Loudred]: Aujourd'hui, vous allez être de garde à l'entrée!
+176     [Loudred]: Ihr beide übernehmt heute den Wachdienst!
+177     [Loudred]: Voi due siete di guardia oggi!
+178     [Loudred]: ¡Hoy os toca guardia!
+195     [Diglett]: Sorry. I'm usually the one to do sentry duty.
+196     [Diglett]: Désolé. Normalement, c'est moi la sentinelle.
+197     [Diglett]: Tut mir leid. Normalerweise ist der Wachdienst meine Aufgabe.
+198     [Diglett]: Mi spiace. Di solito lo faccio io.
+199     [Diglett]: Lo siento. Normalmente soy yo quien se ocupa de esto.
+202     [Diglett]: But today, my dad gave me his duty of updating the boards.
+203     [Diglett]: Mais aujourd'hui, je dois accomplir les tâches de mon père, c'est-à-dire mettre les tableaux à jour.
+204     [Diglett]: Aber heute hat mein Vater mir aufgetragen, die Infobretter zu aktualisieren.
+205     [Diglett]: Ma oggi mio padre mi ha chiesto di aggiornare le Bacheche al suo posto.
+206     [Diglett]: Pero mi padre me ha pedido que me encargue hoy de poner al día los tablones.
+209     [Diglett]: That's why I can't man my post.
+210     [Diglett]: Et c'est pour ça que je ne peux pas être à mon poste.
+211     [Diglett]: Also kann ich nicht auf meinem Posten sein.
+212     [Diglett]: Per questo non posso stare di  guardia.
+213     [Diglett]: Y por eso no puedo quedarme de guardia.
+216     [Diglett]: It would be great if someone could take over my sentry duty for today.
+217     [Diglett]: Ce serait super si quelqu'un pouvait s'occuper du poste de garde aujourd'hui.
+218     [Diglett]: Es wäre toll, wenn heute jemand den Wachdienst für mich übernehmen könnte.
+219     [Diglett]: Sarebbe fantastico se qualcuno potesse prendere il mio posto.
+220     [Diglett]: Y alguien debe ocupar mi puesto.
+223     [Diglett]: And that's why you're here. Please do a good job for me. Bye!
+224     [Diglett]: Et c'est pour ça que vous êtes ici. S'il vous plaît, travaillez bien. A plus!
+225     [Diglett]: Und darum seid ihr hier. Bitte macht meinen Job gut. Tschüss!
+226     [Diglett]: Ed ecco perché siete qui. Vi prego di fare un buon lavoro. Ciao!
+227     [Diglett]: Por eso estáis aquí. Espero que hagáis un buen trabajo. ¡Hasta luego!
+262     [Loudred]: ...And that's THAT.
+263     [Loudred]: ... Et c'est TOUT.
+264     [Loudred]: Das ist ALLES!
+265     [Loudred]: ... E così è DECISO.
+266     [Loudred]: Pues... No hay más que hablar.
+284     [Kunan](1): Huh?! I didn't follow that at all! Why are we involved?
+285     [Kunan](1): Euh... j'ai pas tout suivi! Qu'est-ce qu'on fait là?
+286     [Kunan](1): Ähem?!? Ich habe das nicht ganz mitbekommen! Warum hast du uns geholt?
+287     [Kunan](1): Eh?! Cos'ha detto? Perché dobbiamo farlo noi?
+288     [Kunan](1): ¿Eh? ¡No me he enterado de nada! ¿Por qué nos ha tenido que tocar?
+292     [Kunan](2): Huh?! I didn't follow that at all! Why are we involved in this?
+293     [Kunan](2): Euh... j'ai pas tout suivi! Qu'est-ce qu'on fait là?
+294     [Kunan](2): Ähem?!? Ich habe das nicht ganz mitbekommen! Warum hast du uns geholt?
+295     [Kunan](2): Eh?! Non sono riuscito a seguire quello che diceva! Perché dobbiamo farlo noi?
+296     [Kunan](2): ¿Eh? ¡No me he enterado de nada! ¿Por qué nos ha tenido que tocar?
+300     [Kunan](3): Huh?! I didn't follow that at all! How did we get involved in this?
+301     [Kunan](3): Euh... j'ai pas tout suivi! Qu'est-ce qu'on fait là?
+302     [Kunan](3): Ähem?!? Ich habe das nicht ganz mitbekommen! Warum hast du uns geholt?
+303     [Kunan](3): Eh?! Cosa voleva dire? Perché dobbiamo farlo noi?
+304     [Kunan](3): ¿Eh? ¡No me he enterado de nada! ¿Por qué nos ha tenido que tocar?
+347     [Loudred]: Shut your YAP!
+348     [Loudred]: On se TAIT!
+349     [Loudred]: Halt die KLAPPE!
+350     [Loudred]: Chiudi il BECCO!
+351     [Loudred]: ¡Cerrad el pico!
+354     [Loudred]: NO MORE BELLYACHING! GO DO YOUR DUTY!
+355     [Loudred]: FINI LES RONCHONNEMENTS! A VOS POSTES!
+356     [Loudred]: KEIN GEMURRE MEHR! GEHT UND TUT EURE PFLICHT!
+357     [Loudred]: BASTA LAMENTARSI! AL LAVORO!
+358     [Loudred]: ¡BASTA DE GIMOTEAR! ¡ID A CUMPLIR CON VUESTRO DEBER!
+365     [Kunan](1): Ugh... My head hurts...
+366     [Kunan](1): Argh... Bonjour les maux de tête...
+367     [Kunan](1): Argh, mein Kopf tut weh.
+368     [Kunan](1): Ugh... Mi fa male la testa...
+369     [Kunan](1): Ay... Tengo la cabeza como un bombo...
+373     [Kunan](2): Ow... My head is pounding...
+374     [Kunan](2): Argh... Bonjour les maux de tête...
+375     [Kunan](2): Au, mir tut der Kopf weh.
+376     [Kunan](2): Ahi... Che mal di testa...
+377     [Kunan](2): Uf... Qué dolor de cabeza...
+381     [Kunan](3): Ow... My head hurts...
+382     [Kunan](3): Argh... Bonjour les maux de tête...
+383     [Kunan](3): Au, mir tut der Kopf weh.
+384     [Kunan](3): Ahi... Mi gira la testa...
+385     [Kunan](3): Uf... Mi cabeza...
+410     [Kunan](1): What do you expect us to do, anyway?
+411     [Kunan](1): Qu'est-ce qu'on doit faire?
+412     [Kunan](1): Was sollen wir überhaupt tun?
+413     [Kunan](1): Cosa dobbiamo fare?
+414     [Kunan](1): ¿Y qué tenemos que hacer?
+418     [Kunan](2): What are we supposed to do?
+419     [Kunan](2): Qu'est-ce qu'on doit faire?
+420     [Kunan](2): Was sollen wir überhaupt tun?
+421     [Kunan](2): Cosa dobbiamo fare?
+422     [Kunan](2): ¿Y qué tenemos que hacer?
+426     [Kunan](3): What are we expected to do, anyway?
+427     [Kunan](3): Qu'est-ce qu'on doit faire?
+428     [Kunan](3): Was sollen wir eigentlich tun?
+429     [Kunan](3): Cosa dobbiamo fare?
+430     [Kunan](3): ¿Y qué tenemos que hacer?
+441     [Loudred]: Climb down this hole and stand guard. You're on sentry duty!
+442     [Loudred]: Descendez dans ce trou et montez la garde. Aujourd'hui, vous êtes au poste de garde!
+443     [Loudred]: Klettert dieses Loch hinunter und haltet Wache. Ihr habt Wachdienst!
+444     [Loudred]: Dovete scendere in questo buco per fare il turno di guardia!
+445     [Loudred]: Bajad por aquí y vigilad. ¡Estáis de guardia!
+467     [Kunan](1): Sentry duty?
+468     [Kunan](1): Au poste de garde?
+469     [Kunan](1): Wachdienst?
+470     [Kunan](1): Turno di guardia?
+471     [Kunan](1): ¿De guardia?
+475     [Kunan](2): Sentry duty?
+476     [Kunan](2): Au poste de garde?
+477     [Kunan](2): Wachdienst?
+478     [Kunan](2): Turno di guardia?
+479     [Kunan](2): ¿De guardia?
+483     [Kunan](3): Sentry duty?
+484     [Kunan](3): Au poste de garde?
+485     [Kunan](3): Wachdienst?
+486     [Kunan](3): Turno di guardia?
+487     [Kunan](3): ¿De guardia?
+500     [Loudred]: You heard right. Sentry duty.
+501     [Loudred]: Vous avez bien entendu. Au poste de garde.
+502     [Loudred]: Richtig gehört. Wachdienst.
+503     [Loudred]: Avete sentito bene. Dovete fare la guardia.
+504     [Loudred]: Habéis oído bien. De guardia.
+507     [Loudred]: We can't have suspicious characters coming into the guild.
+508     [Loudred]: Il ne faut pas que des individus suspects puissent entrer à la Guilde.
+509     [Loudred]: Wir müssen vermeiden, dass zwielichtige Gestalten in die Gilde kommen.
+510     [Loudred]: Dobbiamo evitare che Pokémon sospetti entrino alla Gilda.
+511     [Loudred]: No podemos permitir que entren individuos sospechosos en el Pokégremio.
+514     [Loudred]: So we station a sentry below the guild entrance to evaluate Pokémon visitors.
+515     [Loudred]: On a donc installé un système de sentinelle sous l'entrée de la Guilde pour identifier les visiteurs.
+516     [Loudred]: Also ist unter dem Gildeneingang eine Wache stationiert, die besuchende Pokémon überprüft.
+517     [Loudred]: Quindi c'è una guardia sotto  la Gilda per controllare i Pokémon che vengono qui.
+518     [Loudred]: Así que ponemos a un vigía bajo la puerta para comprobar quién quiere entrar.
+521     [Loudred]: When you first came, you had your footprint evaluated, right?
+522     [Loudred]: Lors de votre première visite, on a identifié vos empreintes, pas vrai?
+523     [Loudred]: Als ihr zum ersten Mal kamt, wurden eure Fußabdrücke überprüft, oder?
+524     [Loudred]: La prima volta che avete fatto  visita alla Gilda le vostre zampe sono state esaminate, giusto?
+525     [Loudred]: Cuando llegaste se comprobó tu huella, ¿no?
+540     [Kunan](1): My footprint? What do you...?
+541     [Kunan](1): Mes empreintes? Qu'est-ce que tu...?
+542     [Kunan](1): Mein Fußabdruck? Was?
+543     [Kunan](1): La mia zampa? Cosa...?
+544     [Kunan](1): ¿Mi huella? ¿Qué quieres...?
+548     [Kunan](2): My footprint? What do you...?
+549     [Kunan](2): Mes empreintes? Qu'est-ce que tu...?
+550     [Kunan](2): Mein Fußabdruck? Was?
+551     [Kunan](2): La mia zampa? Cosa...?
+552     [Kunan](2): ¿Mi huella? ¿Qué quieres...?
+556     [Kunan](3): My footprint? What do you...?
+557     [Kunan](3): Mes empreintes? Qu'est-ce que tu...?
+558     [Kunan](3): Mein Fußabdruck? Was?
+559     [Kunan](3): La mia zampa? Cosa...?
+560     [Kunan](3): ¿Mi huella? ¿Qué quieres...?
+
+==> tests/inputs/m12a0102.txt <==
+58      [Azurill]: Kunan and Yugure! Hi there!
+65      [Kunan](1): Huh? It's you little guys...
+69      [Kunan](2): Oh! It's you little guys...
+73      [Kunan](3): Hey! It's you little guys...
+79      [Kunan](1): We heard we have visitors. Are you our visitors?
+83      [Kunan](2): We heard we have visitors. Are you our visitors?
+87      [Kunan](3): We heard we have visitors. Are you maybe those visitors?
+97      [Marill]: Yep! We wanted to ask Team Spirits for help.
+108     [Kunan](1): Help?
+112     [Kunan](2): Help?
+116     [Kunan](3): Help?
+122     [Marill]: Yep!
+131     [Azurill]: We need your help finding a Water Float.
+150     [Kunan](1): A Water Float?
+154     [Kunan](2): A Water Float?
+158     [Kunan](3): A Water Float?
+164     [Kunan](1): You've been searching for your Water Float, right?
+168     [Kunan](2): Weren't you looking for that earlier? A Water Float?
+172     [Kunan](3): Isn't that what you were looking for earlier? A Water Float?
+181     [Marill]: Yep! Someone said one was lying on the beach. We went there looking for it!
+184     [Marill]: We didn't find it. Instead, this is what we found.
+221     [Kunan](1): This scrap of paper?
+225     [Kunan](2): This scrap of paper?
+229     [Kunan](3): This scrap of paper?
+235     [Kunan](1): There's writing on it.
+239     [Kunan](2): There's writing on it.
+243     [Kunan](3): There's writing on it.
+274     [message_Mail]: Kunan read the message on the scrap of paper.
+281     [Kunan](1): Let's see. What does it say? "The Water Float from the beach..."
+285     [Kunan](2): Let's see. What does it say? "The Water Float from the beach..."
+289     [Kunan](3): Let's see. What does it say? "The Water Float from the beach..."
+295     [Kunan](1): "...is now in our possession."
+299     [Kunan](2): "...is now in our possession."
+303     [Kunan](3): "...is now in our possession."
+311     [Kunan](1): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+315     [Kunan](2): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+319     [Kunan](3): "Just try to take it from us! We'll wait in the deepest part of Amp Plains."
+325     [Kunan](1): "But knowing how weak and puny you are..."
+329     [Kunan](2): "But knowing how weak and puny you are..."
+333     [Kunan](3): "But knowing how weak and puny you are..."
+339     [Kunan](1): "...I bet you can't even reach us! Chaw-haw-haw!"
+343     [Kunan](2): "...I bet you can't even reach us! Chaw-haw-haw!"
+347     [Kunan](3): "...I bet you can't even reach us! Chaw-haw-haw!"
+353     [Kunan](1): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+357     [Kunan](2): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+361     [Kunan](3): "Can't handle it? Go cry to your big-shot friends! Chaw-haw-haw!" Hey! This note! It's a...
+377     [Kunan](1): It's a ransom note! Isn't it?!
+381     [Kunan](2): It's a ransom note! Isn't it?!
+385     [Kunan](3): It's a ransom note! Isn't it?!
+399     [Kunan](1): You little guys shouldn't even think about going!
+403     [Kunan](2): You little guys! Promise me you won't go yourself.
+407     [Kunan](3): You little guys! Please don't even think about going.
+413     [Kunan](1): It could be a trap.
+417     [Kunan](2): I suspect a trap.
+421     [Kunan](3): It's probably a trap!
+428     [Marill]: But the Water Float is very important to us.
+431     [Marill]: We really want to get it back.
+434     [Marill]: But I can't take Azurill to a dangerous place.
+444     [Azurill]: I said I would go too!
+455     [Marill]: It's too much for you. I don't want you getting into any scary scrapes.
+466     [Marill]: I went to Amp Plains by myself.
+469     [Marill]: But many Electric-type Pokémon live there!
+472     [Marill]: I'm no match for them.
+476     [Marill]: I tried going many times. But I get knocked out right away...
+479     [Marill]: I just c-c-can't stand how weak I am...
+499     [Kunan](1): No problem! I know what to do!
+503     [Kunan](2): No problem! I know what to do!
+507     [Kunan](3): No problem! I know what to do!
+516     [Kunan](1): We'll go and get the Water Float back for you.
+520     [Kunan](2): We'll go get the Water Float back for you.
+524     [Kunan](3): We'll go get the Water Float back for you.
+534     [Azurill]: Really?!
+543     [Marill]: You will?!
+550     [Kunan](1): Yup! So no more crying!
+554     [Kunan](2): Yep! So no more tears!
+558     [Kunan](3): Yep! So no more tears!
+568     [Marill]: OK! W-we're sorry to bother you about this. Thank you!
+578     [Kunan](1): You should see your faces! All that crying and laughing... C'mon!
+582     [Kunan](2): You should see your faces! All that crying and laughing... C'mon!
+586     [Kunan](3): You should see your faces! All that crying and laughing... C'mon!
+597     [Kunan](1): Don't worry, though. We'll get it back for you. Sure thing!
+601     [Kunan](2): Don't worry, though. We'll get it back for you. It's a promise!
+605     [Kunan](3): Don't worry, though. We'll get it back for you. We promise!
+620     [Kunan](1): Let's go, Yugure! Onward to Amp Plains!
+624     [Kunan](2): Let's go, Yugure! We're off to Amp Plains!
+628     [Kunan](3): Let's go, Yugure! Let's get to Amp Plains!

@@ -1,0 +1,1222 @@
+==> tests/inputs/m00p0801.txt <==
+[Kunan](1):  Let\'s get rolling to [CS:P]Mt. Travail[CR]!
+[Kunan](3):  Say, [hero].
+[Kunan](3):  Let\'s do our best, [hero]!
+[Kunan](3):  After all, we\'ve always gone on\nour important missions that way.
+[Kunan](2):  Let\'s do our best, [hero]!
+[Kunan](1):  Whoa![K] Hang on, we\'re going\nwith me as leader?
+[Kunan](1):  Let\'s do our best, [hero]!
+[Kunan](1):  Hey, [hero].
+[Kunan](3):  OK![K] Let\'s go to [CS:P]Mt. Travail[CR]!
+[Kunan](2):  When we go to [CS:P]Mt. Travail[CR], you\nshould be the leader, [hero].
+[Kunan](2):  That\'s settled![K] Let\'s get going to\n[CS:P]Mt. Travail[CR]!
+[Kunan](3):  What?[K] So I\'m going to go as\nthe leader?
+[Kunan](1):  OK![K] Let\'s get going to\n[CS:P]Mt. Travail[CR]!
+[Kunan](3):  We should get moving to\n[CS:P]Mt. Travail[CR]!
+[Kunan](1):  When we go to [CS:P]Mt. Travail[CR], you\nought to lead, [hero].
+[Kunan](2):  OK![K] That\'s settled. You\'re the\nleader, [hero].
+[Kunan](3):  So what do you think? Should\njust the two of us go?
+[Kunan](2):  That\'s why I think you should\nbe the leader again, [hero]...[K]\nWhat do you say?
+[Kunan](2):  That\'s why I suggested the two\nof us go.
+[Kunan](1):  After all, that\'s the way we\'ve\nalways done it for important missions.
+[Kunan](1):  So how about just we two go?
+[Kunan](3):  Hmm...[K] I don\'t feel confident\nenough to be the leader...
+[Kunan](3):  But I think one Pokémon alone\nwon\'t be persuasive enough.
+[Kunan](1):  Hmm...[K] I don\'t feel confident\nabout doing that...
+[Kunan](2):  But going alone won\'t be enough.\nI don\'t think it would be persuasive enough to\nget the point across.
+[Kunan](2):  What?[K] Wait, so I\'m going as\nthe leader?
+[Kunan](1):  But going alone won\'t do it,\neither. One Pokémon won\'t be convincing\nenough.
+[Kunan](2):  Listen, [hero].
+[Kunan](3):  If a whole lot of us go, [CS:N]Drowzee[CR]\nwill probably get upset with us. He would be\nimpossible to persuade like that.
+[Kunan](2):  Let\'s set out for [CS:P]Mt. Travail[CR]!
+[Kunan](2):  If a whole group went, [CS:N]Drowzee[CR]\nwould probably get upset. You can forget about\npersuading him then.
+[Kunan](3):  OK![K] You\'re the team leader,\n[hero]!
+[Kunan](1):  If a whole bunch of us went,\nit\'d probably upset [CS:N]Drowzee[CR] beyond the point\nof persuasion...
+[Kunan](1):  Cool![K] That\'s it, then! You\'re the\nleader, [hero].
+[Kunan](3):  Say, [hero].[K] Do you think\nmaybe we should just go as a pair, us two?
+[Kunan](3):  That\'s why I think you should\nbe the leader again, [hero]...[K]\nWhat do you say?
+[Kunan](2):  Listen, [hero].[K] What\nwould you say if I suggested that just you and\nI go?
+[Kunan](1):  So I was thinking that you ought\nto be the leader again, [hero]...[K]\nWhat do you say?
+[Kunan](1):  Hey, [hero].[K] How about if\nwe just go as a pair, you and I?
+[Kunan](2):  After all, that\'s the way we\'ve\nalways handled things on important missions.
+[Kunan](3):  If we\'re still going to go to\n[CS:P]Mt. Travail[CR], you should lead, [hero]...
+[Kunan](3):  When we go to [CS:P]Mt. Travail[CR], you\nshould go as the leader, [hero].
+[Kunan](2):  If we\'re going to [CS:P]Mt. Travail[CR],\nyou should be the leader, [hero]...
+[Kunan](1):  If we\'re going to [CS:P]Mt. Travail[CR],\nyou should be the leader, [hero]...
+[Kunan](2):  Hmm...[K] I don\'t have the\nconfidence to do that...
+[case_menu]: Refuse
+[case_menu]: Go as a pair
+[case_menu]: Accept leadership
+[case_menu]: Don\'t go
+
+==> tests/inputs/m01a0208.txt <==
+[Koffing]:  Ich hätte nicht gedacht, dass du\nso ein Angsthase bist!
+[Koffing]:  Allez, on s\'en va!
+[Koffing]:  Ooooh![K] Non provi a \nriprendertelo?[K] Cosa c\'è?[K]\nTroppa fifa?
+[Koffing]:  Forza, andiamocene via di qua.
+[Koffing]:  Whoahoho![K] Willst du es dir\nnicht zurückholen?[K] Was ist los?[K]\nHast du etwa Angst?
+[Koffing]:  ¡No me esperaba que fueras\ntan cobarde!
+[Koffing]:  Mouarf![K] Tu lèves même pas\nle petit doigt pour le récupérer?[K] Qu\'est-ce qui\nt\'arrive?[K] T\'as trop peur?
+[Koffing]:  I didn\'t expect that you\'d be such\na big coward!
+[Koffing]:  Whoa-ho-ho![K] Not gonna make a\nmove to get that back?[K] What\'s the matter?[K]\nToo scared?
+[Koffing]:  Komm schon. Hauen wir ab.
+[Koffing]:  Mil perdones...
+[Koffing]:  Well, I do beg your pardon.
+[Koffing]:  Oh, chiedo scusa.
+[Koffing]:  Non pensavo che avresti avuto\ncosì tanta paura!
+[Koffing]:  Och, das tut mir aber leid.
+[Koffing]:  Je pensais pas avoir affaire\nà une poule mouillée pareille!
+[Koffing]:  Oups! Désolé.
+[Koffing]:  ¡Jo, jo, jo![K] ¿Es que no vas a\nmover ni un dedo para recuperarlo?[K]\n¿Qué te pasa?[K] ¿Tienes miedo?
+[Koffing]:  Venga. Vámonos de aquí.
+[Koffing]:  Come on. Let\'s get out of here.
+[Kunan](3):  D\'accord.[K] Après tout, tu n\'as pas\nl\'air d\'être un méchant Pokémon.
+[Kunan](3):  ¡Aaah![K] ¡Alguien se ha desmayado!
+[Kunan](2): (Ich bin zu einem [c_kind:PLAYER] geworden!)
+[Kunan](3):  A me sembri un normalissimo\n[c_kind:PLAYER]!
+[Kunan](2): (Je me suis changée en [c_kind:PLAYER]!)
+[Kunan](1):  Hey! Why\'d you do that?!
+[Kunan](2): (I\'ve turned into a [c_kind:PLAYER]!)
+[Kunan](1):  Du hast die Wahrheit gesagt?
+[Kunan](1): (¡Me he convertido en un [c_kind:PLAYER]!)
+[Kunan](2):  Yo soy [partner].[K]\n¡Encantado de conocerte!
+[Kunan](1): (Sono diventato un Pokémon, un esemplare di\n[c_kind:PLAYER]!)
+[Kunan](2):  W-was?!?
+[Kunan](1): (Ich bin zu einem [c_kind:PLAYER] geworden!)
+[Kunan](3):  Sai, ultimamente si incontrano in\ngiro molti Pokémon cattivi!
+[Kunan](1): (Je me suis changé en [c_kind:PLAYER]!)
+[Kunan](1):  Eh...[K] ¿Qué es eso?[K] Parece que\nhay algo en la arena...
+[Kunan](1): (I\'ve turned into a [c_kind:PLAYER]!)
+[Kunan](1):  You\'re...[K]a little odd...
+[Kunan](2):  ¿Qué te ha pasado?\n¿Por qué te has desmayado?
+[Kunan](3):  Je crois que c\'est la première\nfois que je te vois dans le coin!
+[Kunan](2):  Ricordi come hai fatto a finire\nqui in queste condizioni?
+[Kunan](3):  Do you have any idea how you\nended up unconscious out here?
+[Kunan](2):  Erinnerst du dich, wie du hier\nohnmächtig geworden bist?
+[Kunan](1):  Ehi! Quello è...!
+[Kunan](2):  Tu te rappelles comment tu as\néchoué ici, sans connaissance?
+[Kunan](3):  Hé...[K] Qu\'est-ce que c\'est?[K]\nQue se passe-t-il là-bas?
+[Kunan](2):  Do you remember how you ended\nup unconscious out here?
+[Kunan](3):  Muchos Pokémon se han vuelto\nagresivos.[K] Una ya no se siente segura\nen ninguna parte...
+[Kunan](1):  ¿Cómo es que te has desmayado\naquí?
+[Kunan](3):  Tut mir leid, dass ich dir nicht\ngeglaubt habe.
+[Kunan](1):  Come hai fatto a finire qui\nin queste condizioni?
+[Kunan](3):  So you\'re named [hero]?
+[Kunan](1):  Wie ist es dazu gekommen, dass\ndu hier ohnmächtig wurdest?
+[Kunan](1):  Ok, allora qual è il tuo nome?[K]\nCome ti chiami?
+[Kunan](1):  Tu te rappelles comment tu as\néchoué ici, sans connaissance?
+[Kunan](1):  Tu es en train de me faire\nune blague?
+[Kunan](1):  How did you wind up unconscious\nout here?
+[Kunan](3):  Pero una vez aquí me siento\nbien, como siempre.
+[Kunan](3):  No te movías. ¡Estaba\nmuy preocupada!
+[Kunan](3):  Wie?[K] Du bist ein Mensch?
+[Kunan](3):  Eri così immobile. Ero davvero\npreoccupata!
+[Kunan](3):  And who are you?
+[Kunan](3):  Du lagst ganz reglos da. Ich\nhatte wirklich Angst um dich!
+[Kunan](2):  Vengo sempre qui quando\nmi sento giù.
+[Kunan](3):  Tu ne bougeais plus du tout.\nJ\'étais vraiment inquiète pour toi!
+[Kunan](2):  Aaaah!
+[Kunan](3):  You wouldn\'t move at all. I was\nreally scared for you!
+[Kunan](3):  Non! C\'est...!
+[Kunan](3):  ¡Arg![K] No importa que fueras\nhumano o fantasma. ¡Todavía puedes ayudar!
+[Kunan](2):  Waah![K] Someone has collapsed on\nthe sand!
+[Kunan](3):  Argh![K] Umano, fantasma,\nnon importa. Puoi aiutarmi lo stesso! Ti prego!
+[Kunan](1):  ¡Aaah![K] ¡Alguien se ha desmayado!
+[Kunan](3):  Argh! [K]Mensch, Gespenst,\ndas tut jetzt nichts zur Sache.\nDu kannst mir helfen! Bitte!
+[Kunan](2):  Ehi, perché l\'hai fatto?!
+[Kunan](3):  Bah! [K]Etre humain, fantôme...\npeu importe! Tu peux apporter ton aide,\nmalgré tout! S\'il te plaît!
+[Kunan](2):  Autsch!
+[Kunan](3):  Argh! [K]Human, ghost, it doesn\'t\nmatter. You can still help! Please!
+[Kunan](2):  Beaucoup de Pokémon deviennent\nagressifs ces temps-ci.[K] On ne se sent\nplus en sécurité comme avant.
+[Kunan](2):  ¡Arg![K] ¡Da igual que fueras\nhumano o fantasma! ¡Tú puedes ayudar!
+[Kunan](2):  More and more bad Pokémon\nhave been turning up lately, you see!
+[Kunan](2):  Argh![K] Umano, fantasma,\nnon importa. Puoi aiutarmi lo stesso! Ti prego!
+[Kunan](1):  Siento haber dudado de ti.
+[Kunan](2):  Argh! [K]Mensch, Gespenst,\ndas tut jetzt nichts zur Sache.\nDu kannst mir helfen! Bitte!
+[Kunan](1):  Ok.[K] Beh, perlomeno non sembri \nessere un Pokémon cattivo.
+[Kunan](2):  Bah! [K]Etre humain, fantôme...\npeu importe! Tu peux apporter ton aide,\nmalgré tout! S\'il te plaît!
+[Kunan](1):  Oh, du heißt [hero]?
+[Kunan](2):  Argh! [K]Human, ghost, it doesn\'t\nmatter. You can still help! Please!
+[Kunan](3):  Bon, d\'accord. C\'est quoi ton\nnom alors?[K] Quel est ton nom?
+[Kunan](1):  ¡Arg![K] Humano, fantasma... ¿Qué\nmás da? ¡Aún puedes ayudar! ¡Por favor!
+[Kunan](3):  You\'re telling me the truth?
+[Kunan](1):  Argh![K] Umano, fantasma,\nnon importa. Puoi aiutarmi lo stesso! Ti prego!
+[Kunan](2):  ¿No me estarás gastando\nuna broma?
+[Kunan](1):  Argh! [K]Mensch, Gespenst,\ndas tut jetzt nichts zur Sache.\nDu kannst mir helfen! Bitte!
+[Kunan](2):  Mi sembri...[K] davvero un tipo\nstrano...
+[Kunan](1):  Bah! [K]Etre humain, fantôme...\npeu importe! Tu peux apporter ton aide,\nmalgré tout! S\'il te plaît!
+[Kunan](2):  Dieser Ort heitert mich auf. Ich\nbin schon besser gelaunt.
+[Kunan](1):  Argh! [K]Human, ghost, it doesn\'t\nmatter. You can still help! Please!
+[Kunan](2):  Je me sens mieux quand je suis\nsur cette plage.
+[Kunan](2):  No te movías. ¡Estaba\nmuy preocupado!
+[Kunan](2):  You look like a totally normal\n[c_kind:PLAYER] to me!
+[Kunan](2):  Eri così immobile... Mi stavo \ndavvero preoccupando!
+[Kunan](1):  ¿Qué?[K] ¿Dices que eres un\nser humano?
+[Kunan](2):  Du lagst ganz reglos da. Ich habe\nmir wirklich Sorgen gemacht!
+[Kunan](1):  Non mi sembra di conoscerti.
+[Kunan](2):  Tu ne bougeais plus du tout.\nJ\'étais vraiment inquiet pour toi!
+[Kunan](1):  Und wer bist du?
+[Kunan](2):  You weren\'t moving at all. I was\nseriously worried!
+[Kunan](1):  En tout cas, moi je m\'appelle\n[partner].[K]\nRavi de faire ta connaissance!
+[Kunan](1):  No te movías. ¡Me tenías\nmuy preocupado!
+[Kunan](1):  Cos\'è successo?![K] Stai bene?
+[Kunan](1):  Non sembravi affatto in forma!\nStavo iniziando a preoccuparmi!
+[Kunan](3):  Aaah!
+[Kunan](1):  Du hast dich kein bisschen\ngerührt. Ich habe mir schon Sorgen gemacht!
+[Kunan](1):  Aaaah!
+[Kunan](1):  Tu ne bougeais plus du tout.\nJ\'étais vraiment inquiet pour toi!
+[Kunan](3):  Waah![K] Someone has collapsed on\nthe sand!
+[Kunan](1):  You weren\'t moving. You really\nhad me worried there!
+[Kunan](2):  Nein! Das ist...
+[Kunan](3):  No importa que no te acuerdes.\n¡Todavía puedes ayudar! ¡Te lo pido por favor!
+[Kunan](2):  ¡Aaah![K] ¡Alguien se ha desmayado!
+[Kunan](3):  Non importa se hai perso\nla memoria. Mi puoi aiutare lo stesso!\nPer favore!
+[Kunan](3):  Q-quoi?!
+[Kunan](3):  Es kommt nicht drauf an, ob du\ndich erinnerst! Du kannst doch trotzdem\nhelfen! Bitte!
+[Kunan](1):  C-Cosa?!
+[Kunan](3):  Peu importe que tu n\'aies aucun\nsouvenir. Tu peux quand même apporter\nton aide! S\'il te plaît!
+[Kunan](1):  Waah![K] Someone has collapsed on\nthe sand!
+[Kunan](3):  It doesn\'t matter if you have no\nmemory. You can still help! Please!
+[Kunan](3):  Hey! Warum hast du das\ngemacht?!?
+[Kunan](2):  No importa que no te acuerdes,\n¡Aún puedes ser de ayuda! ¡Por favor!
+[Kunan](1):  ¡Eh! ¿Por qué habéis hecho eso?
+[Kunan](2):  Non importa se hai perso\nla memoria. Mi puoi aiutare lo stesso!\nPer favore!
+[Kunan](3):  Aïe!
+[Kunan](2):  Es kommt nicht drauf an, ob du\ndich erinnerst! Du kannst doch trotzdem\nhelfen! Bitte!
+[Kunan](1):  Ouch!
+[Kunan](2):  Peu importe que tu n\'aies aucun\nsouvenir. Tu peux quand même apporter\nton aide! S\'il te plaît!
+[Kunan](3):  A lot of Pokémon have gotten\naggressive lately.[K] It\'s just not\nsafe anymore...
+[Kunan](2):  It doesn\'t matter if you have no\nmemory. You can still help! Please!
+[Kunan](1):  Viele Pokémon sind in letzter\nZeit aggressiv geworden.[K] Die Dinge sind\nirgendwie außer Kontrolle geraten...
+[Kunan](1):  No importa que no te acuerdes.\n¡Todavía puedes ayudar! ¡Venga!
+[Kunan](2):  Últimamente han ido apareciendo\nmuchos Pokémon malvados.
+[Kunan](1):  Non importa se hai perso\nla memoria. Mi puoi aiutare lo stesso!\nPer favore!
+[Kunan](1):  Tu comprends, il y a de plus en\nplus de Pokémon méchants ces derniers temps.
+[Kunan](1):  Es kommt nicht drauf an, ob du\ndich erinnerst! Du kannst doch trotzdem\nhelfen! Bitte!
+[Kunan](2):  Mi spiace aver dubitato di te.
+[Kunan](1):  Peu importe que tu n\'aies aucun\nsouvenir. Tu peux quand même apporter\nton aide! S\'il te plaît!
+[Kunan](1):  Sorry that I doubted you.
+[Kunan](1):  It doesn\'t matter if you have no\nmemory. You can still help! Please!
+[Kunan](2):  Okay.[K] Nun, zumindest scheinst du\nkein bösartiges Pokémon zu sein.
+[Kunan](3):  Ya sé que es difícil...\n¡pero tienes que darte prisa!
+[Kunan](3):  ¿Te llamas [hero]?
+[Kunan](3):  So che è difficile...\nMa dobbiamo sbrigarci!
+[Kunan](2):  Alors comme ça, tu t\'appelles\n[hero]?
+[Kunan](3):  Es mag schwierig sein, aber\nbitte beeile dich!
+[Kunan](2):  Ehi...[K] Ma cos\'è?[K] Cosa sta \nsuccedendo laggiù?
+[Kunan](3):  Je sais que c\'est dur...\nmais dépêchons-nous!
+[Kunan](1):  Hey...[K]what\'s that?[K] What\'s going\non over there?
+[Kunan](3):  I know it\'s difficult...but hurry!
+[Kunan](2):  Na gut. Und wie heißt du?[K]\nWie ist dein Name?
+[Kunan](2):  Ya sé que es difícil...\n¡pero date prisa!
+[Kunan](3):  ¿Me estás diciendo la verdad?
+[Kunan](2):  So che è difficile...\nMa dobbiamo sbrigarci!
+[Kunan](2):  Tu me dis la vérité?
+[Kunan](2):  Es mag schwierig sein, aber\nbitte beeile dich!
+[Kunan](3):  Non mi starai prendendo in giro?
+[Kunan](2):  Je sais que c\'est dur...\nmais dépêchons-nous!
+[Kunan](2):  Are you pulling some kind of\ntrick on me?
+[Kunan](2):  I know it\'s difficult...but hurry!
+[Kunan](3):  Du bist...[K] etwas merkwürdig...
+[Kunan](1):  Ya sé que es difícil...\n¡pero corre!
+[Kunan](1):  Eres...[K] un Pokémon un poco raro.
+[Kunan](1):  So che è difficile...\nMa dobbiamo sbrigarci!
+[Kunan](3):  Cet endroit me remonte\nle moral.
+[Kunan](1):  Es mag schwierig sein, aber\nbitte beeile dich!
+[Kunan](1):  Questo posto riesce a tirarmi su.
+[Kunan](1):  Je sais que c\'est dur...\nmais dépêchons-nous!
+[Kunan](3):  But it makes me feel good to be\nhere, like always.
+[Kunan](1):  I know it\'s difficult...but hurry!
+[Kunan](1):  Immer, wenn ich hier bin, fühle\nich mich wieder gut.
+[Kunan](1):  Siempre acabo viniendo a este\nlugar cuando siento lástima de mí mismo.
+[Kunan](2):  ¡A mí me pareces un\n[c_kind:PLAYER] completamente normal!
+[Kunan](1):  Vengo sempre qui quando\nmi sento giù.
+[Kunan](1):  Si tu veux mon avis, tu as l\'air\nd\'un [c_kind:PLAYER] tout à fait normal!
+[Kunan](1):  Hier komme ich immer her,\nwenn ich mich elend fühle.
+[Kunan](2):  Cosa?[K] Tu saresti un essere\numano?
+[Kunan](1):  C\'est ici que je viens quand\nje m\'apitoie sur mon sort.
+[Kunan](1):  Huh?[K] You say you\'re a human?
+[Kunan](1):  This is where I always end up\nwhen I\'m feeling sorry for myself.
+[Kunan](2):  Ich habe dich hier noch nie\ngesehen.
+[Kunan](3):  ...
+[Kunan](3):  ¿Y tú?
+[Kunan](3):  ............
+[Kunan](2):  Et toi, comment tu t\'appelles?
+[Kunan](3):  ............
+[Kunan](3):  Ad ogni modo, io sono\n[partner].[K] Piacere di conoscerti!
+[Kunan](3):  ............
+[Kunan](2):  Well, I\'m [partner].[K]\nGlad to meet you!
+[Kunan](3):  ............
+[Kunan](3):  Hier komme ich immer her,\nwenn ich deprimiert bin.
+[Kunan](3):  ¡Por favor![K]\n¡Te ruego que me ayudes!
+[Kunan](3):  ¿Qué te ha pasado?\n¿Por qué te has desmayado?
+[Kunan](3):  Te lo chiedo per favore![K]\nAiutami!
+[Kunan](1):  Que s\'est-il passé?![K] Ça va?
+[Kunan](3):  Bitte![K]\nZu Hilfe!
+[Kunan](3):  Aaaah!
+[Kunan](3):  Allez, je t\'en prie![K]\nAide-moi, s\'il te plaît!
+[Kunan](2):  ¡Aaah!
+[Kunan](3):  Please![K]\nPlease help!
+[Kunan](2):  Aaaah!
+[Kunan](2):  ¡Por favor![K]\n¡Tienes que ayudarme!
+[Kunan](1):  Aaah!
+[Kunan](2):  Ti prego![K]\nAiutami!
+[Kunan](3):  Waah![K] Da ist jemand im Sand\nzusammengebrochen!
+[Kunan](2):  Bitte![K]\nZu Hilfe!
+[Kunan](3):  Oh! Quello è...!
+[Kunan](2):  Allez, je t\'en prie![K]\nAide-moi, s\'il te plaît!
+[Kunan](2):  ¡No! ¡Eso es mi...!
+[Kunan](2):  Please![K]\nPlease help!
+[Kunan](2):  No! That\'s...!
+[Kunan](1):  ¡Venga, te lo suplico![K]\n¡Ayúdame, por favor!
+[Kunan](1):  Non! C\'est...!
+[Kunan](1):  Dai, per favore![K]\nDammi una mano!
+[Kunan](2):  Waah![K] Da ist jemand im Sand\nzusammengebrochen!
+[Kunan](1):  Komm schon, ich flehe dich an![K]\nBitte hilf!
+[Kunan](3):  C-Cosa?!
+[Kunan](1):  Allez, je t\'en prie![K]\nAide-moi, s\'il te plaît!
+[Kunan](2):  ¡¿Qué?!
+[Kunan](1):  Come on, I\'m begging![K]\nPlease help!
+[Kunan](2):  Wh-what?!
+[Kunan](3):  Si desapareciera, yo...
+[Kunan](1):  Q-quoi?!
+[Kunan](3):  Se dovessi perderlo, io...
+[Kunan](1):  Waah![K] Da ist jemand im Sand\nzusammengebrochen!
+[Kunan](3):  Würde der verschwinden, ich...
+[Kunan](3):  Ehi...[K] Ma cos\'è?[K] Cosa sta \nsuccedendo laggiù?
+[Kunan](3):  S\'il venait à disparaître, je...
+[Kunan](3):  ¡Eh! ¿Por qué habéis hecho eso?
+[Kunan](3):  If that disappeared, then I\'d...
+[Kunan](3):  Hey! Why\'d you do that?!
+[Kunan](2):  Si desapareciera, yo...
+[Kunan](2):  Hé! Pourquoi t\'as fait ça?!
+[Kunan](2):  Se dovessi perderlo, io...
+[Kunan](1):  Hey! Warum hast du das\ngemacht?!?
+[Kunan](2):  Würde der verschwinden, ich...
+[Kunan](3):  Ahi!
+[Kunan](2):  S\'il venait à disparaître, je...
+[Kunan](2):  ¡Ay!
+[Kunan](2):  If that disappeared, then I\'d...
+[Kunan](2):  Ouch!
+[Kunan](1):  Si desapareciera, yo...
+[Kunan](1):  Aïe!
+[Kunan](1):  Se dovessi perderlo, io...
+[Kunan](3):  Viele Pokémon sind in letzter\nZeit aggressiv geworden.[K] Man kann sich nicht\nmehr sicher fühlen...
+[Kunan](1):  Würde der verschwinden, ich...
+[Kunan](2):  Molti Pokémon sono diventati\naggressivi negli ultimi tempi.[K] Le cose sono\nun po\' confuse...
+[Kunan](1):  S\'il venait à disparaître, je...
+[Kunan](1):  Muchos Pokémon se han vuelto\nagresivos.[K] Debe de haber algún motivo...
+[Kunan](1):  If that disappeared, then I\'d...
+[Kunan](1):  A lot of Pokémon have started\nbeing aggressive lately.[K] Things have\ngotten wild for some reason...
+[Kunan](3):  Es mi amado tesoro...
+[Kunan](3):  Tu comprends, il y a de plus en\nplus de Pokémon méchants ces derniers temps.
+[Kunan](3):  Quello è il mio prezioso tesoro...
+[Kunan](2):  Weißt du, neuerdings gibt es\nimmer mehr bösartige Pokémon!
+[Kunan](3):  Mein wertvoller Schatz...
+[Kunan](1):  Sai, ultimamente ci sono in giro\nparecchi Pokémon cattivi!
+[Kunan](3):  C\'est mon précieux trésor...
+[Kunan](3):  Siento haber dudado de ti.
+[Kunan](3):  That\'s my precious treasure...
+[Kunan](3):  Sorry that I doubted you.
+[Kunan](2):  Es mi tesoro adorado...
+[Kunan](2):  Je suis désolé d\'avoir douté\nde toi.
+[Kunan](2):  Quello è il mio prezioso tesoro...
+[Kunan](1):  Tut mir leid, dass ich dir nicht\ngeglaubt habe.
+[Kunan](2):  Mein wertvoller Schatz...
+[Kunan](3):  Ok.[K] Beh, perlomeno non sembri \nessere un Pokémon cattivo.
+[Kunan](2):  C\'est mon précieux trésor...
+[Kunan](2):  Vale.[K] Bueno, al menos no pareces\nun Pokémon malvado.
+[Kunan](2):  That\'s my precious treasure...
+[Kunan](2):  OK.[K] Well, you don\'t seem to be a\nbad Pokémon, at least.
+[Kunan](1):  Es mi querido tesoro...
+[Kunan](1):  D\'accord.[K] Après tout, tu n\'as pas\nl\'air d\'être un méchant Pokémon.
+[Kunan](1):  Quello è il mio prezioso tesoro...
+[Kunan](3):  Du heißt [hero]?
+[Kunan](1):  Mein wertvoller Schatz...
+[Kunan](2):  Oh, ti chiami [hero]?
+[Kunan](1):  C\'est mon précieux trésor...
+[Kunan](1):  Así que te llamas [hero]...
+[Kunan](1):  That\'s my precious treasure...
+[Kunan](1):  Oh, [hero] is your name?
+[Kunan](3):  ¡Te has despertado![K] ¡Menos mal!
+[Kunan](2):  Hé...[K] Qu\'est-ce que c\'est?[K]\nQue se passe-t-il là-bas?
+[Kunan](3):  Meno male![K] Hai ripreso i sensi!
+[Kunan](1):  Hey...[K] Was ist das?[K] Was ist\ndenn da drüben los?
+[Kunan](3):  Du bist wach![K] Zum Glück!
+[Kunan](3):  Ok, allora qual è il tuo nome?[K]\nCome ti chiami?
+[Kunan](3):  Tu ouvres les yeux![K]\nQuel soulagement!
+[Kunan](2):  Bueno, ¿me podrías decir\ncómo te llamas?[K] ¿Cuál es tu nombre?
+[Kunan](3):  You\'re awake![K] Thank goodness!
+[Kunan](2):  All right, then. Your name?[K]\nWhat\'s your name?
+[Kunan](2):  ¡Estupendo![K] ¡Al fin te has\ndespertado!
+[Kunan](1):  Bon, d\'accord. C\'est quoi ton\nnom alors?[K] Quel est ton nom?
+[Kunan](2):  Meno male![K] Hai ripreso i sensi!
+[Kunan](3):  Du hast die Wahrheit gesagt?
+[Kunan](2):  Oh, gut![K] Du kommst zu dir! Ich\nbin erleichtert!
+[Kunan](2):  Mi stai dicendo la verità?
+[Kunan](2):  Tu ouvres les yeux![K]\nQuel soulagement!
+[Kunan](1):  ¿Me estás diciendo la verdad?
+[Kunan](2):  You\'re awake![K] That\'s a relief!
+[Kunan](1):  You\'re telling me the truth?
+[Kunan](3):  ¡No perdamos tiempo! ¡Vamos!
+[Kunan](3):  Tu es en train de me faire\nune blague?
+[Kunan](3):  Non abbiamo tempo da perdere.\nAndiamo!
+[Kunan](2):  Soll das irgendein Streich sein?
+[Kunan](3):  Wir haben keine Zeit zu\nverlieren! Lass uns gehen!
+[Kunan](1):  Non mi starai prendendo in giro?
+[Kunan](3):  Nous... nous n\'avons pas\nde temps à perdre, allons-y!
+[Kunan](3):  Eres...[K] un Pokémon un poco raro.
+[Kunan](3):  We don\'t have any time\nto waste! Let\'s go!
+[Kunan](3):  You\'re...[K]a little odd...
+[Kunan](2):  No hay tiempo que perder,\n¡vamos!
+[Kunan](2):  Tu es...[K] un peu bizarre,\nquand même...
+[Kunan](2):  Non abbiamo tempo da perdere.\nMuoviamoci!
+[Kunan](1):  Du bist...[K] etwas merkwürdig...
+[Kunan](2):  Wir haben keine Zeit zu\nverlieren. Komm schon!
+[Kunan](3):  Venire qui è un toccasana per\nlo spirito.
+[Kunan](2):  Nous... nous n\'avons pas\nde temps à perdre, allons-y!
+[Kunan](2):  Venir aquí me anima. Este sitio\nme reconforta.
+[Kunan](2):  We don\'t have time to waste.\nCome on!
+[Kunan](2):  Coming here is uplifting. It\ncheers me up.
+[Kunan](1):  Venga... ¡Que no tenemos tiempo\npara esto! ¡Deprisa!
+[Kunan](1):  Cet endroit me remonte\nle moral.
+[Kunan](1):  Non... Non abbiamo tempo\nper queste cose! Forza!
+[Kunan](3):  Immer, wenn ich hier bin, fühle\nich mich wieder gut.
+[Kunan](1):  Wir... Wir haben keine Zeit für\nso was! Komm schon!
+[Kunan](2):  Di solito mi fa sentire meglio.
+[Kunan](1):  Nous... nous n\'avons pas\nde temps à perdre, allons-y!
+[Kunan](1):  Pero una vez aquí me siento\nbien, como siempre.
+[Kunan](1):  We...we don\'t have time for\nthis! Come on!
+[Kunan](1):  But it makes me feel good to be\nhere, like always.
+[Kunan](1):  ¡Estupendo![K] ¡Al fin te has\ndespertado!
+[Kunan](3):  Si tu veux mon avis, tu as l\'air\nd\'un [c_kind:PLAYER] tout à fait normal!
+[Kunan](1):  Meno male![K] Hai ripreso i sensi!
+[Kunan](2):  Du siehst für mich wie ein ganz\nnormales [c_kind:PLAYER] aus!
+[Kunan](1):  Sehr gut![K] Du bist wach!
+[Kunan](1):  A me sembri un normalissimo\n[c_kind:PLAYER]!
+[Kunan](1):  Tu ouvres les yeux![K]\nQuel soulagement!
+[Kunan](3):  ¿Qué?[K] ¿Dices que eres un\nser humano?
+[Kunan](1):  Great![K] You\'re awake!
+[Kunan](3):  What?[K] You say you\'re a human?
+[Kunan](2):  ...
+[Kunan](2):  Quoi?[K] Tu dis que tu es\nun être humain?
+[Kunan](2):  ............
+[Kunan](1):  Häh?[K] Du bist ein Mensch?
+[Kunan](2):  ............
+[Kunan](3):  Non mi sembra di conoscerti.
+[Kunan](2):  ............
+[Kunan](2):  No me suena haberte visto\nnunca por aquí.
+[Kunan](2):  ............
+[Kunan](2):  I\'ve never seen you\naround before.
+[Kunan](1):  ...
+[Kunan](1):  Je crois que c\'est la première\nfois que je te vois dans le coin!
+[Kunan](1):  ............
+[Kunan](3):  Und wer bist du?
+[Kunan](1):  ............
+[Kunan](2):  E tu chi sei?
+[Kunan](1):  ............
+[Kunan](1):  ¿Y tú quién eres?
+[Kunan](1):  ............
+[Kunan](1):  So who might you be?
+[Kunan](3):  Por favor... [K]¡Ayúdame\na recuperar mi talismán!
+[Kunan](3):  En tout cas, moi je m\'appelle\n[partner].[K]\nRavie de faire ta connaissance!
+[Kunan](3):  Oh, ti prego![K] Aiutami a \nriprendere il tesoro da quei tipacci!
+[Kunan](2):  Also, ich bin [partner].[K]\nFreut mich, dich kennenzulernen!
+[Kunan](3):  Ach bitte![K] Bitte hilf mir,\ndiesen Typen den Schatz wieder abzunehmen!
+[Kunan](1):  Ad ogni modo, io sono\n[partner].[K] Piacere!
+[Kunan](3):  Oh, s\'il te plaît?[K] Je t\'en prie,\naide-moi à reprendre mon trésor à ces\nvoyous!
+[Kunan](3):  Siempre acabo viniendo a\neste lugar cuando me siento abatida.
+[Kunan](3):  Oh, please?[K] Please help me get\nthat treasure of mine back from those guys!
+[Kunan](3):  This is where I always come\nwhen I\'m feeling down on myself.
+[Kunan](2):  Por favor... [K]¡Ayúdame\na recuperar mi talismán!
+[Kunan](2):  C\'est ici que je viens quand\nje m\'apitoie sur mon sort.
+[Kunan](2):  Dico sul serio! Per favore![K] \nAiutami a riprendere il mio tesoro!
+[Kunan](2): (Mi sono trasformata in un Pokémon, un\nesemplare di [c_kind:PLAYER]!)
+[Kunan](3):  Hast du eine Ahnung, wie du hier\nohnmächtig geworden bist?
+[Kunan](2):  Ich meine es ernst! Bitte![K]\nBitte hilf mir, meinen Schatz zurückzuholen!
+[Kunan](1):  Was ist passiert?!?[K] Alles okay?
+[Kunan](2):  Oh, s\'il te plaît?[K] Je t\'en prie,\naide-moi à reprendre mon trésor à ces\nvoyous!
+[Kunan](1):  What happened?![K] Are you OK?
+[Kunan](2):  I\'m serious! Please?[K] Please help\nme get that treasure of mine back!
+[Kunan](3):  ¡Aaah!
+[Kunan](1):  ¡Hablo en serio! Por favor...[K]\n¡Ayúdame a recuperar mi talismán!
+[Kunan](3):  Aaaah!
+[Kunan](1):  Dai, per favore![K] Aiutami a\nriprendere il mio tesoro!
+[Kunan](3):  Aaaah!
+[Kunan](1):  Komm schon, bitte![K] Bitte hilf\nmir, meinen Schatz zurückzuholen!
+[Kunan](2):  Aaaah!
+[Kunan](1):  Oh, s\'il te plaît?[K] Je t\'en prie,\naide-moi à reprendre mon trésor à ces\nvoyous!
+[Kunan](2):  Aaah!
+[Kunan](1):  Come on, please?[K] Please help me\nget that treasure of mine back!
+[Kunan](1):  ¡Aaah!
+[Kunan](3):  Si no lograse recuperarlo...
+[Kunan](1):  Aaaah!
+[Kunan](3):  Se non la posso riavere...
+[Kunan](1):  Aaaah!
+[Kunan](3):  Wenn ich es nicht zurückholen\nkann...
+[Kunan](3):  Aaah![K] Qualcuno è svenuto sulla\nsabbia!
+[Kunan](3):  Si je n\'arrive pas à le leur\nreprendre...
+[Kunan](3):  Aaah![K] Quelqu\'un vient de\ns\'effondrer sur le sable!
+[Kunan](3):  If I can\'t get it back...
+[Kunan](3):  ¡Oh! ¡Eso es mi...!
+[Kunan](2):  Si no logro recuperarlo...
+[Kunan](3):  Oh! Das ist...
+[Kunan](2):  Se non la posso riavere...
+[Kunan](3):  Oh! That\'s...!
+[Kunan](2):  Wenn ich es nicht zurückholen\nkann...
+[Kunan](2):  No! Quello è...!
+[Kunan](2):  Si je n\'arrive pas à le leur\nreprendre...
+[Kunan](2):  Non! C\'est...!
+[Kunan](2):  If I can\'t get it back...
+[Kunan](1):  ¡Eh! ¡Eso es mi...!
+[Kunan](1):  Si no lo recupero...
+[Kunan](1):  Hey! Das ist...
+[Kunan](1):  Se non la posso riavere...
+[Kunan](1):  Hey! That\'s...!
+[Kunan](1):  Wenn ich es nicht zurückholen\nkann...
+[Kunan](2):  Aaah![K] Qualcuno è svenuto sulla\nsabbia!
+[Kunan](1):  Si je n\'arrive pas à le leur\nreprendre...
+[Kunan](2):  Aaah![K] Quelqu\'un vient de\ns\'effondrer sur le sable!
+[Kunan](1):  If I can\'t get it back...
+[Kunan](3):  ¡¿Qué?!
+[Kunan](3):  ¡Ese objeto es muy importante\npara mí!
+[Kunan](3):  W-was?!?
+[Kunan](3):  Quella cosa è importante \nper me!
+[Kunan](3):  Wh-what?!
+[Kunan](3):  Dieses Ding ist mir wirklich,\nwirklich wichtig!
+[Kunan](2):  C-Cosa?!
+[Kunan](3):  Cet objet représente vraiment\ntout pour moi!
+[Kunan](2):  Q-quoi?!
+[Kunan](3):  That thing is important to me!
+[Kunan](1):  ¡¿Qué?!
+[Kunan](2):  ¡Ese objeto es realmente\nimportante para mí!
+[Kunan](1):  W-was?!?
+[Kunan](2):  Quella cosa mi sta davvero a \ncuore!
+[Kunan](1):  Wh-what?!
+[Kunan](2):  Dieses Ding ist mir wirklich,\nwirklich wichtig!
+[Kunan](1):  Waah![K] Qualcuno è svenuto sulla\nsabbia!
+[Kunan](2):  Cet objet représente vraiment\ntout pour moi!
+[Kunan](1):  Aaah![K] Quelqu\'un vient de\ns\'effondrer sur le sable!
+[Kunan](2):  That thing really means\neverything to me!
+[Kunan](3):  Eh...[K] ¿Qué es eso?[K] Parece que\nhay algo en la arena...
+[Kunan](1):  ¡Ese objeto es importantísimo\npara mí!
+[Kunan](3):  Hey...[K] Was ist das?[K] Was ist\ndenn da drüben los?
+[Kunan](1):  Si tratta di una cosa molto, \nmolto importante per me!
+[Kunan](3):  Hey...[K]what\'s that?[K] What\'s going\non over there?
+[Kunan](1):  Dieses Ding ist mir wirklich,\nwirklich wichtig!
+[Kunan](3):  Ehi, perché l\'hai fatto?!
+[Kunan](1):  Cet objet représente vraiment\ntout pour moi!
+[Kunan](3):  Hé! Pourquoi t\'as fait ça?!
+[Kunan](1):  That thing is really, really\nimportant to me!
+[Kunan](2):  ¡Eh! ¿Por qué habéis hecho eso?
+[Kunan](3):  ¡¿Cómo?! ¿No vas a ayudarme?
+[Kunan](2): (¡Me he convertido en un [c_kind:PLAYER]!)
+[Kunan](3):  Aah! Non vuoi aiutarmi?
+[Kunan](2):  Hey! Why\'d you do that?!
+[Kunan](3):  Och, du hilfst mir nicht?
+[Kunan](1):  Ehi, perché l\'hai fatto?!
+[Kunan](3):  Quoi?! Tu ne veux pas m\'aider?
+[Kunan](1):  Hé! Pourquoi t\'as fait ça?!
+[Kunan](3):  Awww! You won\'t help me?
+[Kunan](3):  ¡Ay!
+[Kunan](2):  ¡¿Qué?! ¿No quieres ayudarme?
+[Kunan](3):  Aua!
+[Kunan](2):  Cosa?! Non vuoi aiutarmi?
+[Kunan](3):  Yowch!
+[Kunan](2):  Was?!? Du hilfst mir nicht?
+[Kunan](2):  Ouch!
+[Kunan](2):  Quoi?! Tu ne veux pas m\'aider?
+[Kunan](2):  Aïe!
+[Kunan](2):  What?! You won\'t help me?
+[Kunan](1):  ¡Ah!
+[Kunan](1):  ¡¿Qué?! ¿No me vas a ayudar?
+[Kunan](1):  Au!
+[Kunan](1):  Eh?! Non vuoi aiutarmi?
+[Kunan](1):  Ow!
+[Kunan](1):  Häh?!? Du hilfst mir nicht?
+[Kunan](3):  Molti Pokémon sono diventati\naggressivi negli ultimi tempi.[K] Non mi sento\npiù molto al sicuro...
+[Kunan](1):  Quoi?! Tu ne veux pas m\'aider?
+[Kunan](3):  Beaucoup de Pokémon deviennent\nagressifs ces temps-ci.[K] On ne se sent\nplus en sécurité comme avant.
+[Kunan](1):  Huh?! You won\'t help me?
+[Kunan](2):  Muchos Pokémon se han vuelto\nagresivos.[K] Las cosas se han descontrolado\npor aquí...
+[Kunan](3):  ¿Qué ha ocurrido?[K] ¿Estás bien?
+[Kunan](2):  Viele Pokémon sind in letzter\nZeit aggressiv geworden.[K] Alles ist ziemlich\nchaotisch...
+[Kunan](3):  Cos\'è successo?![K] Stai bene?
+[Kunan](2):  Many Pokémon have gotten\naggressive lately.[K] Things have grown\nsomewhat lawless...
+[Kunan](3):  Was ist passiert?!?[K] Alles okay?
+[Kunan](1):  Negli ultimi tempi molti Pokémon\nsi stanno comportando in maniera aggressiva\nsenza una ragione...
+[Kunan](3):  Que s\'est-il passé?![K] Ça va?
+[Kunan](1):  Beaucoup de Pokémon deviennent\nagressifs ces temps-ci.[K] On ne se sent\nplus en sécurité comme avant.
+[Kunan](3):  What happened?![K] Are you OK?
+[Kunan](3):  Últimamente cada vez hay más\nPokémon malvados.
+[Kunan](3):  ¡Gracias! ¿Podemos ir tras ellos\nahora mismo?
+[Kunan](3):  Weißt du, neuerdings gibt es\nimmer mehr bösartige Pokémon!
+[Kunan](3):  G-Grazie! Possiamo andare \nsubito?
+[Kunan](3):  More and more bad Pokémon\nhave been turning up lately, you see!
+[Kunan](3):  D-danke! Können wir uns jetzt\nsofort darum kümmern?
+[Kunan](2):  Sai, ultimamente si vedono in\ngiro moltissimi Pokémon cattivi!
+[Kunan](3):  Oh... merci! Vite, allons-y tout\nde suite!
+[Kunan](2):  Tu comprends, il y a de plus en\nplus de Pokémon méchants ces derniers temps.
+[Kunan](3):  Th-thanks! Can we go take\ncare of it right now?
+[Kunan](1):  Últimamente cada vez hay más\nPokémon malvados.
+[Kunan](2):  ¡Gracias!\n¡Vayamos cuanto antes!
+[Kunan](1):  Weißt du, neuerdings gibt es\nimmer mehr bösartige Pokémon!
+[Kunan](2):  G-Grazie! Presto, andiamo!
+[Kunan](1):  More and more bad Pokémon\nhave been turning up lately, you see!
+[Kunan](2):  D-danke! Schnell, gehen wir!
+[Kunan](3):  Mi spiace aver dubitato di te.
+[Kunan](2):  Oh... merci! Vite, allons-y tout\nde suite!
+[Kunan](3):  Je suis désolée d\'avoir douté\nde toi.
+[Kunan](2):  Th-thank you! Let\'s go quickly!
+[Kunan](2):  Siento haber dudado de ti.
+[Kunan](1):  ¡Gracias!\n¡Vayamos cuanto antes!
+[Kunan](2):  Tut mir leid, dass ich dir nicht\ngeglaubt habe.
+[Kunan](1):  G-Grazie! Presto, andiamo!
+[Kunan](2):  Sorry that I doubted you.
+[Kunan](1):  D-danke! Schnell, gehen wir!
+[Kunan](1):  Mi spiace aver dubitato di te.
+[Kunan](1):  Oh... merci! Vite, allons-y tout\nde suite!
+[Kunan](1):  Je suis désolé d\'avoir douté\nde toi.
+[Kunan](1):  Th-thank you! Let\'s go quickly!
+[Kunan](3):  Vale.[K] Bueno, al menos no pareces\nun Pokémon malvado.
+[Kunan](3):  ¿Lo dices... en serio?[K]\n¡¿Me vas a ayudar de verdad?!
+[Kunan](3):  Okay.[K] Nun, zumindest scheinst du\nkein bösartiges Pokémon zu sein.
+[Kunan](3):  S-Sul serio?[K]\nMi aiuterai davvero?!
+[Kunan](3):  OK.[K] Well, you don\'t seem to be a\nbad Pokémon, at least.
+[Kunan](3):  W-wirklich?[K]\nDu hilfst mir wirklich?!?
+[Kunan](2):  Ok.[K] Beh, perlomeno non sembri \nessere un Pokémon cattivo.
+[Kunan](3):  V-vraiment?[K]\nTu vas vraiment m\'aider?!
+[Kunan](2):  D\'accord.[K] Après tout, tu n\'as pas\nl\'air d\'être un méchant Pokémon.
+[Kunan](3):  R-really?[K]\nYou\'ll really help?!
+[Kunan](1):  Vale.[K] Bueno, al menos no pareces\nun Pokémon malvado.
+[Kunan](2):  ¿De... De verdad?[K]\n¡¿Me vas a ayudar?!
+[Kunan](1):  Okay.[K] Nun, zumindest scheinst du\nkein bösartiges Pokémon zu sein.
+[Kunan](2):  S-Sul serio?[K]\nMi aiuterai davvero?!
+[Kunan](1):  OK.[K] Well, you don\'t seem to be a\nbad Pokémon, at least.
+[Kunan](2):  W-wirklich?[K]\nDu hilfst mir wirklich?!?
+[Kunan](3):  Oh, ti chiami [hero]?
+[Kunan](2):  V-vraiment?[K]\nTu vas vraiment m\'aider?!
+[Kunan](3):  Alors comme ça, tu t\'appelles\n[hero]?
+[Kunan](2):  R-really?[K]\nYou\'ll really help?!
+[Kunan](2):  Ah, ¿te llamas [hero]?
+[Kunan](1):  ¿En... En serio?[K]\n¡¿Me vas a ayudar de verdad?!
+[Kunan](2):  Oh, du heißt [hero]?
+[Kunan](1):  S-Sul serio?[K]\nMi aiuterai davvero?!
+[Kunan](2):  Oh, [hero] is your name?
+[Kunan](1):  W-wirklich?[K]\nDu hilfst mir wirklich?!?
+[Kunan](1):  Oh, ti chiami [hero]?
+[Kunan](1):  V-vraiment?[K]\nTu vas vraiment m\'aider?!
+[Kunan](1):  Alors comme ça, tu t\'appelles\n[hero]?
+[Kunan](1):  R-really?[K]\nYou\'ll really help?!
+[Kunan](2):  Eh...[K] ¿Qué es eso?[K] Parece que\nhay algo en la arena...
+[Kunan](2):  ¿Qué ha ocurrido?[K] ¿Estás bien?
+[Kunan](2):  Hey...[K] Was ist das?[K] Was ist\ndenn da drüben los?
+[Kunan](2):  Cos\'è successo?![K] Stai bene?
+[Kunan](2):  Hey...[K]what\'s that?[K] What\'s going\non over there?
+[Kunan](2):  Was ist passiert?!?[K] Alles okay?
+[Kunan](1):  Ehi...[K] Ma cos\'è?[K] Cosa sta \nsuccedendo laggiù?
+[Kunan](2):  Que s\'est-il passé?![K] Ça va?
+[Kunan](1):  Hé...[K] Qu\'est-ce que c\'est?[K]\nQue se passe-t-il là-bas?
+[Kunan](2):  What happened?![K] Are you OK?
+[Kunan](3):  Bueno... ¿Y cómo te llamas?[K]\n¿Cuál es tu nombre?
+[Kunan](3):  ¡Debo recuperarlo![K]\n¿Podrías ayudarme?
+[Kunan](3):  Okay, wie heißt du?[K]\nWie ist dein Name?
+[Kunan](3):  Devo assolutamente\nriprendermelo![K] Ehi, tu! Mi aiuteresti?
+[Kunan](3):  OK, how about your name?[K]\nWhat\'s your name?
+[Kunan](3):  Ich muss ihn zurückholen![K]\nKönntest du mir vielleicht helfen?
+[Kunan](2):  Ok, allora qual è il tuo nome?[K]\nCome ti chiami?
+[Kunan](3):  Il faut que je le récupère![K] Hé,\ntu veux m\'aider?
+[Kunan](2):  Bon, d\'accord. C\'est quoi ton\nnom alors?[K] Quel est ton nom?
+[Kunan](3):  I have to get it back![K] Say, can\nyou please help me?
+[Kunan](1):  Bueno, ¿y cómo te llamas?[K]\n¿Cuál es tu nombre?
+[Kunan](2):  ¡Tengo que recuperarlo![K]\nOye, ¿querrías ayudarme?
+[Kunan](1):  Okay, wie heißt du?[K]\nWie ist dein Name?
+[Kunan](2):  Devo assolutamente\nriprendermelo![K] Ehi, tu! Mi aiuteresti?
+[Kunan](1):  OK, then what\'s your name?[K]\nWhat do you call yourself?
+[Kunan](2):  Ich muss ihn zurückholen![K]\nHey, hilfst du mir?
+[Kunan](3):  Mi stai dicendo la verità?
+[Kunan](2):  Il faut que je le récupère![K] Hé,\ntu veux m\'aider?
+[Kunan](3):  Tu me dis la vérité?
+[Kunan](2):  I\'ve got to get it back![K] Hey, can\nI get you to help me?
+[Kunan](2):  ¿Me estás diciendo la verdad?
+[Kunan](1):  ¡Tengo que recuperarlo![K]\nOye, ¿puedo contar con tu ayuda?
+[Kunan](2):  Du hast die Wahrheit gesagt?
+[Kunan](1):  Devo assolutamente\nriprendermelo![K] Ehi, tu! Mi aiuteresti?
+[Kunan](2):  You\'re telling me the truth?
+[Kunan](1):  Ich muss ihn zurückholen![K]\nHey, hilfst du mir?
+[Kunan](1):  Mi stai dicendo la verità?
+[Kunan](1):  Il faut que je le récupère![K] Hé,\ntu veux m\'aider?
+[Kunan](1):  Tu me dis la vérité?
+[Kunan](1):  I have to get it back![K] Hey, will\nyou help me?
+[Kunan](3):  ¿No me estarás gastando\nuna broma?
+[Kunan](3):  ¡No! ¡No hay tiempo que perder!
+[Kunan](3):  Soll das irgendein Streich sein?
+[Kunan](3):  No! Non c\'è tempo da perdere!
+[Kunan](3):  Are you pulling some kind of\ntrick on me?
+[Kunan](3):  Nein! Keine Zeit zum Grübeln!
+[Kunan](2):  Non mi starai prendendo in giro?
+[Kunan](3):  Non! Pas de temps à perdre!
+[Kunan](2):  Tu es en train de me faire\nune blague?
+[Kunan](3):  No! There\'s no time to waste!
+[Kunan](1):  ¿No me estarás gastando\nuna broma?
+[Kunan](2):  ¡No! ¡No hay tiempo que perder!
+[Kunan](1):  Soll das irgendein Streich sein?
+[Kunan](2):  No! Non c\'è tempo da perdere!
+[Kunan](1):  Are you pulling some kind of\ntrick on me?
+[Kunan](2):  Nein! Keine Zeit zum Grübeln!
+[Kunan](3):  Mi sembri...[K] davvero un tipo\nstrano...
+[Kunan](2):  Non! Pas de temps à perdre!
+[Kunan](3):  Tu es...[K] un peu bizarre,\nquand même...
+[Kunan](2):  No! There\'s no time to waste!
+[Kunan](2):  Eres...[K] un Pokémon un poco raro.
+[Kunan](1):  ¡No! ¡No hay tiempo que perder!
+[Kunan](2):  Du bist...[K] etwas merkwürdig...
+[Kunan](1):  No! Non c\'è tempo da perdere!
+[Kunan](2):  You\'re...[K]a little odd...
+[Kunan](1):  Nein! Keine Zeit zum Grübeln!
+[Kunan](1):  Mi sembri...[K] davvero un tipo\nstrano...
+[Kunan](1):  Non! Pas de temps à perdre!
+[Kunan](1):  Tu es...[K] un peu bizarre,\nquand même...
+[Kunan](1):  No! There\'s no time to waste!
+[Kunan](3):  Venir aquí me anima.
+[Kunan](3):  Si lo pierdo...
+[Kunan](3):  Dieser Ort ist Balsam für\nmeine Seele.
+[Kunan](3):  Se lo perdo...
+[Kunan](3):  Coming here heals my spirits.
+[Kunan](3):  Ihn zu verlieren...
+[Kunan](2):  Venire qui mi tira su. Dopo mi \nsento sempre meglio.
+[Kunan](3):  Si jamais je le perds...
+[Kunan](2):  Cet endroit me remonte\nle moral.
+[Kunan](3):  If I lose that...
+[Kunan](1):  Venir aquí me sube la moral.
+[Kunan](2):  Si lo pierdo...
+[Kunan](1):  Dieser Ort bessert meine Laune\nungemein.
+[Kunan](2):  Se lo perdo...
+[Kunan](1):  Coming here cheers me up.
+[Kunan](2):  Ihn zu verlieren...
+[Kunan](3):  Di solito mi fa sentire meglio.
+[Kunan](2):  Si jamais je le perds...
+[Kunan](3):  Je me sens mieux quand je suis\nsur cette plage.
+[Kunan](2):  If I lose that...
+[Kunan](2):  Pero una vez aquí me siento\nbien, como siempre.
+[Kunan](1):  Si lo pierdo...
+[Kunan](2):  Immer, wenn ich hier bin, fühle\nich mich wieder gut.
+[Kunan](1):  Se lo perdo...
+[Kunan](2):  But it makes me feel good to be\nhere, like always.
+[Kunan](1):  Ihn zu verlieren...
+[Kunan](1):  Di solito mi fa sentire meglio.
+[Kunan](1):  Si jamais je le perds...
+[Kunan](1):  Je me sens mieux quand je suis\nsur cette plage.
+[Kunan](1):  If I lose that...
+[Kunan](3):  ¡A mí me pareces un\n[c_kind:PLAYER] completamente normal!
+[Kunan](3):  Es mi talismán.\nSignifica mucho para mí.
+[Kunan](3):  Du siehst für mich wie ein ganz\nnormales [c_kind:PLAYER] aus!
+[Kunan](3):  Quello è il mio tesoro. Significa\ntutto per me.
+[Kunan](3):  You look like a totally normal\n[c_kind:PLAYER] to me!
+[Kunan](3):  Das war mein Schatz.\nEr bedeutet mir alles.
+[Kunan](2):  A me sembri un normalissimo\n[c_kind:PLAYER]!
+[Kunan](3):  C\'est mon trésor. Pour moi,\nil a une valeur inestimable.
+[Kunan](2):  Si tu veux mon avis, tu as l\'air\nd\'un [c_kind:PLAYER] tout à fait normal!
+[Kunan](3):  That\'s my personal treasure.\nIt means everything to me.
+[Kunan](1):  ¡A mí me pareces un\n[c_kind:PLAYER] completamente normal!
+[Kunan](2):  Es mi talismán.\nSignifica mucho para mí.
+[Kunan](1):  Du siehst für mich wie ein ganz\nnormales [c_kind:PLAYER] aus!
+[Kunan](2):  Quello è il mio tesoro. Significa\ntutto per me.
+[Kunan](1):  You look like a totally normal\n[c_kind:PLAYER] to me!
+[Kunan](2):  Das war mein Schatz.\nEr bedeutet mir alles.
+[Kunan](3):  Cosa?[K] Tu saresti un essere\numano?
+[Kunan](2):  C\'est mon trésor. Pour moi,\nil a une valeur inestimable.
+[Kunan](3):  Quoi?[K] Tu dis que tu es\nun être humain?
+[Kunan](2):  That\'s my personal treasure.\nIt means everything to me.
+[Kunan](2):  ¿Qué?[K] ¿Dices que eres un\nser humano?
+[Kunan](1):  Es mi talismán.\nSignifica mucho para mí.
+[Kunan](2):  Was?[K] Du bist ein Mensch?
+[Kunan](1):  Quello è il mio tesoro. Significa\ntutto per me.
+[Kunan](2):  What?[K] You say you\'re a human?
+[Kunan](1):  Das war mein Schatz.\nEr bedeutet mir alles.
+[Kunan](1):  Cosa?[K] Tu saresti un essere\numano?
+[Kunan](1):  C\'est mon trésor. Pour moi,\nil a une valeur inestimable.
+[Kunan](1):  Quoi?[K] Tu dis que tu es\nun être humain?
+[Kunan](1):  That\'s my personal treasure.\nIt means everything to me.
+[Kunan](3):  No recuerdo haberte visto\npor aquí.
+[Kunan](3):  ¿Qué... qué hago?
+[Kunan](3):  Ich glaube nicht, dass ich dich\nschon mal gesehen habe.
+[Kunan](3):  Cosa faccio adesso?
+[Kunan](3):  I don\'t think I\'ve seen you\naround before.
+[Kunan](3):  W-was soll ich nur tun?
+[Kunan](2):  Non mi sembra di conoscerti.
+[Kunan](3):  Que... que dois-je faire?
+[Kunan](2):  Je crois que c\'est la première\nfois que je te vois dans le coin!
+[Kunan](3):  Wh-what should I do?
+[Kunan](1):  Nunca te había visto por aquí.
+[Kunan](2):  ¿Qué... qué hago?
+[Kunan](1):  Dein Gesicht kommt mir nicht\nbekannt vor.
+[Kunan](2):  Cosa faccio adesso?
+[Kunan](1):  I don\'t think I\'ve seen your face\naround here.
+[Kunan](2):  W-was soll ich nur tun?
+[Kunan](3):  E tu chi sei?
+[Kunan](2):  Que... que dois-je faire?
+[Kunan](3):  Et toi, comment tu t\'appelles?
+[Kunan](2):  Wh-what should I do?
+[Kunan](2):  ¿Quién eres tú?
+[Kunan](1):  Y ahora... ¿qué hago?
+[Kunan](2):  Und wer bist du?
+[Kunan](1):  Cosa faccio adesso?
+[Kunan](2):  And who are you?
+[Kunan](1):  W-was soll ich nur tun?
+[Kunan](1):  E tu chi sei?
+[Kunan](1):  Que... que dois-je faire?
+[Kunan](1):  Et toi, comment tu t\'appelles?
+[Kunan](1):  Wh-what should I do?
+[Kunan](3):  Bueno, yo soy [partner].[K]\n¡Encantada de conocerte!
+[Kunan](3):  Oh...[K] no...
+[Kunan](3):  Ich bin jedenfalls [partner].[K]\nFreut mich sehr, dich kennenzulernen!
+[Kunan](3):  ...[K] Ohhh...
+[Kunan](3):  Anyway, I\'m [partner].[K]\nHappy to meet you!
+[Kunan](3):  ...[K]Ohhh...
+[Kunan](2):  Ad ogni modo, io sono\n[partner].[K] Piacere di conoscerti!
+[Kunan](3):  ...[K] Oooh...
+[Kunan](2):  En tout cas, moi je m\'appelle\n[partner].[K]\nRavi de faire ta connaissance!
+[Kunan](3):  ...[K]Ohhh...
+[Kunan](1):  Bueno, yo soy [partner].[K]\n¡Encantado de conocerte!
+[Kunan](2):  Oh...[K] no...
+[Kunan](1):  Ich bin jedenfalls [partner].[K]\nFreut mich, dich kennenzulernen!
+[Kunan](2):  ...[K] Ohhh...
+[Kunan](1):  Anyway, I\'m [partner].[K]\nGlad to meet you!
+[Kunan](2):  ...[K]Ohhh...
+[Kunan](3):  Vengo sempre qui quando\nmi sento giù.
+[Kunan](2):  ...[K] Oooh...
+[Kunan](3):  C\'est ici que je viens quand\nje m\'apitoie sur mon sort.
+[Kunan](2):  ...[K]Ohhh...
+[Kunan](2):  Siempre acabo viniendo a este\nlugar cuando siento lástima de mí mismo.
+[Kunan](1):  Oh...[K] no...
+[Kunan](2):  Hier komme ich immer her,\nwenn ich mich elend fühle.
+[Kunan](1):  ...[K] Ohhh...
+[Kunan](2):  This is where I always come\nwhen I\'m feeling sorry for myself.
+[Kunan](1):  ...[K]Ohhh...
+[Kunan](3):  Come hai fatto a finire qui\nin queste condizioni?
+[Kunan](1):  ...[K] Oooh...
+[Kunan](3):  Tu te rappelles comment tu as\néchoué ici, sans connaissance?
+[Kunan](1):  ...[K]Ohhh...
+[Kunan](1):  ¿Qué ha ocurrido?[K] ¿Estás bien?
+[Kunan](2):  Hey! Warum hast du das\ngemacht?!?
+[Yugure](1): (¡Uf!)
+[Yugure](1): (I... I was unconscious?[K] What happened...?)
+[Yugure](2): (Il mio nome?[K] Giusto, il mio nome è...)
+[Yugure](2): (Me... ¿Me he desmayado?[K]\n¿Qué ha ocurrido...?)
+[Yugure](2): (Mein Name?[K] Ach ja... Mein Name ist...)
+[Yugure](1): (Wo... Wo bin ich?)
+[Yugure](2): (Mon nom?[K] Ah oui, je m\'appelle...)
+[Yugure](1): (È... È vero!)
+[Yugure](2): (My name?[K] That\'s right, my name is...)
+[Yugure](2): (I... I was unconscious?[K] What happened...?)
+[Yugure](1): (¿Mi nombre?[K] Eso es. Me llamo...)
+[Yugure](2): (Mais où... où suis-je...?)
+[Yugure](1): (Il mio nome?[K] Giusto, il mio nome è...)
+[Yugure](2): (Ugh...)
+[Yugure](1): (Mein Name?[K] Ach ja... Mein Name ist...)
+[Yugure](1): (...Ugh...)
+[Yugure](1): (Mon nom?[K] Ah oui, je m\'appelle...)
+[Yugure](1): (C\'est... c\'est vrai!)
+[Yugure](1): (My name?[K] That\'s right, my name is...)
+[Yugure](2): (Ich... Ich war ohnmächtig?[K]\nWas ist passiert?)
+[Yugure](2): (¿Cómo ha podido ocurrir?[K] No recuerdo nada.)
+[Yugure](1): (Ich... Ich war ohnmächtig?[K]\nWas ist passiert?)
+[Yugure](2): (Ma come è successo?[K] Non mi ricordo \nniente...)
+[Yugure](2): (Dove... Dove mi trovo...?)
+[Yugure](2): (...Aber wie ist das geschehen?[K] Ich kann mich\nan nichts erinnern...)
+[Yugure](1): (¿Dónde...? ¿Dónde estoy?)
+[Yugure](2): (... Que s\'est-il passé?[K] Je ne me souviens\nde rien...)
+[Yugure](1): (Where...where am I...?)
+[Yugure](2): (...But how did this happen?[K] I don\'t remember\nanything...)
+[Yugure](2): (... Aaah...)
+[Yugure](1): (¿Cómo ha podido ocurrir?[K] No recuerdo nada.)
+[Yugure](1): (...Umpf...)
+[Yugure](1): (Ma come è successo?[K] Non mi ricordo \nniente...)
+[Yugure](1): (Es... ¡es cierto!)
+[Yugure](1): (...Aber wie ist das geschehen?[K] Ich kann mich\nan nichts erinnern...)
+[Yugure](1): (Es ist... Es ist wahr!)
+[Yugure](1): (... Que s\'est-il passé?[K] Je ne me souviens\nde rien...)
+[Yugure](1): (It\'s...it\'s true!)
+[Yugure](1): (...But how did this happen?[K] I don\'t remember\nanything...)
+[Yugure](2): (Avevo... Avevo perso conoscenza?[K]\nCosa è successo...?)
+[Yugure](2): (¡Me he convertido en una [c_kind:PLAYER]!)
+[Yugure](2): (Je... j\'ai perdu connaissance?[K] Mais qu\'est-ce\nqui a pu se passer...?)
+[Yugure](2): (Mi sono trasformata in un Pokémon, un\nesemplare di [c_kind:PLAYER]!)
+[Yugure](2): (¿Mi nombre?[K] Eso es. Me llamo...)
+[Yugure](1): (Me... ¿Me he desmayado?[K]\n¿Qué ha ocurrido...?)
+[Yugure](2): (Ich bin zu einem [c_kind:PLAYER] geworden!)
+[Yugure](1): (Je... j\'ai perdu connaissance?[K] Mais qu\'est-ce\nqui a pu se passer...?)
+[Yugure](2): (Je me suis changée en [c_kind:PLAYER]!)
+[Yugure](2): (¿Dónde...? ¿Dónde estoy?)
+[Yugure](2): (I\'ve turned into an [c_kind:PLAYER]!)
+[Yugure](2): (Wo... Wo bin ich?)
+[Yugure](1): (¡Me he convertido en un [c_kind:PLAYER]!)
+[Yugure](2): (Where...where am I...?)
+[Yugure](1): (Sono diventato un Pokémon, un esemplare di\n[c_kind:PLAYER]!)
+[Yugure](1): (Dove... Dove mi trovo...?)
+[Yugure](1): (Ich bin zu einem [c_kind:PLAYER] geworden!)
+[Yugure](1): (Mais où... où suis-je...?)
+[Yugure](1): (Je me suis changé en [c_kind:PLAYER]!)
+[Yugure](2): (¡Uf!)
+[Yugure](1): (I\'ve turned into an [c_kind:PLAYER]!)
+[Yugure](2): (...Umpf...)
+[Yugure](2): (Es... ¡es cierto!)
+[Yugure](2): (...Ugh...)
+[Yugure](2): (È... È vero!)
+[Yugure](1): (Ugh...)
+[Yugure](2): (Es ist... Es ist wahr!)
+[Yugure](1): (... Aaah...)
+[Yugure](2): (C\'est... c\'est vrai!)
+[Yugure](2): (It\'s...it\'s true!)
+[Yugure](1): (Avevo... Avevo perso conoscenza?[K]\nCosa è successo...?)
+[Zubat]:  Volevamo azzuffarci un po\' con\nte! Non hai il coraggio di affrontarci, vero?
+[Zubat]:  Questo è tuo, giusto?
+[Zubat]:  Nos vemos, gallina.[K]\nJue, jue, jue.
+[Zubat]:  ¡Jue, jue, jue! ¿No te lo imaginas?
+[Zubat]:  Ci vediamo, pusillanime.[K]\nEh-eh-eh.
+[Zubat]:  That\'s yours, isn\'t it?
+[Zubat]:  Bis irgendwann, du Memme.[K]\nHehehe.
+[Zubat]:  On veut juste vous embêter!\nVous faites pas le poids, de toute façon!
+[Zubat]:  A bientôt, poule mouillée.[K]\nHin hin hin!
+[Zubat]:  Hehehe! Kommst du nicht\nselbst drauf?
+[Zubat]:  See you around, chicken.[K]\nHeh-heh-heh.
+[Zubat]:  C\'est à toi, ça, non?
+[Zubat]:  Lo siento, colega.\n¡Nos lo quedamos!
+[Zubat]:  ¡Porque queríamos meternos contigo!\nY no vas a hacer nada al respecto, ¿verdad?
+[Zubat]:  Questo ce lo prendiamo noi!
+[Zubat]:  Wir wollen Ärger machen!\nDu hast wohl nicht den Mumm dazu, dich zu\nwehren?
+[Zubat]:  Sorry, du Zwerg. Aber das\nnehmen wir!
+[Zubat]:  We wanted to mess with you!\nCan\'t face up to us, can you?!
+[Zubat]:  Désolé, mon chou. On va te\nle prendre!
+[Zubat]:  Eh-eh-eh! Non ci arrivi?
+[Zubat]:  Sorry, kiddo. We\'ll take that!
+[Zubat]:  Heh-heh-heh! Can\'t figure it out?
+[Zubat]:  Hin hin hin! T\'as pas une\npetite idée?
+[Zubat]:  Esto es tuyo, ¿no?
+[Zubat]:  Das gehört dir, oder?
+[case_menu]: No
+[case_menu]: Que... que faire?
+[case_menu]: Cosa faccio adesso?
+[case_menu]: ¡Lo... Lo tengo!
+[case_menu]: W-was soll ich machen?
+[case_menu]: Sì
+[case_menu]: Que... que faire?
+[case_menu]: Ma non puoi...
+[case_menu]: Wh-what should I do?
+[case_menu]: G-got it!
+[case_menu]: ¡De... De acuerdo!
+[case_menu]: Nein
+[case_menu]: O-OK!
+[case_menu]: No
+[case_menu]: O-okay!
+[case_menu]: Oui
+[case_menu]: Très... très bien!
+[case_menu]: Mais tu ne peux pas juste...
+[case_menu]: O-OK!
+[case_menu]: K-klaro!
+[case_menu]: ¡Lo... Lo tengo!
+[case_menu]: Cosa faccio adesso?
+[case_menu]: V-Va bene!
+[case_menu]: No
+[case_menu]: V-verstanden!
+[case_menu]: No
+[case_menu]: Je... je comprends!
+[case_menu]: Oui
+[case_menu]: G-got it!
+[case_menu]: Nein
+[case_menu]: Pero sé que era un ser humano.
+[case_menu]: Sì
+[case_menu]: Ma io ero un essere umano...
+[case_menu]: Pero no puedes... 
+[case_menu]: Nur war ich sicher ein Mensch...
+[case_menu]: Aber du kannst doch nicht...
+[case_menu]: Mais j\'étais un être humain...
+[case_menu]: But you can\'t just... 
+[case_menu]: But I\'m sure I was a human...
+[case_menu]: V-Va bene!
+[case_menu]: ¡Lo... Lo tengo!
+[case_menu]: Je... je comprends!
+[case_menu]: V-Va bene!
+[case_menu]: ¿Qué... Qué debería hacer?
+[case_menu]: V-verstanden!
+[case_menu]: W-was soll ich machen?
+[case_menu]: Je... je comprends!
+[case_menu]: Wh-what should I do?
+[case_menu]: G-got it!
+[case_menu]: No
+[case_menu]: Pero no recuerdo...
+[case_menu]: Non
+[case_menu]: Ma io ho perso la memoria...
+[case_menu]: Sí
+[case_menu]: Ich erinnere mich nicht...
+[case_menu]: Ja
+[case_menu]: Mais je n\'ai aucun souvenir...
+[case_menu]: Yes
+[case_menu]: But I have no memory...
+[case_menu]: No
+[case_menu]: ¡Lo... Lo tengo!
+[case_menu]: Non
+[case_menu]: V-Va bene!
+[case_menu]: Sí
+[case_menu]: S-schon klar!
+[case_menu]: Ja
+[case_menu]: Je... je comprends!
+[case_menu]: ¿Qué... Qué debería hacer?
+[case_menu]: Yes
+[case_menu]: G-got it!
+
+==> tests/inputs/m04a0101.txt <==
+[Diglett]:  But today, my dad gave me his\nduty of updating the boards.
+[Diglett]:  Thank you, [CS:N]Loudred[CR].
+[Diglett]:  Y alguien debe ocupar mi puesto.
+[Diglett]:  Gracias, [CS:N]Loudred[CR].
+[Diglett]:  Sarebbe fantastico se qualcuno\npotesse prendere il mio posto.
+[Diglett]:  Et c\'est pour ça que vous êtes\nici. S\'il vous plaît, travaillez bien.[K] A plus!
+[Diglett]:  Es wäre toll, wenn heute jemand\nden Wachdienst für mich übernehmen könnte.
+[Diglett]:  Mi spiace. Di solito lo faccio io.
+[Diglett]:  Ce serait super si quelqu\'un\npouvait s\'occuper du poste de garde\naujourd\'hui.
+[Diglett]:  Danke, [CS:N]Krakeelo[CR].
+[Diglett]:  It would be great if someone\ncould take over my sentry duty for today.
+[Diglett]:  Ed ecco perché siete qui.\nVi prego di fare un buon lavoro.[K] Ciao!
+[Diglett]:  Désolé. Normalement, c\'est moi\nla sentinelle.
+[Diglett]:  Mais aujourd\'hui, je dois\naccomplir les tâches de mon père,\nc\'est-à-dire mettre les tableaux à jour.
+[Diglett]:  Y por eso no puedo quedarme de\nguardia.
+[Diglett]:  Lo siento. Normalmente soy yo\nquien se ocupa de esto.
+[Diglett]:  Per questo non posso stare di \nguardia.
+[Diglett]:  Tut mir leid. Normalerweise ist\nder Wachdienst meine Aufgabe.
+[Diglett]:  Sorry. I\'m usually the one to do\nsentry duty.
+[Diglett]:  Grazie, [CS:N]Loudred[CR].
+[Diglett]:  Et c\'est pour ça que je ne peux\npas être à mon poste.
+[Diglett]:  Merci, [CS:N]Ramboum[CR].
+[Diglett]:  That\'s why I can\'t man my post.
+[Diglett]:  Por eso estáis aquí. Espero\nque hagáis un buen trabajo.[K] ¡Hasta luego!
+[Diglett]:  Pero mi padre me ha pedido\nque me encargue hoy de poner al día\nlos tablones.
+[Diglett]:  Und darum seid ihr hier.\nBitte macht meinen Job gut.[K] Tschüss!
+[Diglett]:  Ma oggi mio padre mi ha chiesto\ndi aggiornare le Bacheche al suo posto.
+[Diglett]:  And that\'s why you\'re here.\nPlease do a good job for me.[K] Bye!
+[Diglett]:  Aber heute hat mein Vater mir\naufgetragen, die Infobretter zu aktualisieren.
+[Diglett]:  Also kann ich nicht auf meinem\nPosten sein.
+[Kunan](1):  Ugh... My head hurts...
+[Kunan](1):  Qu\'est-ce qu\'on doit faire?
+[Kunan](3):  Mein Fußabdruck?[K] Was?
+[Kunan](2):  ¿Y qué tenemos que hacer?
+[Kunan](3):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+[Kunan](2):  Ahi... Che mal di testa...
+[Kunan](3):  My footprint?[K] What do you...?
+[Kunan](2):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+[Kunan](2):  ¿Mi huella?[K] ¿Qué quieres...?
+[Kunan](2):  What are we supposed to do?
+[Kunan](2):  La mia zampa?[K] Cosa...?
+[Kunan](3):  Au, mir tut der Kopf weh.
+[Kunan](2):  Mein Fußabdruck?[K] Was?
+[Kunan](1):  Ay... Tengo la cabeza como un\nbombo...
+[Kunan](2):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+[Kunan](3):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+[Kunan](2):  My footprint?[K] What do you...?
+[Kunan](3):  Qu\'est-ce qu\'on doit faire?
+[Kunan](1):  ¿Mi huella?[K] ¿Qué quieres...?
+[Kunan](2):  Was sollen wir überhaupt tun?
+[Kunan](1):  La mia zampa?[K] Cosa...?
+[Kunan](1):  Cosa dobbiamo fare?
+[Kunan](1):  Mein Fußabdruck?[K] Was?
+[Kunan](3):  Uf... Mi cabeza...
+[Kunan](1):  Mes empreintes?[K] Qu\'est-ce que\ntu...?
+[Kunan](3):  Ow... My head hurts...
+[Kunan](1):  My footprint?[K] What do you...?
+[Kunan](2):  Argh... Bonjour les maux de\ntête...
+[Kunan](1):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+[Kunan](3):  ¿Mi huella?[K] ¿Qué quieres...?
+[Kunan](1):  Eh?! Cos\'ha detto?\nPerché dobbiamo farlo noi?
+[Kunan](3):  Eh?! Cosa voleva dire?\nPerché dobbiamo farlo noi?
+[Kunan](1):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+[Kunan](2):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+[Kunan](1):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+[Kunan](3):  Was sollen wir eigentlich tun?
+[Kunan](1):  Huh?! I didn\'t follow that at all!\nWhy are we involved?
+[Kunan](3):  What are we expected to do,\nanyway?
+[Kunan](3):  ¿De guardia?
+[Kunan](2):  Cosa dobbiamo fare?
+[Kunan](3):  Turno di guardia?
+[Kunan](2):  Qu\'est-ce qu\'on doit faire?
+[Kunan](3):  Wachdienst?
+[Kunan](1):  ¿Y qué tenemos que hacer?
+[Kunan](3):  Au poste de garde?
+[Kunan](1):  Was sollen wir überhaupt tun?
+[Kunan](3):  Sentry duty?
+[Kunan](1):  What do you expect us to do,\nanyway?
+[Kunan](2):  ¿De guardia?
+[Kunan](3):  Ahi... Mi gira la testa...
+[Kunan](2):  Turno di guardia?
+[Kunan](3):  Argh... Bonjour les maux de\ntête...
+[Kunan](2):  Wachdienst?
+[Kunan](2):  Uf... Qué dolor de cabeza...
+[Kunan](2):  Au poste de garde?
+[Kunan](2):  Au, mir tut der Kopf weh.
+[Kunan](2):  Sentry duty?
+[Kunan](2):  Ow... My head is pounding...
+[Kunan](1):  ¿De guardia?
+[Kunan](1):  Ugh... Mi fa male la testa...
+[Kunan](1):  Turno di guardia?
+[Kunan](1):  Argh... Bonjour les maux de\ntête...
+[Kunan](1):  Wachdienst?
+[Kunan](3):  ¿Eh? ¡No me he enterado\nde nada! ¿Por qué nos ha tenido que tocar?
+[Kunan](1):  Au poste de garde?
+[Kunan](3):  Ähem?!? Ich habe das nicht\nganz mitbekommen! Warum hast du uns geholt?
+[Kunan](1):  Sentry duty?
+[Kunan](3):  Huh?! I didn\'t follow that at all!\nHow did we get involved in this?
+[Kunan](2):  Huh?! I didn\'t follow that at all!\nWhy are we involved in this?
+[Kunan](2):  Eh?! Non sono riuscito a seguire\nquello che diceva! Perché dobbiamo farlo noi?
+[Kunan](3):  ¿Y qué tenemos que hacer?
+[Kunan](3):  La mia zampa?[K] Cosa...?
+[Kunan](2):  Euh... j\'ai pas tout suivi!\nQu\'est-ce qu\'on fait là?
+[Kunan](3):  Cosa dobbiamo fare?
+[Kunan](1):  Argh, mein Kopf tut weh.
+[Loudred]:  Halt die KLAPPE!
+[Loudred]:  [CS:N]Taupiqueur[CR], les voilà!
+[Loudred]:  La prima volta che avete fatto \nvisita alla Gilda le vostre zampe sono state\nesaminate, giusto?
+[Loudred]:  ¡Hoy os toca guardia!
+[Loudred]:  Als ihr zum ersten Mal kamt,\nwurden eure Fußabdrücke überprüft, oder?
+[Loudred]:  EHI, voi due!
+[Loudred]:  Lors de votre première visite,\non a identifié vos empreintes, pas vrai?
+[Loudred]:  ... E così è DECISO.
+[Loudred]:  When you first came, you had\nyour footprint evaluated, right?
+[Loudred]:  You two are doing sentry\nduty today!
+[Loudred]:  Así que ponemos a un vigía bajo\nla puerta para comprobar quién quiere entrar.
+[Loudred]:  Wir brauchen heute eure Hilfe!
+[Loudred]:  Quindi c\'è una guardia sotto \nla Gilda per controllare i Pokémon che\nvengono qui.
+[Loudred]:  ¡Cerrad el pico!
+[Loudred]:  Also ist unter dem Gildeneingang\neine Wache stationiert, die besuchende\nPokémon überprüft.
+[Loudred]:  Shut your YAP!
+[Loudred]:  On a donc installé un système\nde sentinelle sous l\'entrée de la Guilde\npour identifier les visiteurs.
+[Loudred]:  ... Et c\'est TOUT.
+[Loudred]:  So we station a sentry below the\nguild entrance to evaluate Pokémon visitors.
+[Loudred]:  Ihr beide übernehmt heute den\nWachdienst!
+[Loudred]:  No podemos permitir que entren\nindividuos sospechosos en el [CS:N]Pokégremio[CR].
+[Loudred]:  [CS:N]Diglett[CR], ecco qui!
+[Loudred]:  Dobbiamo evitare che Pokémon\nsospetti entrino alla Gilda.
+[Loudred]:  ¡Hoy necesitamos que nos\nayudéis con una cosa!
+[Loudred]:  Wir müssen vermeiden, dass\nzwielichtige Gestalten in die Gilde kommen.
+[Loudred]:  We need your help with\nsomething today!
+[Loudred]:  Il ne faut pas que des individus\nsuspects puissent entrer à la Guilde.
+[Loudred]:  HEP LA, vous deux!
+[Loudred]:  We can\'t have suspicious\ncharacters coming into the guild.
+[Loudred]:  Chiudi il BECCO!
+[Loudred]:  Habéis oído bien.[K] De guardia.
+[Loudred]:  On se TAIT!
+[Loudred]:  Avete sentito bene.[K] Dovete\nfare la guardia.
+[Loudred]:  Pues... No hay más que hablar.
+[Loudred]:  Richtig gehört.[K] Wachdienst.
+[Loudred]:  Das ist ALLES!
+[Loudred]:  Vous avez bien entendu.[K]\nAu poste de garde.
+[Loudred]:  ...And that\'s THAT.
+[Loudred]:  You heard right.[K] Sentry duty.
+[Loudred]:  Voi due siete di guardia oggi!
+[Loudred]:  Bajad por aquí y vigilad.\n¡Estáis de guardia!
+[Loudred]:  Aujourd\'hui, vous allez être\nde garde à l\'entrée!
+[Loudred]:  Dovete scendere in questo buco\nper fare il turno di guardia!
+[Loudred]:  ¡[CS:N]Diglett[CR], aquí están!
+[Loudred]:  Klettert dieses Loch hinunter und\nhaltet Wache. Ihr habt Wachdienst!
+[Loudred]:  [CS:N]Digda[CR], hier sind sie!
+[Loudred]:  Descendez dans ce trou et\nmontez la garde. Aujourd\'hui, vous êtes\nau poste de garde!
+[Loudred]:  [CS:N]Diglett[CR], I brought them!
+[Loudred]:  Climb down this hole and\nstand guard. You\'re on sentry duty!
+[Loudred]:  Oggi ci serve il vostro aiuto\nper una cosetta!
+[Loudred]:  ¡BASTA DE GIMOTEAR!\n¡ID A CUMPLIR CON VUESTRO DEBER!
+[Loudred]:  On a besoin de votre aide\naujourd\'hui!
+[Loudred]:  BASTA LAMENTARSI!\nAL LAVORO!
+[Loudred]:  ¡EH! ¡PAREJA!
+[Loudred]:  KEIN GEMURRE MEHR!\nGEHT UND TUT EURE PFLICHT!
+[Loudred]:  HEY, ihr zwei!
+[Loudred]:  FINI LES RONCHONNEMENTS!\nA VOS POSTES!
+[Loudred]:  Cuando llegaste se comprobó\ntu huella, ¿no?
+[Loudred]:  HEY, you two!
+[Loudred]:  NO MORE BELLYACHING!\nGO DO YOUR DUTY!
+
+==> tests/inputs/m12a0102.txt <==
+[Azurill]:  Really?!
+[Azurill]:  I said I would go too!
+[Azurill]:  We need your help finding a\n[CS:Z]Water Float[CR].
+[Azurill]:  [partner] and [hero]!\nHi there!
+[Kunan](3):  It\'s a ransom note! Isn\'t it?!
+[Kunan](2):  \"...is now in our possession.\"
+[Kunan](1):  Let\'s go, [hero]! Onward\nto [CS:P]Amp Plains[CR]!
+[Kunan](1):  \"...I bet you can\'t even reach us!\nChaw-haw-haw!\"
+[Kunan](3):  Don\'t worry, though.[K] We\'ll get it\nback for you. We promise!
+[Kunan](2):  Oh! It\'s you little guys...
+[Kunan](2):  Don\'t worry, though.[K] We\'ll get it\nback for you. It\'s a promise!
+[Kunan](2):  \"Can\'t handle it? Go cry to your\nbig-shot friends! Chaw-haw-haw!\"[K]\nHey! This note! It\'s a...
+[Kunan](1):  Don\'t worry, though.[K] We\'ll get it\nback for you. Sure thing!
+[Kunan](3):  \"Just try to take it from us!\nWe\'ll wait in the deepest part of [CS:P]Amp Plains[CR].\"
+[Kunan](3):  You should see your faces!\nAll that crying and laughing... C\'mon!
+[Kunan](3):  This scrap of paper?
+[Kunan](2):  You should see your faces!\nAll that crying and laughing... C\'mon!
+[Kunan](2):  You little guys! Promise me you\nwon\'t go yourself.
+[Kunan](1):  You should see your faces!\nAll that crying and laughing... C\'mon!
+[Kunan](1):  It\'s a ransom note! Isn\'t it?!
+[Kunan](3):  A [CS:Z]Water Float[CR]?
+[Kunan](3):  Let\'s go, [hero]! Let\'s get\nto [CS:P]Amp Plains[CR]!
+[Kunan](3):  Yep![K] So no more tears!
+[Kunan](2):  \"But knowing how weak and puny\nyou are...\"
+[Kunan](2):  Yep![K] So no more tears!
+[Kunan](1):  \"Just try to take it from us!\nWe\'ll wait in the deepest part of [CS:P]Amp Plains[CR].\"
+[Kunan](1):  Yup![K] So no more crying!
+[Kunan](2):  Let\'s go, [hero]! We\'re\noff to [CS:P]Amp Plains[CR]!
+[Kunan](3):  Let\'s see. What does it say?[K]\n\"The [CS:Z]Water Float[CR] from the beach...\"
+[Kunan](2):  A [CS:Z]Water Float[CR]?
+[Kunan](1):  This scrap of paper?
+[Kunan](3):  We\'ll go get the [CS:Z]Water Float[CR]\nback for you.
+[Kunan](2):  Weren\'t you looking for that\nearlier?[K] A [CS:Z]Water Float[CR]?
+[Kunan](2):  We\'ll go get the [CS:Z]Water Float[CR]\nback for you.
+[Kunan](1):  You little guys shouldn\'t even\nthink about going!
+[Kunan](1):  We\'ll go and get the [CS:Z]Water Float[CR]\nback for you.
+[Kunan](2):  It\'s a ransom note! Isn\'t it?!
+[Kunan](3):  No problem! I know what to do!
+[Kunan](3):  \"Can\'t handle it? Go cry to your\nbig-shot friends! Chaw-haw-haw!\"[K]\nHey! This note! It\'s a...
+[Kunan](2):  No problem! I know what to do!
+[Kunan](1):  \"Can\'t handle it? Go cry to your\nbig-shot friends! Chaw-haw-haw!\"[K]\nHey! This note! It\'s a...
+[Kunan](1):  No problem! I know what to do!
+[Kunan](2):  \"...I bet you can\'t even reach us!\nChaw-haw-haw!\"
+[Kunan](1):  A [CS:Z]Water Float[CR]?
+[Kunan](3):  \"But knowing how weak and puny\nyou are...\"
+[Kunan](1):  Huh? It\'s you little guys...
+[Kunan](1):  \"But knowing how weak and puny\nyou are...\"
+[Kunan](3):  Help?
+[Kunan](2):  \"Just try to take it from us!\nWe\'ll wait in the deepest part of [CS:P]Amp Plains[CR].\"
+[Kunan](2):  Help?
+[Kunan](3):  \"...is now in our possession.\"
+[Kunan](1):  Help?
+[Kunan](1):  \"...is now in our possession.\"
+[Kunan](1):  Let\'s see. What does it say?[K]\n\"The [CS:Z]Water Float[CR] from the beach...\"
+[Kunan](2):  Let\'s see. What does it say?[K]\n\"The [CS:Z]Water Float[CR] from the beach...\"
+[Kunan](1):  We heard we have visitors.\nAre you our visitors?
+[Kunan](2):  There\'s writing on it.
+[Kunan](3):  There\'s writing on it.
+[Kunan](3):  We heard we have visitors. Are\nyou maybe those visitors?
+[Kunan](1):  There\'s writing on it.
+[Kunan](2):  We heard we have visitors.\nAre you our visitors?
+[Kunan](2):  This scrap of paper?
+[Kunan](3):  It\'s probably a trap!
+[Kunan](3):  Hey! It\'s you little guys...
+[Kunan](2):  I suspect a trap.
+[Kunan](3):  Isn\'t that what you were looking\nfor earlier?[K] A [CS:Z]Water Float[CR]?
+[Kunan](1):  It could be a trap.
+[Kunan](1):  You\'ve been searching for your\n[CS:Z]Water Float[CR], right?
+[Kunan](3):  You little guys! Please don\'t even\nthink about going.
+[Kunan](3):  \"...I bet you can\'t even reach us!\nChaw-haw-haw!\"
+[Marill]:  Yep![K] We wanted to ask\nTeam [team:] for help.
+[Marill]:  OK![K] W-we\'re sorry to bother\nyou about this. Thank you!
+[Marill]:  We really want to get it back.
+[Marill]:  You will?!
+[Marill]:  Yep! Someone said one was lying\non the beach. We went there looking for it!
+[Marill]:  I just c-c-can\'t stand how weak\nI am...
+[Marill]:  But I can\'t take [CS:N]Azurill[CR] to a\ndangerous place.
+[Marill]:  I tried going many times. But I\nget knocked out right away...
+[Marill]:  But the [CS:Z]Water Float[CR] is very\nimportant to us.
+[Marill]:  I\'m no match for them.
+[Marill]:  We didn\'t find it. Instead, this is\nwhat we found.
+[Marill]:  But many Electric-type Pokémon\nlive there!
+[Marill]:  Yep!
+[Marill]:  I went to [CS:P]Amp Plains[CR] by myself.
+[Marill]:  It\'s too much for you. I don\'t\nwant you getting into any scary scrapes.
+[message_Mail]: [CN][partner] read the message\n[CN]on the scrap of paper.
