@@ -40,7 +40,7 @@ pub struct Config {
     )]
     pub db_path: PathBuf,
 
-    #[clap(name = "FILES", parse(from_os_str))]
+    #[clap(name = "FILES",  default_value = "-", parse(from_os_str))]
     pub files: Vec<PathBuf>,
 }
 
